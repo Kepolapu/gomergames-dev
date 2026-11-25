@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000002",
+  "title": "Homestead Trails",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "YWPCELRCFSUKEO",
+    "EHDUCKCAOIFGAI",
+    "KMPXROLGMEIOEM",
+    "RTGOEYHROIWSHU",
+    "UCHSNPDLYSFLIL",
+    "TLRDBYHRITLIIE",
+    "DOGHPHVOUAFIDH",
+    "HHAQEFOUMLUMNR",
+    "AEEHFNEABLVQVG",
+    "HFILDTVHNICAHD",
+    "GWAEEBYENOHEKC",
+    "OCSHSLKHFNAQIT",
+    "NAOHICGNYZQIDB",
+    "IHEIILOYRAOBNT",
+    "IEMHDONKEYYTNM",
+    "PECEUIIAIIRDUS"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "CALF",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        14,
+        9
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        15,
+        0
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        0,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOG",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        5,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "GOSLING",
+      "prefix": "GOSLI",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ],
+      "divergence": [
+        6,
+        11
+      ]
+    },
+    {
+      "target": "HORSE",
+      "prefix": "HOR",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        2,
+        4
+      ],
+      "divergence": [
+        1,
+        5
+      ]
+    },
+    {
+      "target": "MULE",
+      "prefix": "MUL",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        7,
+        9
+      ],
+      "divergence": [
+        7,
+        8
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

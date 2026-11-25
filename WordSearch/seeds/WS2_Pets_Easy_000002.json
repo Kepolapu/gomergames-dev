@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000002",
+  "title": "Cozy Corners",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UDJRUHOMLA",
+    "HKGIAKIGUE",
+    "EHNUCBOITW",
+    "DPBEPDBYUS",
+    "GTGLNPNIRN",
+    "EVHNKRYQTA",
+    "HIWIHNNWLK",
+    "OFERRETYEE",
+    "GTARANTULA",
+    "IIDUXKVNQU",
+    "OIHAMSTERH",
+    "OANGELFISH"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GECKO",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

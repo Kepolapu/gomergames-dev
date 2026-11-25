@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000010",
+  "title": "Happy Haven",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "CTLIRHBEOO",
+    "UHOYSNAKEC",
+    "LTIRTHMKMA",
+    "GTPNTFROGN",
+    "NUWYCOHGFA",
+    "HRILHHIOOR",
+    "ATDNRIISYY",
+    "MLFCEAYLEF",
+    "SEDCUABGLI",
+    "THZAYYPBCA",
+    "EVFTIDCIIS",
+    "RHMACAWWGT"
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CANARY",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

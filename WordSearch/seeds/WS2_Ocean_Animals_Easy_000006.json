@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000006",
+  "title": "Abyssal Adventure",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "MDGOSZBNHE",
+    "UVFCLNHOLO",
+    "SIKTOIAAUU",
+    "SSFOKNHICA",
+    "EHDPKWCNLS",
+    "LBLUTIYHRT",
+    "RDESYKIVHI",
+    "JELLYFISHN",
+    "HDTBULHJGG",
+    "XLPENGUINR",
+    "ORCAHQANHA",
+    "SEAHORSEUY"
+  ],
+  "words": [
+    {
+      "word": "BELUGA",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "JELLYFISH",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "ORCA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "WHALE",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        0,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CONCH",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        9,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

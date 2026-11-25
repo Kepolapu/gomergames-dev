@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000006",
+  "title": "Quiet Corner",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "PBVAAWKRETTESO",
+    "OAYUWOHCWOHCPT",
+    "IBIHXIEIIFGMEE",
+    "NOUABULWPYNHBH",
+    "TXAUBMEVKPBFHR",
+    "EEVHMHYSOAEFVG",
+    "RRHICVUMZIATOX",
+    "DKBHGHEFIHGDBS",
+    "HJACKRUSSELLXH",
+    "EXREAKEVCLEVUE",
+    "AHKNEUUYUYCUYL",
+    "ACILMIMBHBDOIT",
+    "LABRADOROORWJI",
+    "NHNDBQLIYKUHPE",
+    "KELPIEYUILYNLG",
+    "UIRRHTAERTLWDS"
+  ],
+  "words": [
+    {
+      "word": "BARK",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "BOXER",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "BULLDOG",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "CHEW",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "CHIHUAHUA",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "GREYHOUND",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "HUSKY",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "JACKRUSSELL",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "KELPIE",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        14,
+        5
+      ]
+    },
+    {
+      "word": "LABRADOR",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "SHELTIE",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "YORKIE",
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        15,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BEAGLE",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "TREAT",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        15,
+        5
+      ]
+    },
+    {
+      "word": "WHIPPET",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        6,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BULLDOG",
+      "prefix": "BUL",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        3,
+        7
+      ]
+    },
+    {
+      "target": "CHOWCHOW",
+      "prefix": "CHOW",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        1,
+        4
+      ],
+      "divergence": [
+        1,
+        3
+      ]
+    },
+    {
+      "target": "KELPIE",
+      "prefix": "KEL",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        11,
+        3
+      ],
+      "divergence": [
+        12,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

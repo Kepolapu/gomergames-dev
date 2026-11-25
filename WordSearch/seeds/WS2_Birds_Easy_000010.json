@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Easy_000010",
+  "title": "Soaring Adventure",
+  "category": "Birds",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "DPONNRDOIE",
+    "CYCDYWOUWF",
+    "EEAGLEUBCO",
+    "PQNTWWEXIK",
+    "HCARDINALN",
+    "EJRSPARROW",
+    "AUYGOYVPEF",
+    "SUAFKONRVA",
+    "AMOAUOUMML",
+    "NMUURILSUC",
+    "TNSEAGULLO",
+    "WIHUASIEUN"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "CARDINAL",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DUCK",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

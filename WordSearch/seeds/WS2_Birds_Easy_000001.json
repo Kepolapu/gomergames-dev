@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Easy_000001",
+  "title": "Feathered Horizons",
+  "category": "Birds",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "IDGIOIIUPO",
+    "LPFODRAVEN",
+    "PYICOUVSLH",
+    "ECPGJSCUIR",
+    "NPGAECEKCO",
+    "GCSKROJUAO",
+    "UITMUANHNS",
+    "IHOIAWKBBT",
+    "NHRYVAUEME",
+    "EIKOCKPRER",
+    "IQUAILHHYT",
+    "NGHEFALCON"
+  ],
+  "words": [
+    {
+      "word": "DUCK",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PARAKEET",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        9,
+        2
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

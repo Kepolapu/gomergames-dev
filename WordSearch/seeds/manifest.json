@@ -1,0 +1,4126 @@
+{
+  "version": 2,
+  "catalogGeneration": "replacement-v1",
+  "seeds": [
+    {
+      "id": "WS2_Birds_Easy_000001",
+      "title": "Feathered Horizons",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000001.json",
+      "contentSha256": "70bf207c1698158577e623317c48922daf7fd84008949e38f3e607d7c51249d8"
+    },
+    {
+      "id": "WS2_Birds_Easy_000002",
+      "title": "Winged Wanderings",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000002.json",
+      "contentSha256": "538fe82f5a9992c3c09a89cb4dabd94f4c555a466bb580424432d01de134e477"
+    },
+    {
+      "id": "WS2_Birds_Easy_000003",
+      "title": "Aerial Passage",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000003.json",
+      "contentSha256": "f7dba2ade89f77fa8a152f26f501a5472f1c49298969fdfac45714aa69a195b4"
+    },
+    {
+      "id": "WS2_Birds_Easy_000004",
+      "title": "Canopy Chorus",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000004.json",
+      "contentSha256": "b9d1609b0db44fe6b158f0651101a05e076361e04d1657bf533fe0ad89eb9bcc"
+    },
+    {
+      "id": "WS2_Birds_Easy_000005",
+      "title": "Morning Flight",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000005.json",
+      "contentSha256": "eacb40f610c3c6b052dedd3f90abc220bf8b50a1215914a2c802eeef36ef400c"
+    },
+    {
+      "id": "WS2_Birds_Easy_000006",
+      "title": "Treetop Trails",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000006.json",
+      "contentSha256": "1707c4ea41e6d5d4323d73bb5d035ac526a68143c2134c9ed2e99436ce02f702"
+    },
+    {
+      "id": "WS2_Birds_Easy_000007",
+      "title": "Cloudland Crossing",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000007.json",
+      "contentSha256": "b21184e1a6041a095b402347c8eea55e48b077b7c9e48dd5b0a7fe6e7a22f5fe"
+    },
+    {
+      "id": "WS2_Birds_Easy_000008",
+      "title": "Garden Melodies",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000008.json",
+      "contentSha256": "5fc90fde82c44040deb4b805a589520f6a39967d1bbc9f5c4c9e4538b8467884"
+    },
+    {
+      "id": "WS2_Birds_Easy_000009",
+      "title": "Migratory Quest",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000009.json",
+      "contentSha256": "0401984302f1eba5d7be91d625eda9e66e21dfbc3c738f0f8006b7a8635e14c6"
+    },
+    {
+      "id": "WS2_Birds_Easy_000010",
+      "title": "Soaring Adventure",
+      "category": "Birds",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Birds_Easy_000010.json",
+      "contentSha256": "40cc68bf25d0fb91c1b864ea93acc2ae1faea5cd1808228d2b71b599bd273f54"
+    },
+    {
+      "id": "WS2_Birds_Medium_000001",
+      "title": "Feathered Horizons",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000001.json",
+      "contentSha256": "3e5ee0c43d8477791df3c19c3c810eb40a854ef050e755d2f7f3f045732c5605",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000002",
+      "title": "Winged Wanderings",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000002.json",
+      "contentSha256": "3316cf3d1248d54014cf668617ae2e78ae471bd78aa7a4b20c93d37c8c8aefb0",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000003",
+      "title": "Aerial Passage",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000003.json",
+      "contentSha256": "5cc4159a0cfcbc5b6e6dd4748e1946ac753f49e478adde63ddb96082d635a12a",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000004",
+      "title": "Canopy Chorus",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000004.json",
+      "contentSha256": "a0f2c8eb65b8041ae4057d4c3e0b87c4fbb7203bf31b59883ead8f53f121997b",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000005",
+      "title": "Morning Flight",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000005.json",
+      "contentSha256": "da1477492a9f6b5ccad8371f954de6786accd4b922725fb2b42c1cbb034dee28",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000006",
+      "title": "Treetop Trails",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000006.json",
+      "contentSha256": "05cd6278c7cfa01710f113e2f904443b2d247cb21a423f392826b4efc85e12f0",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000007",
+      "title": "Cloudland Crossing",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000007.json",
+      "contentSha256": "c6d54ee41ac2ee6c841d4518ae8418f38640457043e32da0f10cefc1ab25b368",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000008",
+      "title": "Garden Melodies",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000008.json",
+      "contentSha256": "a6ca721c3fcc9bee6de4733e3ff5d16f9d802fb9a2097db4753a34c5e9d7d18d",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000009",
+      "title": "Migratory Quest",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000009.json",
+      "contentSha256": "b99edb3f96b001e092f86fb313069d5e94fc7a06a5eff981f684f0d263171c80",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Medium_000010",
+      "title": "Soaring Adventure",
+      "category": "Birds",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Birds_Medium_000010.json",
+      "contentSha256": "7977a035804c178ca8d50f223e271aa49bd581d12c94ac761ddce610527b535b",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000001",
+      "title": "Feathered Horizons",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000001.json",
+      "contentSha256": "1a9444e74439d584c0b004e73794678e7bc1c1b43d5089f63217dc5efc01d2a7",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000002",
+      "title": "Winged Wanderings",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000002.json",
+      "contentSha256": "f95f20078085356ac22e6da5098daa819765c0382fd1518d006138fce1140642",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000003",
+      "title": "Aerial Passage",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000003.json",
+      "contentSha256": "f058a5baf8ef3a17ffb6220551b1526c82323a23d36d4d986043b45a5614edd6",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000004",
+      "title": "Canopy Chorus",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000004.json",
+      "contentSha256": "7029661680efbbb0e5ee86a5bd139337276122fd557196870c10c4f333033f2b",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000005",
+      "title": "Morning Flight",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000005.json",
+      "contentSha256": "56ba54c372f654ac0cbf93942ac42188ac2d51e4b91c96cd86e1bdef2ad91f1f",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000006",
+      "title": "Treetop Trails",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000006.json",
+      "contentSha256": "974a73d3ff59e1e7a680c3087c92dfe72cbcaf0e93c9b70139843d963bc2a1d4",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000007",
+      "title": "Cloudland Crossing",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000007.json",
+      "contentSha256": "5be3ec2003d8c4a35b80bccb5186fd8cce8d7ae2fddd1adf9da89d98db0a5e99",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000008",
+      "title": "Garden Melodies",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000008.json",
+      "contentSha256": "27b234e027a796c83cae56127cf389bbc565886f52d65599e6541eb0046d86de",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000009",
+      "title": "Migratory Quest",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000009.json",
+      "contentSha256": "cd291842f9c844639600199d030ce97bf595e81efd2e23ddae014de18076a914",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Birds_Hard_000010",
+      "title": "Soaring Adventure",
+      "category": "Birds",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Birds_Hard_000010.json",
+      "contentSha256": "1e93d369cd3f31380be1d5cff77d428a98628641f0c370607b9d9a50b012fe77",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Easy_000001",
+      "title": "Riverbound Journey",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000001.json",
+      "contentSha256": "bb1e0e4585a7f8ee3f4d50670af133cb6cc56e5d56469ad1ef986068aa5f84a8"
+    },
+    {
+      "id": "WS2_Fish_Easy_000002",
+      "title": "Underwater Trails",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000002.json",
+      "contentSha256": "114747a6a8e32d3675752c39e27e55b03e855c6035143ec21b631028f8c460dc"
+    },
+    {
+      "id": "WS2_Fish_Easy_000003",
+      "title": "Angling Horizon",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000003.json",
+      "contentSha256": "5a9bca26409810329e38928fc0cad01022a86d2f7019d02a6cd462f53f19e087"
+    },
+    {
+      "id": "WS2_Fish_Easy_000004",
+      "title": "Freshwater Quest",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000004.json",
+      "contentSha256": "a4ad7fbc503d1e4cbd6186fdeb552e5a7cc8efb4867072f95292ad74ea506315"
+    },
+    {
+      "id": "WS2_Fish_Easy_000005",
+      "title": "Coastal Current",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000005.json",
+      "contentSha256": "9ea2305793991888aba9619a786badcffebe45115ca478dcdd3221ca8514d156"
+    },
+    {
+      "id": "WS2_Fish_Easy_000006",
+      "title": "Deepwater Drift",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000006.json",
+      "contentSha256": "ee880b85e19337910747e3bfe47f038046dd36fce6353270060e0bde3d093778"
+    },
+    {
+      "id": "WS2_Fish_Easy_000007",
+      "title": "Tidal Expedition",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000007.json",
+      "contentSha256": "5346b6bdcdb6d9ec7ae938c51ba10f4aadf0d585f4e3edd097c64429ec765a62"
+    },
+    {
+      "id": "WS2_Fish_Easy_000008",
+      "title": "Harbor Voyage",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000008.json",
+      "contentSha256": "906f4bd57679a35d029da50abdfc3a049bfce93497a033933c2d19bc66f9115b"
+    },
+    {
+      "id": "WS2_Fish_Easy_000009",
+      "title": "Bluewater Crossing",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000009.json",
+      "contentSha256": "70094a183228a28e1e4104a69f43582991b26ad3c0b51a2577e20d811bc51985"
+    },
+    {
+      "id": "WS2_Fish_Easy_000010",
+      "title": "Reefside Ramble",
+      "category": "Fish",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Fish_Easy_000010.json",
+      "contentSha256": "1b821c4fde0358254b5aa24df0603b8105107ebfd8403d555061e018ba883dbd"
+    },
+    {
+      "id": "WS2_Fish_Medium_000001",
+      "title": "Riverbound Journey",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000001.json",
+      "contentSha256": "f96d63f912e0dc24ef8e75670a3b2a064f413518391775a00e7e70e89ce5e34a",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000002",
+      "title": "Underwater Trails",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000002.json",
+      "contentSha256": "3b8afc5c297aeaae733a2c826f9494492cd3c4977f011ddd245b5cfbd5004750",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000003",
+      "title": "Angling Horizon",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000003.json",
+      "contentSha256": "aca5a6cbf7073591f5b3af57c0f7b78ab0421dde106d5607f903bdef13dee915",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000004",
+      "title": "Freshwater Quest",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000004.json",
+      "contentSha256": "befb5e03437fe17c4376775ffa2405f0b155f9b7c5dba98c73043697b1f3bab5",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000005",
+      "title": "Coastal Current",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000005.json",
+      "contentSha256": "9e8bf0e22fae335483e95503450708b94353f15b0f28fea7388d7b6111eda254",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000006",
+      "title": "Deepwater Drift",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000006.json",
+      "contentSha256": "36de1d0ebbb3d29b051c264538baa3a9a149a91bcafd5a10e3c5701d8a62be26",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000007",
+      "title": "Tidal Expedition",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000007.json",
+      "contentSha256": "7922fa817f547735b03ca6acb0d1cf4a4c623b5ef130f2b5ef54018497bd008f",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000008",
+      "title": "Harbor Voyage",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000008.json",
+      "contentSha256": "e80bbb6ed80b6ff608ae80aa58ee1112d9ecc3b598ffec078a83e98caa1cc4e7",
+      "trapCount": 2,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000009",
+      "title": "Bluewater Crossing",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000009.json",
+      "contentSha256": "387e90f7dbd1f22df6f571213a3579c671b5ce4d26c4496f4d758642ea19930c",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Medium_000010",
+      "title": "Reefside Ramble",
+      "category": "Fish",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Fish_Medium_000010.json",
+      "contentSha256": "a9617449b22e6fbcaa231b6a0d0ccbab6cb85cf7cc332c0f847b8e3092611619",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000001",
+      "title": "Riverbound Journey",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000001.json",
+      "contentSha256": "e54e65143ee1f43eb7bc05cd1fa4cea9ce1cec46fa2d80e2fdfe31d9eccf544c",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000002",
+      "title": "Underwater Trails",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000002.json",
+      "contentSha256": "2ce2e1110c1b357ab80f7075755012f460f232ebe2be4d8b67647b82c278d6ce",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000003",
+      "title": "Angling Horizon",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000003.json",
+      "contentSha256": "0d4afa0a0376e6f1dc9424eddf1e952b2bcb24e37abb4630965bca4efda3add7",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000004",
+      "title": "Freshwater Quest",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000004.json",
+      "contentSha256": "21d8af81aec7257d56ac42be034434e9073c890164ce929294f73c37f5fe2c31",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000005",
+      "title": "Coastal Current",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000005.json",
+      "contentSha256": "106dcb311612c50b0a15af8e1006fefcae762e48a58ff7820e5266475350e4e6",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000006",
+      "title": "Deepwater Drift",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000006.json",
+      "contentSha256": "b6635b5c00ce7267ce2ca704cb339f66286feff927077d6925f5a1f9864e365e",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000007",
+      "title": "Tidal Expedition",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000007.json",
+      "contentSha256": "fa747b9c66f6f3ff67d6adc375fe1b3054bd9ec454fa7445adb021df53c36729",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000008",
+      "title": "Harbor Voyage",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000008.json",
+      "contentSha256": "4882bccb78a5f79607b959e858b90c91c9b1c4d7364eb1bbe3132967e3872fea",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000009",
+      "title": "Bluewater Crossing",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000009.json",
+      "contentSha256": "6e7200a2c808d8ec85e7faa59fc1f06d9bfdd36738acb6943f1b5575cc7d25e8",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Fish_Hard_000010",
+      "title": "Reefside Ramble",
+      "category": "Fish",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Fish_Hard_000010.json",
+      "contentSha256": "9e4ef9191babd9e0f2edca9fce90c8136a86faf03e62bd4ae54dfb0fae2b2aa7",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000001",
+      "title": "Ocean Odyssey",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000001.json",
+      "contentSha256": "1ee669a0c4d5e9aff4baad2c2ebe8449efd45bd9773087409591f64a970861ce"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000002",
+      "title": "Tidal Wonders",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000002.json",
+      "contentSha256": "f64e106ef9206cd4638dcc4dbf3a12e89a6c2c7d8f6fc36b8c3e85f66a3ddea0"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000003",
+      "title": "Seaside Safari",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000003.json",
+      "contentSha256": "baa44c21054ba98aac24de9fd5143cb135e58eda5ff2c07b67f3a2d73a011dd9"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000004",
+      "title": "Coastal Kingdom",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000004.json",
+      "contentSha256": "17e8e9472cca987ba787613f918b14426510a1ffc4268a1b0cc895f89045f700"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000005",
+      "title": "Marine Marvels",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000005.json",
+      "contentSha256": "02ba20098440c489e520bfe27912166c1c3ea4a0e9f433f08c9c23d303ea5072"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000006",
+      "title": "Abyssal Adventure",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000006.json",
+      "contentSha256": "40500f21a045a2d5e45574a750741bd1b1cbd00ed5f5390e2e0b3feff365603c"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000007",
+      "title": "Shoreline Secrets",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000007.json",
+      "contentSha256": "e68d05fb7aacb0232d6362dd196159c6a34fd4554758e919b0420b4733b66eed"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000008",
+      "title": "Pelagic Passage",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000008.json",
+      "contentSha256": "a0850a4ca13332cb61420a745850411facd570d1784233032cb241f06d8f544a"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000009",
+      "title": "Saltwater Journey",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000009.json",
+      "contentSha256": "b5f902e8a1191ac42a3742554659e7b5be5079230983e78f080c16d7ed5b6afc"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Easy_000010",
+      "title": "Undersea Crossing",
+      "category": "Ocean Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Ocean_Animals_Easy_000010.json",
+      "contentSha256": "e652b006726a6f67d51ff41a967f44fab32f70d35d2d337ada4f13fa169878e9"
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000001",
+      "title": "Ocean Odyssey",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000001.json",
+      "contentSha256": "ea2ee7b9162d1a06937f3e3bac2aa4d8acbd2116a8919bcfcb38c8b9d0eb6406",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000002",
+      "title": "Tidal Wonders",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000002.json",
+      "contentSha256": "33b72b9d69ebec5f1eb68ec8471f8ea116cbe7f575a64b2b89b1f0211ae99327",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000003",
+      "title": "Seaside Safari",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000003.json",
+      "contentSha256": "4e6e41c988fc0f26ed9700c042793597d449fc89e45acdb3313ed6092c6e1820",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000004",
+      "title": "Coastal Kingdom",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000004.json",
+      "contentSha256": "d8a20b764923b8ad3b7082af0ddcb422209c969789da1f3251c740324b608d76",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000005",
+      "title": "Marine Marvels",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000005.json",
+      "contentSha256": "76e553dec4c583bf95eb1873bba5c9f1f29a1a0e192ceb7429518a6edf762c77",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000006",
+      "title": "Abyssal Adventure",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000006.json",
+      "contentSha256": "25caae568f9dae50ff3cc2a692770a4ae4e76540af96cab5582b241fcf618c9b",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000007",
+      "title": "Shoreline Secrets",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000007.json",
+      "contentSha256": "1d47669b29200846e11223c32438e9d645fa56eab252ce22d3d893acc6d17daf",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000008",
+      "title": "Pelagic Passage",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000008.json",
+      "contentSha256": "c725efd6c7117c3cd086d7ecb2f50db7196663ad01cdfbdb1e4f3b0ec579a7bf",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000009",
+      "title": "Saltwater Journey",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000009.json",
+      "contentSha256": "c588eacad0982539c82e1eaad9292fd23abc361daff9218fdc37eb3435451033",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Medium_000010",
+      "title": "Undersea Crossing",
+      "category": "Ocean Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Ocean_Animals_Medium_000010.json",
+      "contentSha256": "157907d5d3886cc7be3c7ba56240b150793a1ae2cbdee4e65c26a4955134295d",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000001",
+      "title": "Ocean Odyssey",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000001.json",
+      "contentSha256": "fe17189d82a449c41f9ea58562bb58579ebacfce081571e140bd2c0b0835b72a",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000002",
+      "title": "Tidal Wonders",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000002.json",
+      "contentSha256": "8f2e41934d28c99690f2a51883fd8697aaddaab7047448e9db61447c791b6854",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000003",
+      "title": "Seaside Safari",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000003.json",
+      "contentSha256": "7c1491df47a0f84e3cbce39f389747679b7fb43ecc1fb463473ad083603a35a4",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000004",
+      "title": "Coastal Kingdom",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000004.json",
+      "contentSha256": "965ee75448e504560a3c4177d71582eaaa359e9f78cd0be4c0e98e7c624376fd",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000005",
+      "title": "Marine Marvels",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000005.json",
+      "contentSha256": "7371832e3b0b2eb3ec6be7710d807fb7a24722b074de1d25dd3266cd6ede3c74",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000006",
+      "title": "Abyssal Adventure",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000006.json",
+      "contentSha256": "a4fdd766e92c12c00c52f2dac8d2eab1e6b0194b5c2b87c450c9c3a8333d675d",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000007",
+      "title": "Shoreline Secrets",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000007.json",
+      "contentSha256": "3ac57926fff78563d14402cc487bf7a7b71929d73df4f3fbcee9c8d0d8eafaa9",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000008",
+      "title": "Pelagic Passage",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000008.json",
+      "contentSha256": "061df312f5cbf243587c3b4d1f926087415d5d9d3874b8c89ff6daf6c00578a6",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000009",
+      "title": "Saltwater Journey",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000009.json",
+      "contentSha256": "a7de460ff25cb3ab3de1af05c1b15b92eec17147ee210021af2cfab764ba8d08",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Ocean_Animals_Hard_000010",
+      "title": "Undersea Crossing",
+      "category": "Ocean Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Ocean_Animals_Hard_000010.json",
+      "contentSha256": "d53c84c105c9793197f79cccfad645ac9821b1c625334981cc7c528aeea6a491",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Easy_000001",
+      "title": "Cosmic Voyage",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000001.json",
+      "contentSha256": "6cd02254918baaaad94f26f227f9869d745e9efbcab0679337b0b402000ec099"
+    },
+    {
+      "id": "WS2_Space_Easy_000002",
+      "title": "Stellar Frontier",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000002.json",
+      "contentSha256": "aff9ac728af980c340b29ee456a10d0a6fd63132c531fcabd437e89622529701"
+    },
+    {
+      "id": "WS2_Space_Easy_000003",
+      "title": "Celestial Passage",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000003.json",
+      "contentSha256": "7eb870cc878125d9fc79353338487c31fcb36cecb5ae37caed90fa9f0d812021"
+    },
+    {
+      "id": "WS2_Space_Easy_000004",
+      "title": "Lunar Expedition",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000004.json",
+      "contentSha256": "939f67a4bde16c9978087e2a87475bc92d829975ebaebd53de56e4d493daac5a"
+    },
+    {
+      "id": "WS2_Space_Easy_000005",
+      "title": "Astral Adventure",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000005.json",
+      "contentSha256": "db39ca81d84913296d3377ec4f50b20feb40ee166ac00b042b563badb412c005"
+    },
+    {
+      "id": "WS2_Space_Easy_000006",
+      "title": "Galactic Quest",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000006.json",
+      "contentSha256": "b4007b776e8453ae2dc735d839857baf539db2e894361734a63ce1a6c2f6f3a1"
+    },
+    {
+      "id": "WS2_Space_Easy_000007",
+      "title": "Voidbound Journey",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000007.json",
+      "contentSha256": "335cda064631d35dde7819bb58f9bf09d57f59f2ce00c8bf2dc6acda35ac28a4"
+    },
+    {
+      "id": "WS2_Space_Easy_000008",
+      "title": "Infinite Horizons",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000008.json",
+      "contentSha256": "0d6134a29c8535b6ae2f201f385581b74638ba18c2e2d432e5f4cb351f56b878"
+    },
+    {
+      "id": "WS2_Space_Easy_000009",
+      "title": "Silent Passage",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000009.json",
+      "contentSha256": "e989ceaf67043fd7fb06f9369a20b9c3618c48c731c65e072b70e61cbba4c1bf"
+    },
+    {
+      "id": "WS2_Space_Easy_000010",
+      "title": "Radiant Crossing",
+      "category": "Space",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Space_Easy_000010.json",
+      "contentSha256": "92e649a34eb81177e5320e04a0d39b9b1f2c79f262e94d9be8399a9ff17c8e34"
+    },
+    {
+      "id": "WS2_Space_Medium_000001",
+      "title": "Cosmic Voyage",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000001.json",
+      "contentSha256": "ce9bccecab0d0d9d76a2a04efcda97ab8014cccb5a006c1f062c8a9475491032",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000002",
+      "title": "Stellar Frontier",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000002.json",
+      "contentSha256": "eadfcd0ac2bb8cfde991a6fc9d21f26a5931bde7804d3e025e707ab71a2fa8e2",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000003",
+      "title": "Celestial Passage",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000003.json",
+      "contentSha256": "b343a55a0b573a628d6c98461ec0070fa0e2c32161fb87077fec161a38e81e6d",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000004",
+      "title": "Lunar Expedition",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000004.json",
+      "contentSha256": "76370fd23c3796bd980586e860fe1310a6b452c18d20b59558f2d00a52d48721",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000005",
+      "title": "Astral Adventure",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000005.json",
+      "contentSha256": "0430148f82d5580811053abf266a28df7d0bacaec749e02f13f8db445b41bb59",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000006",
+      "title": "Galactic Quest",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000006.json",
+      "contentSha256": "3b309459eacc1b128b60c1bb22b4b3ee176b494055ec2699ff61599cee6ebc6b",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000007",
+      "title": "Voidbound Journey",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000007.json",
+      "contentSha256": "e581f91416fffc802678ff3d44419d4af4f742cb8fa7fb9705fa333981fe6357",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000008",
+      "title": "Infinite Horizons",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000008.json",
+      "contentSha256": "4ae5ad30fce37c0ebda490d73cf71cf6b2ff3fa0f9aad5b36b085175e723f914",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000009",
+      "title": "Silent Passage",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000009.json",
+      "contentSha256": "03f7610e3d8653dc5e1ec0c39c652080b41497a8b39b9a6632adbd0eb056ae86",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Medium_000010",
+      "title": "Radiant Crossing",
+      "category": "Space",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Space_Medium_000010.json",
+      "contentSha256": "a73174da6aad8024f295b0d2162178daaab75ab94652a8ed5f99a688f80c24ec",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000001",
+      "title": "Cosmic Voyage",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000001.json",
+      "contentSha256": "672d30c8af6336db27b43757244f8bf1eafa698fa66c9da95d2eecbcd2c15fc6",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000002",
+      "title": "Stellar Frontier",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000002.json",
+      "contentSha256": "51bb0e7265c516c2c8fe1dce3713618d927e39d12b40b8ac50e6eac7f08723fe",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000003",
+      "title": "Celestial Passage",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000003.json",
+      "contentSha256": "8da592f91486f1a5280fc9caf05569f2c5bea41dccd43a834930d02ce29ed390",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000004",
+      "title": "Lunar Expedition",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000004.json",
+      "contentSha256": "dfab1d697d3e7e39d6e611a1b73a71ffd1e7b456436116165f80d514eaa24bb6",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000005",
+      "title": "Astral Adventure",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000005.json",
+      "contentSha256": "f8dd2c44ab7b57dfc00535014cfdde01cfabb333e618b42a2c2ec673e52be079",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000006",
+      "title": "Galactic Quest",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000006.json",
+      "contentSha256": "eeabdc44337ce1e0316df7dd3ab7118f8f41bcad07c0b885629a46fa177bc93c",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000007",
+      "title": "Voidbound Journey",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000007.json",
+      "contentSha256": "50ff855891b64d87c2939be82ac78624b405cc081f30a025217fd9d4c1e86dbd",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000008",
+      "title": "Infinite Horizons",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000008.json",
+      "contentSha256": "39cd60cc29ca28487d995436a4caf6fe5cae89bdd40dd6e8ebaee4413e618e3c",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000009",
+      "title": "Silent Passage",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000009.json",
+      "contentSha256": "d4b70874a7e63571d23f137c2392731e5b39ec1a046e264212aad3ef2abb33e3",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Space_Hard_000010",
+      "title": "Radiant Crossing",
+      "category": "Space",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Space_Hard_000010.json",
+      "contentSha256": "eba2f785c869a2c6abe759953e06e70ff1b172059da95c576360ee79d8ca92fd",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000001",
+      "title": "Untamed Trails",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000001.json",
+      "contentSha256": "4684bccdff26831ba2958717a743ec3ce84025fc6b88434e3ca0b064a26e10ef"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000002",
+      "title": "Woodland Wander",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000002.json",
+      "contentSha256": "ecf971e37a337d58f3285b7de5dd5fbe277e770a8469225bf0294e59db1ae2e0"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000003",
+      "title": "Forest Frontier",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000003.json",
+      "contentSha256": "85875ffd6214be1aeb97b5771365e4393cc437555b8a37e16ec11e3eb2dc54ab"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000004",
+      "title": "Wilderness Way",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000004.json",
+      "contentSha256": "50a6843d9497fca80f2fdcf9c260604dc1ff96f6db703e1356fe4cf3267e1cc9"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000005",
+      "title": "Hidden Habitat",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000005.json",
+      "contentSha256": "bb248ceb18657e09f433b4dd63ad5d92753326679ad973690bcd4bdfa1d72bb0"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000006",
+      "title": "Mountain Roaming",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000006.json",
+      "contentSha256": "c6c80469173570b39a950244f492427bba2591c0dd2a55dbc8a1197559fae38f"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000007",
+      "title": "Backcountry Trek",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000007.json",
+      "contentSha256": "b71d745a38c8716ba5789f1834eab2f0e7b2a8f642f29cdcf1ba4a6a5e79fe2c"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000008",
+      "title": "Timberland Journey",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000008.json",
+      "contentSha256": "cb172bc2b12179ac3a2c63611f26c812286e1b72eef3af403261e3526efc5dbe"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000009",
+      "title": "Wildwood Quest",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000009.json",
+      "contentSha256": "22eafa11597a140e06750fa988c1e6504d5bf79154b5f73782d05c9df84a6870"
+    },
+    {
+      "id": "WS2_Wild_Animals_Easy_000010",
+      "title": "Nature Passage",
+      "category": "Wild Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Wild_Animals_Easy_000010.json",
+      "contentSha256": "1897621d67c0fb612a04a00a422d6469d3ac37ec009da4415326766dccbd2f0f"
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000001",
+      "title": "Untamed Trails",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000001.json",
+      "contentSha256": "f4b03c4f86de39cec9c59bcfb459c0fc353c9e34c7251f4278a1f1701381e611",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000002",
+      "title": "Woodland Wander",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000002.json",
+      "contentSha256": "d6115fa6dde77bcf3aa00539ef8d441b11ff56a7e958ca500bb59ae73af2e995",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000003",
+      "title": "Forest Frontier",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000003.json",
+      "contentSha256": "027dcf47945f31495d0be854a88779bac749d87efb65157592eb67874de6a5cf",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000004",
+      "title": "Wilderness Way",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000004.json",
+      "contentSha256": "8ccf6e3ae2b4e3c3f5dbc05ae212c1bf41690c0ea6bdc6fbdb15a3acfeb5fcfa",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000005",
+      "title": "Hidden Habitat",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000005.json",
+      "contentSha256": "50dee5733730a315fdb13217bb62b7543329d4da8ce33c8e7c2e5dcf014ba1bc",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000006",
+      "title": "Mountain Roaming",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000006.json",
+      "contentSha256": "884972ca06482e8c139732a35ed72426f2d13f4cfbc62c6690f67ca03aa8de80",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000007",
+      "title": "Backcountry Trek",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000007.json",
+      "contentSha256": "1b95b2aa89e59f409be53f0f28da837e7924d9e06fe0164dfc336e03e65b1d90",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000008",
+      "title": "Timberland Journey",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000008.json",
+      "contentSha256": "b190ea268240698222c22b94bef9245bd9da92ce0ed2bf39f26efc2563b644b7",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000009",
+      "title": "Wildwood Quest",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000009.json",
+      "contentSha256": "d0cc9fa996e37b5a52bd7671b848942e72d7fea15d1dc3bcefebdac1c481d11a",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Medium_000010",
+      "title": "Nature Passage",
+      "category": "Wild Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Wild_Animals_Medium_000010.json",
+      "contentSha256": "50180daa81594fe4a077e3f4a57f9bedf6ea586a69a166de330285fb44a2be24",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000001",
+      "title": "Untamed Trails",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000001.json",
+      "contentSha256": "e294791383efd89c069db8c4a0de91cec29ad2d2ab915c2be7af820ffbe751d0",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000002",
+      "title": "Woodland Wander",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000002.json",
+      "contentSha256": "cb31f931ce0ccdc9269840779ec52249771cfd1205a06b485f18af0ddcede8e7",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000003",
+      "title": "Forest Frontier",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000003.json",
+      "contentSha256": "aa27380091ec39acbf4995b0a200db34f86b6d51aa02a4cfcec2bd299f89a45e",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000004",
+      "title": "Wilderness Way",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000004.json",
+      "contentSha256": "c2a62f9e42ce0f567eec1d1180819f4783c681ca68d6dacc62f186e30b630485",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000005",
+      "title": "Hidden Habitat",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000005.json",
+      "contentSha256": "e915ce1822cf7f8cd1cce31fb3a19640d9454c83a04dbcfc622bff7a0085e3dc",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000006",
+      "title": "Mountain Roaming",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000006.json",
+      "contentSha256": "23a15b7564e815ebd02b42145f961dfd38fbc3bc86b47b502c159b9fd197c1e2",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000007",
+      "title": "Backcountry Trek",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000007.json",
+      "contentSha256": "e54d24036bc7016f3c44ac7b2bafa9293eae04a4c43164c6dc1739c758960b5f",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000008",
+      "title": "Timberland Journey",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000008.json",
+      "contentSha256": "967bafea90892e940f9a0a5850e13a86b9072d7fbf3970c13c68ca0ae4d3d3be",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000009",
+      "title": "Wildwood Quest",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000009.json",
+      "contentSha256": "fa61b9eae55e38631572096b19cc7788c35957633dfa3b85fc117d07d4625ce4",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Wild_Animals_Hard_000010",
+      "title": "Nature Passage",
+      "category": "Wild Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Wild_Animals_Hard_000010.json",
+      "contentSha256": "9ec8465429dbd4abe66333af62973e04e874a7288ea0ba2efb297a77c4036782",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000001",
+      "title": "Pasture Journey",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000001.json",
+      "contentSha256": "8f3e72e35a96140a09400a77bd4e64b2bee18c664cfa83e0d5bbfffaf346fa70"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000002",
+      "title": "Homestead Trails",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000002.json",
+      "contentSha256": "9085e026cf846310758cbe8d1995c34259529a047bcadfd90f671bacf1ff243a"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000003",
+      "title": "Country Crossing",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000003.json",
+      "contentSha256": "378d09cef131ca0b2a0119a370a82860ac4ec4fe6d437cbf664f8a001713e0a4"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000004",
+      "title": "Meadow Pathways",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000004.json",
+      "contentSha256": "9f9410c5864a89e4cd19786ec5bbb7bcece74f942cdf61d65ec0443e1ab1c91c"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000005",
+      "title": "Harvest Horizon",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000005.json",
+      "contentSha256": "7ca881dec14fe270961b43278f25dc6fdda7b68ae4eaceb35ffa7ae5b2c6824f"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000006",
+      "title": "Barnyard Roaming",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000006.json",
+      "contentSha256": "ed19d0b1b4c30ee7411346803f21995819a68c7e64469d52c634be6b75812952"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000007",
+      "title": "Prairie Excursion",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000007.json",
+      "contentSha256": "aed61d0555f60da8b7002823706971dcfd3fbf66fd9d13dd45e36011b3ba037f"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000008",
+      "title": "Hayfield Adventure",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000008.json",
+      "contentSha256": "69cb9356362e79208663513737439faa49d0726b121a5094497795d738789980"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000009",
+      "title": "Countryside Quest",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000009.json",
+      "contentSha256": "7fa32223cf07dc904b8ddd6fff7119a32c1a9101138946e9869e7db04e7c9a18"
+    },
+    {
+      "id": "WS2_Farm_Animals_Easy_000010",
+      "title": "Rural Passage",
+      "category": "Farm Animals",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "path": "seeds/WS2_Farm_Animals_Easy_000010.json",
+      "contentSha256": "67a9c50dd6cc825667635f820e826050f350697b5cf5b87af9eb73ee34eea682"
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000001",
+      "title": "Pasture Journey",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000001.json",
+      "contentSha256": "0d7a2c5b92968240d1937d2539941fe3872153f7b9b3c20c4b157104a2caf68c",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000002",
+      "title": "Homestead Trails",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000002.json",
+      "contentSha256": "8fa5e9002aa6481cf5b66e44cc1c2073cd96a58d6eaca6858ba6d28f83555165",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000003",
+      "title": "Country Crossing",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000003.json",
+      "contentSha256": "cd2fa0d1c9eeb291b4a7317dafcb4d91d3007b5774f316fe7a5a51cc2d405ca4",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000004",
+      "title": "Meadow Pathways",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000004.json",
+      "contentSha256": "7ff8c393897b90d83747d52ca064b9fd137657756207a42a689d041e808deede",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000005",
+      "title": "Harvest Horizon",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000005.json",
+      "contentSha256": "ad657d5e20548878199fc473a847e3a30b7b7fcdae7f09dae3563d05a9533081",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000006",
+      "title": "Barnyard Roaming",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000006.json",
+      "contentSha256": "79af98c442b7d30f9c2386ae2c44a44604e70f28e1e184bb5d54c4e46941ea96",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000007",
+      "title": "Prairie Excursion",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000007.json",
+      "contentSha256": "8c4c5698c84a7bcf6116d75bec25c202619b19a81b8e53ee169e4c6bd87eae9a",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000008",
+      "title": "Hayfield Adventure",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000008.json",
+      "contentSha256": "1f1ccf319607ef8932632f5496c35eb6f424fcdb88a0f1789f2e4e1683599a0b",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000009",
+      "title": "Countryside Quest",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000009.json",
+      "contentSha256": "5f5cf1f0bb424e647b6bfc347a55ac38682fba175c77acb80398749bb8aa8724",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Medium_000010",
+      "title": "Rural Passage",
+      "category": "Farm Animals",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "path": "seeds/WS2_Farm_Animals_Medium_000010.json",
+      "contentSha256": "caca3bfaf26dc8ce199a95c78c296cc8d43782e9ff253a119a38ee004ad27163",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000001",
+      "title": "Pasture Journey",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000001.json",
+      "contentSha256": "2f3ad10ba30b589ca11564c44a99d611e89c3e62557315953cde02d90d492a95",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000002",
+      "title": "Homestead Trails",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000002.json",
+      "contentSha256": "3467824a3b074cd0891def95941d76ec84be6cfd959253c0e6cac1c70cfdc280",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000003",
+      "title": "Country Crossing",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000003.json",
+      "contentSha256": "e0bc4bcab3fbabd63b5fab3fd353f0de18d142d3d6c5853f3f2a4f4cac6c846e",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000004",
+      "title": "Meadow Pathways",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000004.json",
+      "contentSha256": "41faec7002aacc939328766b4fde9afc2b01d60f264a238f4d1aaf92593a1b66",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000005",
+      "title": "Harvest Horizon",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000005.json",
+      "contentSha256": "21aaaaa69b512ba9de4c32fbe3b05bdd2ce5f664290847bcc1929e333250eb23",
+      "trapCount": 5,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000006",
+      "title": "Barnyard Roaming",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000006.json",
+      "contentSha256": "00a67af5239fb1c79ed07a79ace85cf43757c4cab6eeea0ddfb834a769c28221",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000007",
+      "title": "Prairie Excursion",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000007.json",
+      "contentSha256": "de6863ee35816663887c628c3f6e5cab0b13f1fb02c830a771b34d9eefe87f88",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000008",
+      "title": "Hayfield Adventure",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000008.json",
+      "contentSha256": "f9f4e4ead8f1b9fca2e5e74e4b65130d321aa023afcc9688394581a02a972c25",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000009",
+      "title": "Countryside Quest",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000009.json",
+      "contentSha256": "816a356a710942e2c93ce471220d03cbd3e80b02140359370b6b8f201c0917df",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Farm_Animals_Hard_000010",
+      "title": "Rural Passage",
+      "category": "Farm Animals",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "path": "seeds/WS2_Farm_Animals_Hard_000010.json",
+      "contentSha256": "e1315c8b05373fbdae9214ae297b08465a2efd91708e66e34bd3139e6d5ef1e2",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Easy_000001",
+      "title": "Twilight Trail",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "7e2aeb884ceecfea2d4d76048ea97696ed767f5f69033b75684dd14987e54575",
+      "path": "seeds/WS2_Dogs_Easy_000001.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000002",
+      "title": "Cozy Crossing",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "230fe6eb8554803a1c8ff66636e3a92c49ac6c27d6fc1f51cdae0731a985b2ca",
+      "path": "seeds/WS2_Dogs_Easy_000002.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000003",
+      "title": "Gentle Journey",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "2ef4b7824474938c540e30870862cdcacd50b3bc1067985bfceb6bd6e69b7785",
+      "path": "seeds/WS2_Dogs_Easy_000003.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000004",
+      "title": "Morning Meadow",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "013cbe6510788ee63d159fea98863a742e2d1832059bc6640b695b5d974a2499",
+      "path": "seeds/WS2_Dogs_Easy_000004.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000005",
+      "title": "Velvet Valley",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "2f7a9c8579d635f4b25b1cc4e7f754820fe4f91ebb6820ec47622f12de669858",
+      "path": "seeds/WS2_Dogs_Easy_000005.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000006",
+      "title": "Quiet Corner",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "d137ca33aac3bfd545932550eac1a0310ad436ab2147dbb115c959299a15e366",
+      "path": "seeds/WS2_Dogs_Easy_000006.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000007",
+      "title": "Sunny Stroll",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "f385da285881607679b6499c4abc2ad9e54dcdfa3b146d919dddd015e521f4a9",
+      "path": "seeds/WS2_Dogs_Easy_000007.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000008",
+      "title": "Maple Morning",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "4430cf356b30e8300b8829c2aa3a5824ffa9281f0bb8f90e632ff97763ed432d",
+      "path": "seeds/WS2_Dogs_Easy_000008.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000009",
+      "title": "Cloudy Cove",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "3898f2f450be287fe74c3f6b7410549f5a574dceec9e65955b0d2494ebb5a52e",
+      "path": "seeds/WS2_Dogs_Easy_000009.json"
+    },
+    {
+      "id": "WS2_Dogs_Easy_000010",
+      "title": "Silver Path",
+      "category": "Dogs",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "c449dca6f7e8059c27cb4cab3a962a0401d2d9e1692503fe72e6608998acb5aa",
+      "path": "seeds/WS2_Dogs_Easy_000010.json"
+    },
+    {
+      "id": "WS2_Dogs_Hard_000001",
+      "title": "Twilight Trail",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "1fdb906006990a9f29e67353a6b2961f9684a63db91391accf1ccf0b860940ff",
+      "path": "seeds/WS2_Dogs_Hard_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000002",
+      "title": "Cozy Crossing",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "4bc84ba5ac128c56f20ba63c061f810449b8b8e80b3a2d9137c9a1142a33ca37",
+      "path": "seeds/WS2_Dogs_Hard_000002.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000003",
+      "title": "Gentle Journey",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "fd3f527e5d0797598355dfc525c95e90b199747ef1d4ab688dc8ab6d32bd6a13",
+      "path": "seeds/WS2_Dogs_Hard_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000004",
+      "title": "Morning Meadow",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e07a2f4950f56b96347e698d37a953171b9d43787d07214f9236cd43c36c2e5b",
+      "path": "seeds/WS2_Dogs_Hard_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000005",
+      "title": "Velvet Valley",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e9cc73e0a647b696b8e51dfcab9419d1d933fed158900380680a415c234239d1",
+      "path": "seeds/WS2_Dogs_Hard_000005.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000006",
+      "title": "Quiet Corner",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "3ff6eb28c0429ea0576b80b86baad4553240c9baaa515cbe0b869c09edb3db91",
+      "path": "seeds/WS2_Dogs_Hard_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000007",
+      "title": "Sunny Stroll",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "a60b08f707d10245c3baf63d3810dc89d0ebe9f72834872eeacd6457b106785d",
+      "path": "seeds/WS2_Dogs_Hard_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000008",
+      "title": "Maple Morning",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "0af9ff04c14644b5a0b56d0819de0effc668375ba3304a1c3ebbed9cd31c6777",
+      "path": "seeds/WS2_Dogs_Hard_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000009",
+      "title": "Cloudy Cove",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "cbaec7421dbca5e35e65ba237a6ea67d22c596f5d2298f44ee87af92c3fc92be",
+      "path": "seeds/WS2_Dogs_Hard_000009.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Hard_000010",
+      "title": "Silver Path",
+      "category": "Dogs",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "80f365813dd21171d572b66b05e4a8bcda38f1d2dac1d0c51f265aa62a185d91",
+      "path": "seeds/WS2_Dogs_Hard_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000001",
+      "title": "Twilight Trail",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "379a8dd5bae488e2e70bdc51dfc18ec5f91a605166de15754d779ba3cddfee91",
+      "path": "seeds/WS2_Dogs_Medium_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000002",
+      "title": "Cozy Crossing",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "c9e2445dabc0a0a78614ca435389d0814b3227766010391580ca93ec631ffb53",
+      "path": "seeds/WS2_Dogs_Medium_000002.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000003",
+      "title": "Gentle Journey",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "04a289850dac370f6bab08e2fad7dedb310bb055326af4e763a06b9bbe82aecc",
+      "path": "seeds/WS2_Dogs_Medium_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000004",
+      "title": "Morning Meadow",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "c4e5812cb1c213e2ac5cc723264dead53ff34e4f1558236f275caf1e43091c43",
+      "path": "seeds/WS2_Dogs_Medium_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000005",
+      "title": "Velvet Valley",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "337a37cab47a6f8084890eae0c2f002c676b7ca1cd72e696f6b47a5ac8aa072a",
+      "path": "seeds/WS2_Dogs_Medium_000005.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000006",
+      "title": "Quiet Corner",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "9c059beb9437fb09883aeabd0cd2b15602b0cbc42a151c5f7d04c4e5a1ee6f45",
+      "path": "seeds/WS2_Dogs_Medium_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000007",
+      "title": "Sunny Stroll",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "4a528df506de2f08c65b6146aaa6431a4d5be3cd5f16a5bfe68f0fbfeefd5d8a",
+      "path": "seeds/WS2_Dogs_Medium_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000008",
+      "title": "Maple Morning",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "6bf8b42fb6ccdf631bc5bb1fc097874a5c43ce3b1e409055b57807f3a5168ef0",
+      "path": "seeds/WS2_Dogs_Medium_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000009",
+      "title": "Cloudy Cove",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "49874afc166a4b40ecb62faf85bfc7ced0ba67eedae9a91734be507149aa916a",
+      "path": "seeds/WS2_Dogs_Medium_000009.json",
+      "trapCount": 2,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Dogs_Medium_000010",
+      "title": "Silver Path",
+      "category": "Dogs",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "0225a261712cc613a5ec4b5b4b5203e2f9386c681f986cc192999692286fcf96",
+      "path": "seeds/WS2_Dogs_Medium_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Easy_000001",
+      "title": "Petal Haven",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "6c7e3c9c14f09024965a71b1b8e099b008cff0dab743b8f676b90f00f1efa7e3",
+      "path": "seeds/WS2_Flowers_Easy_000001.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000002",
+      "title": "Blossom Breeze",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "22a6e6fe1e6d75567ddaa70f2fe698d40193ecc7c2872b3feb9657d96f2398b3",
+      "path": "seeds/WS2_Flowers_Easy_000002.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000003",
+      "title": "Velvet Meadow",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e24ae884ed01667d948f284eb9756b1499a0c5f6c4d56c3dda9b170ec586dfd8",
+      "path": "seeds/WS2_Flowers_Easy_000003.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000004",
+      "title": "Morning Bouquet",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "07a5f89747177a51b4db538a6a5e10cbc937a8e1ca87379240a33ebdeaafa05c",
+      "path": "seeds/WS2_Flowers_Easy_000004.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000005",
+      "title": "Secret Garden",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "be09e376f3e50ea62bb23f3c5d2724f835f4b65763c0038dcb78db4bd5309f52",
+      "path": "seeds/WS2_Flowers_Easy_000005.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000006",
+      "title": "Golden Path",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "6bd4783607c66e778a51f034f65a266c2a071f082d918af9cb937abdd2d5a025",
+      "path": "seeds/WS2_Flowers_Easy_000006.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000007",
+      "title": "Quiet Grove",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "830e9b412af2c1861bae2e62cb12c8caacc8a21ca1808b33e871ade5c5fd7e16",
+      "path": "seeds/WS2_Flowers_Easy_000007.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000008",
+      "title": "Summer Glow",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "549f208cb974cf076dd477a1390e506a49bcffdfaa514a4fe8807921c8918546",
+      "path": "seeds/WS2_Flowers_Easy_000008.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000009",
+      "title": "Silken Field",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "41dbc95037ddd3bc819bc570840b253c8eaba25dbdae0bb5888fe4cff3c71880",
+      "path": "seeds/WS2_Flowers_Easy_000009.json"
+    },
+    {
+      "id": "WS2_Flowers_Easy_000010",
+      "title": "Dewy Delight",
+      "category": "Flowers",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "328d835ab65e5c7757790856004cf767495f9fa072718c57e075486569ad46b3",
+      "path": "seeds/WS2_Flowers_Easy_000010.json"
+    },
+    {
+      "id": "WS2_Flowers_Hard_000001",
+      "title": "Petal Haven",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "191dcca678d2a79f94ec056122e4e4ca59b69b65556cb876ecbec8b4740e6b4a",
+      "path": "seeds/WS2_Flowers_Hard_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000002",
+      "title": "Blossom Breeze",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "26b653682d682dfc8d5fd77ee052f2e96495747ea886cb216e1912feacd73f99",
+      "path": "seeds/WS2_Flowers_Hard_000002.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000003",
+      "title": "Velvet Meadow",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "98d27981e551af8b4835043724bfc6e1fd45304a228bbf15e1814dc860a00d1c",
+      "path": "seeds/WS2_Flowers_Hard_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000004",
+      "title": "Morning Bouquet",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "859a2d0117636e5f91face7b3480e4e7a4593c3765d9f61703025838cbd28604",
+      "path": "seeds/WS2_Flowers_Hard_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000005",
+      "title": "Secret Garden",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "fecb07b379faac5a7e747bfeaf5a93bd5021e78321f268cb8c3e73f0a30283e8",
+      "path": "seeds/WS2_Flowers_Hard_000005.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000006",
+      "title": "Golden Path",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "87be7eee0e15a0f2a6fcd2a1bf5b0fbba47ae1061c221b11faf5533a540474c1",
+      "path": "seeds/WS2_Flowers_Hard_000006.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000007",
+      "title": "Quiet Grove",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "948e0a48251236f9321cb54341502741b67e4f05d034969e6949d2c1ed01833f",
+      "path": "seeds/WS2_Flowers_Hard_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000008",
+      "title": "Summer Glow",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "c36ab37ffe22d9f5ec9b691ff4b8fd2e708185298ee8d307c7e0093f6cc83be5",
+      "path": "seeds/WS2_Flowers_Hard_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000009",
+      "title": "Silken Field",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e318ac24e1cf03095776ca777f76e9a8ef2bdb92766afd977dcc6a147571086a",
+      "path": "seeds/WS2_Flowers_Hard_000009.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Hard_000010",
+      "title": "Dewy Delight",
+      "category": "Flowers",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "7f8016ba7fdc987d45ca3db13488f0e508513939b6edb8d3ab190f8e9f17932f",
+      "path": "seeds/WS2_Flowers_Hard_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000001",
+      "title": "Petal Haven",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "6ab85c6efa7a434980fdfc6f0b88f2c057b8ed96cf7c73a0073dff6614ef2e2a",
+      "path": "seeds/WS2_Flowers_Medium_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000002",
+      "title": "Blossom Breeze",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "aeef4988a024749bca8e01fe60ed179510e258581c3c3e8ff4e19799243b4006",
+      "path": "seeds/WS2_Flowers_Medium_000002.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000003",
+      "title": "Velvet Meadow",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "0ee78e3ba0b9de0d69907e8289756549362d1087b8deb10252a58d159c8a7e9b",
+      "path": "seeds/WS2_Flowers_Medium_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000004",
+      "title": "Morning Bouquet",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "66f60de2e404980e53882dcfd7808c4c39c8cef23a58cad5e2abb9c1e6c2c49e",
+      "path": "seeds/WS2_Flowers_Medium_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000005",
+      "title": "Secret Garden",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e50c2b8770896bab5f877f28e87c62b379f731b27a896875d84454b754cc7aa5",
+      "path": "seeds/WS2_Flowers_Medium_000005.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000006",
+      "title": "Golden Path",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "baa5c6ba3f2370e8eddc193538028b4e6a7edd9823ab96e19472fa795ea7837e",
+      "path": "seeds/WS2_Flowers_Medium_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000007",
+      "title": "Quiet Grove",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "9cf5185cff0e817dec652b37c53e32dca72371d21d1799a56c63177161774092",
+      "path": "seeds/WS2_Flowers_Medium_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000008",
+      "title": "Summer Glow",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "4ac7e9ca909d04051f0b952160d0f6bf34efbcd3f0f7f87091d159696b1657b7",
+      "path": "seeds/WS2_Flowers_Medium_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000009",
+      "title": "Silken Field",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "c4cefbf86edcd916212c2a99081d5b1306465831ca9b937218c0b087da214365",
+      "path": "seeds/WS2_Flowers_Medium_000009.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Flowers_Medium_000010",
+      "title": "Dewy Delight",
+      "category": "Flowers",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "9332427c9819833cac5ec490ec4a9c6412e11d89e0c4bf0d0c4e373106413f20",
+      "path": "seeds/WS2_Flowers_Medium_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Easy_000001",
+      "title": "Companion Trails",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "7b4b21403447dca917ce708adda6199b410bcba6d7f01727008ffbe98fbcfc19",
+      "path": "seeds/WS2_Pets_Easy_000001.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000002",
+      "title": "Cozy Corners",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e4843ebb3a55c4d214d1f4b0b59d56032d27930ec8e15a52775a6d2d16d648d0",
+      "path": "seeds/WS2_Pets_Easy_000002.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000003",
+      "title": "Household Harmony",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "b6ba40409202a619b53469148ed0ecf32dcbd012cbcd90bed9c93fbe070608eb",
+      "path": "seeds/WS2_Pets_Easy_000003.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000004",
+      "title": "Playful Pals",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "5abe8286d43178912fc6321e25a9a3c2b21c5d4c202d6eee5c5b23532aab0071",
+      "path": "seeds/WS2_Pets_Easy_000004.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000005",
+      "title": "Cuddle Quest",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "6008ad46d9e1e1014be1345eb378ddf32b2bf14a41da4c65f2095128eca65135",
+      "path": "seeds/WS2_Pets_Easy_000005.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000006",
+      "title": "Homebound Journey",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "5845ec437845021a36d15da12a5f72a63cacf2b32b87a53b8756f0def6119408",
+      "path": "seeds/WS2_Pets_Easy_000006.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000007",
+      "title": "Friendly Footsteps",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "ba12a7ba7043a43fed4a5d0648f88e2eadb19834d1186f3876d60a432e8a2868",
+      "path": "seeds/WS2_Pets_Easy_000007.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000008",
+      "title": "Indoor Adventure",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "564726be23a49fc5dc21153afa040089e40c1aa77a95958ae1912ada2eff731a",
+      "path": "seeds/WS2_Pets_Easy_000008.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000009",
+      "title": "Beloved Buddies",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "823c653be9cd121b15913f7715399bbc87ba571906148f0747b72107280d60d0",
+      "path": "seeds/WS2_Pets_Easy_000009.json"
+    },
+    {
+      "id": "WS2_Pets_Easy_000010",
+      "title": "Happy Haven",
+      "category": "Pets",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "3f7a7db23cd96ec05ca90959365131db2915012e40bc78def6e20704bae7f106",
+      "path": "seeds/WS2_Pets_Easy_000010.json"
+    },
+    {
+      "id": "WS2_Pets_Hard_000001",
+      "title": "Companion Trails",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "a3413118ea82057e7924a8b2b41d259cb3afff4f4bec64a20f2302cb1faa575a",
+      "path": "seeds/WS2_Pets_Hard_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000002",
+      "title": "Cozy Corners",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "7fbb27a0fb00f6774e59b530d01a2c799361805533cad62c6770511c8092b882",
+      "path": "seeds/WS2_Pets_Hard_000002.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000003",
+      "title": "Household Harmony",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "1e88d9beba39c434e7098778b79dbe562278f3f4d5ce4fe077641fb1ac67b1b0",
+      "path": "seeds/WS2_Pets_Hard_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000004",
+      "title": "Playful Pals",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "1dc0085892909a2d41daf47e7b673387764237349c5b5a69ffcf2c3a34ed761c",
+      "path": "seeds/WS2_Pets_Hard_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000005",
+      "title": "Cuddle Quest",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e38405672f2da18487a6cd022764ed75815a26487d122f6709b2418d8e3b2b76",
+      "path": "seeds/WS2_Pets_Hard_000005.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000006",
+      "title": "Homebound Journey",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "68203e5c777a9cb6a7f3521f946cfefe6c35c031b620ae76239237b880acf968",
+      "path": "seeds/WS2_Pets_Hard_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000007",
+      "title": "Friendly Footsteps",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "0e31b9be39696027ef41d9e9911a2185416490ec8d42bf3a1e6db4bf23d05597",
+      "path": "seeds/WS2_Pets_Hard_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000008",
+      "title": "Indoor Adventure",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "f645cffbe535019eed880991bd26af854e82343fe3c456ce2d59f1dff7d27d04",
+      "path": "seeds/WS2_Pets_Hard_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000009",
+      "title": "Beloved Buddies",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "1547b341635852bdd255c0fb4985cc7ac7b42eb71c26f69bb3942b6220df2349",
+      "path": "seeds/WS2_Pets_Hard_000009.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Hard_000010",
+      "title": "Happy Haven",
+      "category": "Pets",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "d8c717f74a843e87410db7d3cd84ea5ca13f24771e59d65fdc0de8eb9ac43d29",
+      "path": "seeds/WS2_Pets_Hard_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000001",
+      "title": "Companion Trails",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "b4995851209b8ffe7b55752fe1ef59d46796e5bc5fd61ee86debe8c3d07f127f",
+      "path": "seeds/WS2_Pets_Medium_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000002",
+      "title": "Cozy Corners",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "2e5f76a844682c1388166ddd9f7207d8e55ad9cec46af829e57ccfd8d4b39eec",
+      "path": "seeds/WS2_Pets_Medium_000002.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000003",
+      "title": "Household Harmony",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "78245808a7f35c91f9cce9175933ab97ee514786d4b44ed59b10dd6d78ead923",
+      "path": "seeds/WS2_Pets_Medium_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000004",
+      "title": "Playful Pals",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "9d1cb2533b545d229372eb034e9e8056b27447dca5ddb7303f995837e949628d",
+      "path": "seeds/WS2_Pets_Medium_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000005",
+      "title": "Cuddle Quest",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "330e4ff5715ac1b05589d0103ba99d0349a98adb5e0b11619e86948a5684b66a",
+      "path": "seeds/WS2_Pets_Medium_000005.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000006",
+      "title": "Homebound Journey",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "a38fa5e6ea165b44974f297e10c28d027349a8d42186726aa113f1f2d9a4d43a",
+      "path": "seeds/WS2_Pets_Medium_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000007",
+      "title": "Friendly Footsteps",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "006d9c02d844322277337417fd984b7aeb7077cc242c0d81145f8789d9dedb9a",
+      "path": "seeds/WS2_Pets_Medium_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000008",
+      "title": "Indoor Adventure",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "57a21163947c4ed297e9af6b4090ff0d6e1815e66faf0c8b26b7ca2cae70bb7a",
+      "path": "seeds/WS2_Pets_Medium_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000009",
+      "title": "Beloved Buddies",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "c8ddf64b8d9bf216ef2a8fc34e77ffe282ec0b0529526707bf339c3ce8af5244",
+      "path": "seeds/WS2_Pets_Medium_000009.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Pets_Medium_000010",
+      "title": "Happy Haven",
+      "category": "Pets",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "d17b83026a829777479e5fdc556f658463066274f539e4abedb13ad8b655ff93",
+      "path": "seeds/WS2_Pets_Medium_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Easy_000001",
+      "title": "Azure Skies",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "a946636b35bc13848a3edbab8ce6f7122162da86fc0f45506304142ad6f473cc",
+      "path": "seeds/WS2_Weather_Easy_000001.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000002",
+      "title": "Silver Horizon",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "18b016f222fd1846c8a07468c72b4f18cd84803b00dba465c5325516f5061c73",
+      "path": "seeds/WS2_Weather_Easy_000002.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000003",
+      "title": "Gentle Currents",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "91a3beedf1461884ba63d3353df300a09bd8ed1fe8ff2d411e5e28537306701b",
+      "path": "seeds/WS2_Weather_Easy_000003.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000004",
+      "title": "Clear Passage",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "a4ddb26b0df258fb144250256ca5e49cbba9f89ef8a161a92b25b386d2c1b9b5",
+      "path": "seeds/WS2_Weather_Easy_000004.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000005",
+      "title": "Open Horizon",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "dc3bc6790c24b14af6a0caba0ec9c83f5765c24069da82ba9b731673695311dc",
+      "path": "seeds/WS2_Weather_Easy_000005.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000006",
+      "title": "Calm Skies",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "d104148100d3cc4bf089b5277f8987cf7a48481ba666496b479715dba2acceb4",
+      "path": "seeds/WS2_Weather_Easy_000006.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000007",
+      "title": "Bright Morning",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "3768ef7a13496f50d01f05adfbdf183b66d30599f74eb25c8a04f73325662dfb",
+      "path": "seeds/WS2_Weather_Easy_000007.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000008",
+      "title": "Soft Horizons",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "542489e71267abae25087e42eb825d3333ac3f3d2e28871d51ff7edfccaadf11",
+      "path": "seeds/WS2_Weather_Easy_000008.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000009",
+      "title": "Crystal Air",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "3a9eb86a115570f40929db889ea9664d850ec6313f7565fe425f2f30603a51f8",
+      "path": "seeds/WS2_Weather_Easy_000009.json"
+    },
+    {
+      "id": "WS2_Weather_Easy_000010",
+      "title": "Luminous Valley",
+      "category": "Weather",
+      "difficulty": "Easy",
+      "rows": 12,
+      "cols": 10,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "15ecccbc3b12bf838890c6b59e9db2e6dec76aae64334bada98fb835a1f68ed7",
+      "path": "seeds/WS2_Weather_Easy_000010.json"
+    },
+    {
+      "id": "WS2_Weather_Hard_000001",
+      "title": "Azure Skies",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "822f7baa0d2a059820b5249c4134f550152f9eccb1262887366ff8bd22287509",
+      "path": "seeds/WS2_Weather_Hard_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000002",
+      "title": "Silver Horizon",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "32ec3d16068c66463e85ab98a6e621a6c2d98604b873c6819702e92b66d11d42",
+      "path": "seeds/WS2_Weather_Hard_000002.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000003",
+      "title": "Gentle Currents",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "49787077fb4a23822eff981c5acfa64b2aade63fb5a6215e13006721633ee6d9",
+      "path": "seeds/WS2_Weather_Hard_000003.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000004",
+      "title": "Clear Passage",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "285ecc62762659f65c91a9b4645b4f7c95ba506847369e62d10e42a91c392bce",
+      "path": "seeds/WS2_Weather_Hard_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000005",
+      "title": "Open Horizon",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "cddfadd47980071d29a026b8b4a8037771516ff0f2acc07cb580eb1d546bb17c",
+      "path": "seeds/WS2_Weather_Hard_000005.json",
+      "trapCount": 4,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000006",
+      "title": "Calm Skies",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "5d7acefa48bc3f3843f3bea3809a75573aaf14df68ecf1166ab7acb3efea3db3",
+      "path": "seeds/WS2_Weather_Hard_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000007",
+      "title": "Bright Morning",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "41c0c2a9f6e5b096e3cdd148f97913fa2669010903214e443b6d6c09c9b99961",
+      "path": "seeds/WS2_Weather_Hard_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000008",
+      "title": "Soft Horizons",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "482d304d778bd8056ed291d6b78349ea13f00a5263a26b81925d0ddaba33d727",
+      "path": "seeds/WS2_Weather_Hard_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000009",
+      "title": "Crystal Air",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "2a9382157bfb715310fcdf16d4843c025613fcecf5d88f22e84724330a06a16b",
+      "path": "seeds/WS2_Weather_Hard_000009.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Hard_000010",
+      "title": "Luminous Valley",
+      "category": "Weather",
+      "difficulty": "Hard",
+      "rows": 16,
+      "cols": 14,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "e7cb1933f86b602f4553fa62ca32f3904341703b9b8f393a047dffbf994a33f6",
+      "path": "seeds/WS2_Weather_Hard_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000001",
+      "title": "Azure Skies",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "4cdf33e2e037791c36bf0f1f1eda3643bb0538c90757d54553ad08df239fe8ae",
+      "path": "seeds/WS2_Weather_Medium_000001.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000002",
+      "title": "Silver Horizon",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "746da755965aa78823478d2a3d0f49fbe39029a9f0645c5911187841a5cda5cf",
+      "path": "seeds/WS2_Weather_Medium_000002.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000003",
+      "title": "Gentle Currents",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "6cc3a320585e6e98fe745f5167cf95e67f87015ed5bd0dbb56f0541a8e16ec77",
+      "path": "seeds/WS2_Weather_Medium_000003.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000004",
+      "title": "Clear Passage",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "fdb3bd27dc10449dd73f03b5ed723717c90ebe4ac7ca5f7de471d49be32c1d87",
+      "path": "seeds/WS2_Weather_Medium_000004.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000005",
+      "title": "Open Horizon",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "9ceec4904750b4dfbe9af08845b761cd0a8c04ead6c06ce9f4175b388e87dc9e",
+      "path": "seeds/WS2_Weather_Medium_000005.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000006",
+      "title": "Calm Skies",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "1b7c39eeddee117ba5cbc8de3584305592fd86ff26d9187fad365b143e55a5fd",
+      "path": "seeds/WS2_Weather_Medium_000006.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000007",
+      "title": "Bright Morning",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "00266f3783dee88403c57d428bbd28b350e70a76e356b073a672462123ca39d0",
+      "path": "seeds/WS2_Weather_Medium_000007.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000008",
+      "title": "Soft Horizons",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "830146e5efaf8a0f6b3ea35061e6fad2982f401bcdb95f5cccd44ff24f0bad84",
+      "path": "seeds/WS2_Weather_Medium_000008.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000009",
+      "title": "Crystal Air",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "4d2b5be1f4edadbba385797a779338fb49de7eb6fa19a54d07723a611d8b6252",
+      "path": "seeds/WS2_Weather_Medium_000009.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "id": "WS2_Weather_Medium_000010",
+      "title": "Luminous Valley",
+      "category": "Weather",
+      "difficulty": "Medium",
+      "rows": 14,
+      "cols": 12,
+      "catalogGeneration": "replacement-v1",
+      "contentSha256": "ebf14510da1403628dfa9360d3c075f95fb2479e158a9f4b26332b575d56f219",
+      "path": "seeds/WS2_Weather_Medium_000010.json",
+      "trapCount": 3,
+      "trapRange": {
+        "min": 1,
+        "max": 3
+      }
+    }
+  ]
+}

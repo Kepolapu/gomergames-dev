@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000010",
+  "title": "Luminous Valley",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "WFCBTGIAWCLW",
+    "ALYGLNIEEIKH",
+    "WUCWOIDCAEOI",
+    "ORLFKNZHFZMT",
+    "UROOVTBZKELE",
+    "AYNRJHFWAEJO",
+    "SIEEMGKIXRWU",
+    "RAACXIZNMBDT",
+    "AEUAJLODGWGL",
+    "IIBSNOWFLAKE",
+    "NGWTHKDDKVCY",
+    "BULPHNOOSNOM",
+    "OGYTFVLYYDVS",
+    "WTHMYTIDIMUH"
+  ],
+  "words": [
+    {
+      "word": "CYCLONE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "WHITEOUT",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        8,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLIZZARD",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "TYPHOON",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        7,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "FORECAST",
+      "prefix": "FO",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        8,
+        6
+      ],
+      "divergence": [
+        7,
+        5
+      ]
+    },
+    {
+      "target": "RAINBOW",
+      "prefix": "RA",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        7,
+        1
+      ],
+      "divergence": [
+        7,
+        2
+      ]
+    },
+    {
+      "target": "WIND",
+      "prefix": "WI",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        1,
+        9
+      ],
+      "divergence": [
+        2,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

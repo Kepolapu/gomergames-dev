@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000008",
+  "title": "Summer Glow",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "BNUENIMSAJSTWH",
+    "ELVIOLETFGKTLE",
+    "GOEYPIBTXADESI",
+    "OTLLXLHSKRVNUA",
+    "NUWNKAULWDKNNG",
+    "ISUDCCREQETOFS",
+    "AIEASXUPFNGBLH",
+    "HUAIYGRSBIMEOC",
+    "UYBSEIMYYAUUWI",
+    "UIDYMYAAKEVLEY",
+    "HHTRVTVZGWNBRD",
+    "MNOGARDPANSOZA",
+    "CSUYMNCBKLOQHH",
+    "EZLWRDGRDQELHL",
+    "UIBNRHHEGHWAII",
+    "LNOILEDNADHIIA"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "BEGONIA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        10,
+        11
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "HONEYSUCKLE",
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        11,
+        10
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        10,
+        12
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "LILAC",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AZALEA",
+      "prefix": "AZA",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "divergence": [
+        8,
+        5
+      ]
+    },
+    {
+      "target": "BLUEBONNET",
+      "prefix": "BLU",
+      "start": [
+        14,
+        2
+      ],
+      "end": [
+        12,
+        2
+      ],
+      "divergence": [
+        11,
+        2
+      ]
+    },
+    {
+      "target": "LILY",
+      "prefix": "LIL",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        1,
+        5
+      ],
+      "divergence": [
+        0,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000002",
+  "title": "Blossom Breeze",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "PIOLCYIEAI",
+    "ESIIERUIAA",
+    "RCYLTULIPH",
+    "ICTAYHNNFY",
+    "WAWCAUPHBD",
+    "IRUDTYDEDR",
+    "NNLEFISIFA",
+    "KAPVHOIITN",
+    "LTQCRVQFEG",
+    "EIRIIUIAOE",
+    "BOIFUCHSIA",
+    "SNKVIOLETE"
+  ],
+  "words": [
+    {
+      "word": "DAHLIA",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CARNATION",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        5,
+        7
+      ]
+    }
+  ],
+  "traps": []
+}

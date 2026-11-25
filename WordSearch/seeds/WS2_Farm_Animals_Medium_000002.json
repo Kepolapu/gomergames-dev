@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Medium_000002",
+  "title": "Homestead Trails",
+  "category": "Farm Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "YCEYNSIFHRYH",
+    "LDNNUEDNXIHE",
+    "MOHDAOINVRII",
+    "PYDCUAKRPIGF",
+    "MXYHICTKNUWE",
+    "FAMALLKREWLR",
+    "ENROOSTERUHY",
+    "AHEEYNBRMLGF",
+    "CAAIQYGHDBOU",
+    "AOIEEQVJNNSI",
+    "PUWNREETSFLF",
+    "LNOFLNYTRHIH",
+    "AHURHVWNTZNY",
+    "EWLAMBUWIMGK"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "COW",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "LAMB",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        10,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "KID",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "MARE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        6,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HEIFER",
+      "prefix": "HE",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        2
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    },
+    {
+      "target": "LLAMA",
+      "prefix": "LL",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        5,
+        5
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    },
+    {
+      "target": "PONY",
+      "prefix": "PO",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        9,
+        1
+      ],
+      "divergence": [
+        8,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

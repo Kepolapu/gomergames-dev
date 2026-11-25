@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Hard_000010",
+  "title": "Luminous Valley",
+  "category": "Weather",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "EAWUWWOBNIARSR",
+    "LELDTHUNDERWEO",
+    "DVHRFXWLKQURDR",
+    "TUOETIHWSAUNML",
+    "WUXTAAKYYTIRHT",
+    "HVUEKTAIAWOQRC",
+    "SYEMDXIRYTJFOD",
+    "NZCONDENSATION",
+    "OYVMCPBWDQTWVC",
+    "WRVRMYDGUENNEI",
+    "FRLELNCHRPXHRC",
+    "LUTHHVHLOKERCI",
+    "ALCTAWDUOLCOAC",
+    "KFTVIVRLUNVKSL",
+    "EVHRLUUDYBEBTE",
+    "JRWHUMIDITYNTL"
+  ],
+  "words": [
+    {
+      "word": "CONDENSATION",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "CYCLONE",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        14,
+        0
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "TEMPERATURE",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        1,
+        12
+      ]
+    },
+    {
+      "word": "THERMOMETER",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        2,
+        3
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "WHITEOUT",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        2,
+        12
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CLOUD",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "HEATINDEX",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        7,
+        12
+      ],
+      "end": [
+        14,
+        12
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CYCLONE",
+      "prefix": "CYC",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        8,
+        4
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    },
+    {
+      "target": "ICICLE",
+      "prefix": "ICIC",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ],
+      "divergence": [
+        7,
+        13
+      ]
+    },
+    {
+      "target": "STORM",
+      "prefix": "STO",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "divergence": [
+        6,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

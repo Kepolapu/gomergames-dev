@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000002",
+  "title": "Cozy Corners",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "UEEHDVINHJTE",
+    "MNPARAKEETOU",
+    "ALKHSOVJHCRW",
+    "CEWIHRABBITR",
+    "ALQBTTPHRGOM",
+    "WTFGWTVILUIR",
+    "CRRVUVEHWPSC",
+    "LUOVNICNRPEM",
+    "RTGORNNUWYDO",
+    "LRGYIWHEUYGU",
+    "HSIFLEGNAOIS",
+    "LTOLOXAYDPHE",
+    "UKYGYZVLWNIV",
+    "NTNCCANARYBG"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "AXOLOTL",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FINCH",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        3,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MOUSE",
+      "prefix": "MO",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        4,
+        9
+      ]
+    },
+    {
+      "target": "TORTOISE",
+      "prefix": "TO",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        7,
+        2
+      ],
+      "divergence": [
+        6,
+        3
+      ]
+    },
+    {
+      "target": "TURTLE",
+      "prefix": "TU",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        6,
+        4
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

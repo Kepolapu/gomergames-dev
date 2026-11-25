@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000007",
+  "title": "Quiet Grove",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UHAUYQPAIH",
+    "OVOSNHOZFP",
+    "DRNLJNPAUE",
+    "QACNLMPLIR",
+    "PRNHMYYEXI",
+    "EHHDITHAUW",
+    "MROSEDYOOI",
+    "RVYFGLHACN",
+    "GARDENIAAK",
+    "VKKYYHAOUL",
+    "BEGONIAUNE",
+    "RMAGNOLIAL"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "BEGONIA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "POPPY",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DANDELION",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

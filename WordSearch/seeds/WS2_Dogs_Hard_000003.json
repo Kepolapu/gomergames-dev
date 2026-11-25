@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000003",
+  "title": "Gentle Journey",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "FNNENINACOHIRO",
+    "JMDVYHKHAVDDEY",
+    "LAAWHIPPETTMVO",
+    "UUCKYGMLZVDREI",
+    "EMHKIWBSHELTIE",
+    "FNSHRBDRDVMTRI",
+    "VUHBIUENPONPTU",
+    "HIUKRXSRGUOHEC",
+    "LWNZOKASWMGNRO",
+    "TLDBSLZGEAYDYL",
+    "IRRGLWCRKLVEHL",
+    "UMBOKYATKTLDDI",
+    "CHCNPNJPTERYOE",
+    "SDVPIWTHKSZLYI",
+    "IWUAMNAMREBODI",
+    "BPNKWEWVPOODLE"
+  ],
+  "words": [
+    {
+      "word": "BISCUIT",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "BOXER",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "CANINE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "COLLAR",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "COLLIE",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "DACHSHUND",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "DOBERMAN",
+      "start": [
+        14,
+        12
+      ],
+      "end": [
+        14,
+        5
+      ]
+    },
+    {
+      "word": "JACKRUSSELL",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "MALTESE",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        14,
+        9
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        15,
+        2
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "RETRIEVER",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        0,
+        12
+      ]
+    },
+    {
+      "word": "SHELTIE",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "WHIPPET",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        2,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HUSKY",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "PUG",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        8,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "JACKRUSSELL",
+      "prefix": "JAC",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        9,
+        6
+      ]
+    },
+    {
+      "target": "KIBBLE",
+      "prefix": "KIB",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        5,
+        5
+      ],
+      "divergence": [
+        6,
+        6
+      ]
+    },
+    {
+      "target": "RETRIEVER",
+      "prefix": "RET",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        8
+      ],
+      "divergence": [
+        12,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

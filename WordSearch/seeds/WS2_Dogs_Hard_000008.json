@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000008",
+  "title": "Maple Morning",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "PWOHCWOHCTDYCJ",
+    "FUBISCUITERPON",
+    "EBGCQKNLYZKPLP",
+    "HORTRRPZPOODLE",
+    "MXLWNENRYMEJIK",
+    "UELBMZTLEUPAEI",
+    "URUAEUURIWTVGN",
+    "SKBWUAAOIIQRDG",
+    "HPTQENIAKEOAUE",
+    "EFICIHWATCVQSS",
+    "PNPAKCCWBFCEHE",
+    "HNNEASIUYITZRO",
+    "EFIOZMUOFLCLRC",
+    "RBEAGLEFAJTHDI",
+    "DHNAITAMLADHOU",
+    "MGAIIUIRWSOOVN"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "BEAGLE",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "BICHON",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "BISCUIT",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "BOXER",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "COLLIE",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "CORGI",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "DALMATIAN",
+      "start": [
+        14,
+        10
+      ],
+      "end": [
+        14,
+        2
+      ]
+    },
+    {
+      "word": "PEKINGESE",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "PITBULL",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        4,
+        2
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "PUG",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "RETRIEVER",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        11,
+        12
+      ]
+    },
+    {
+      "word": "SCHNAUZER",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "SHEPHERD",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        14,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHEW",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "MALTESE",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AKITA",
+      "prefix": "AKI",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        9,
+        4
+      ],
+      "divergence": [
+        8,
+        4
+      ]
+    },
+    {
+      "target": "BEAGLE",
+      "prefix": "BEA",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        7,
+        5
+      ],
+      "divergence": [
+        8,
+        6
+      ]
+    },
+    {
+      "target": "RETRIEVER",
+      "prefix": "RET",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "divergence": [
+        1,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

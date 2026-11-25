@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000010",
+  "title": "Luminous Valley",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "REAHSEBDDE",
+    "DAIATWHCRU",
+    "EQIEOLBEIE",
+    "WAENZFHPZH",
+    "TLSWDPBTZD",
+    "SHJFSRSCLO",
+    "IYUOWAOQEW",
+    "OSMNCKEPYN",
+    "ITGRDWJUHP",
+    "AOEHHEIOBO",
+    "IVWRJKRNXU",
+    "OTYPHOONDR"
+  ],
+  "words": [
+    {
+      "word": "ATMOSPHERE",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "DRIZZLE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "RAINDROP",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "SNOW",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "TYPHOON",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        7
+      ]
+    }
+  ],
+  "traps": []
+}

@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Medium_000003",
+  "title": "Aerial Passage",
+  "category": "Birds",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "OFDSMIWVHBES",
+    "NIUGNEPCEFIH",
+    "IDCHCKISEVPP",
+    "ONKPXROUHNGH",
+    "TVWRTOAUVLAE",
+    "LEBSGQONFIMA",
+    "WOODPECKERWS",
+    "EVKLVVYAVQLA",
+    "RHERONWKNUYN",
+    "ULKDYILNIAYT",
+    "TWWORCHNUIRU",
+    "LHILNOQSLLUY",
+    "UNWWCARDINAL",
+    "VOCDBAOHLIHA"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "CARDINAL",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        3,
+        2
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        5,
+        10
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        6,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CRANE",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        0,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HERON",
+      "prefix": "HE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "divergence": [
+        2,
+        8
+      ]
+    },
+    {
+      "target": "OWL",
+      "prefix": "OW",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        2
+      ],
+      "divergence": [
+        10,
+        1
+      ]
+    },
+    {
+      "target": "VULTURE",
+      "prefix": "VU",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        4,
+        7
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

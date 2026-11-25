@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000002",
+  "title": "Stellar Frontier",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HAIATULRIEIAYR",
+    "MPUASTEROIDFKO",
+    "ELYYTAJIEEMAAV",
+    "RUKNSJFXSTTUAE",
+    "CTVRNHOHHWSEKR",
+    "UOGTYPURMYUOMU",
+    "RFIULRNTBIUIOD",
+    "YRHAKDIZTIYDFB",
+    "YKNNHYVYZLTTND",
+    "BEPOCSELETEHEH",
+    "TDQRULRVVMKVBR",
+    "IDUTNHSCOCCYUW",
+    "IIASWIECYTOKLR",
+    "OISAIWIVLPRUAC",
+    "AFAJCOSMOSWTLE",
+    "NGRAVITYYFSRDP"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        5,
+        3
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        14,
+        9
+      ]
+    },
+    {
+      "word": "EXOPLANET",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "METEOR",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "PLUTO",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        15,
+        2
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "SHUTTLE",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        12,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BOOSTER",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        13,
+        12
+      ]
+    },
+    {
+      "word": "ORBIT",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        8,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "PLUTO",
+      "prefix": "PLU",
+      "start": [
+        15,
+        13
+      ],
+      "end": [
+        13,
+        11
+      ],
+      "divergence": [
+        12,
+        10
+      ]
+    },
+    {
+      "target": "ROVER",
+      "prefix": "ROV",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        4,
+        2
+      ],
+      "divergence": [
+        3,
+        3
+      ]
+    },
+    {
+      "target": "SHUTTLE",
+      "prefix": "SHU",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        5,
+        6
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

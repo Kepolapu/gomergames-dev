@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000002",
+  "title": "Cozy Crossing",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "WBTAIYIRRS",
+    "HPOUGGSOFE",
+    "IWUNUWHTBT",
+    "PQNPECETLT",
+    "PTLKPCLWYE",
+    "EWRCYYTEIR",
+    "TWQEAHIILV",
+    "OTLTAQELUE",
+    "INIOITTEIA",
+    "CKWIEQFRMH",
+    "ASCHNAUZER",
+    "HDPAPILLON"
+  ],
+  "words": [
+    {
+      "word": "BONE",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "PAPILLON",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "PUG",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "SCHNAUZER",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "SHELTIE",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "WHIPPET",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "AKITA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "ROTTWEILER",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "TREAT",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        8,
+        5
+      ]
+    }
+  ],
+  "traps": []
+}

@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta name="robots" content="noindex,nofollow">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; worker-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#2b3a55">
+  <meta name="description" content="Word Search by Gomer Games.">
+  <title>Word Search · Gomer Games</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="engine.js"></script>
+  <script defer src="journey.js"></script>
+  <script defer src="journey-store.js"></script>
+  <script defer src="cloud-config.js"></script>
+  <script defer src="cloud-sync.js"></script>
+  <script defer src="category-backgrounds.js"></script>
+  <script defer src="progression-config.js"></script>
+  <script defer src="celebrations.js"></script>
+  <script defer src="game.js"></script>
+  <script type="module" src="account-session.mjs"></script>
+</head>
+<body class="is-home">
+  <img id="round-background" class="round-background" alt="" aria-hidden="true" draggable="false" hidden>
+  <div id="game-viewport" class="game-viewport">
+  <main class="app">
+    <header class="game-header">
+      <div class="header-player">
+      <a id="account-link" class="avatar-square header-icon-button" href="/" hidden style="display:none" aria-hidden="true" tabindex="-1">
+        <svg viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+          <circle cx="16" cy="10" r="5" />
+          <path d="M6 27v-2a10 10 0 0 1 20 0v2Z" />
+        </svg>
+      </a>
+      <button id="home-button" class="button home-button header-icon-button" aria-label="Home" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M12 2 2 10v3l2-1.5V21h6v-6h4v6h6v-9.5l2 1.5v-3L12 2Z" />
+        </svg>
+      </button>
+      </div>
+      <div class="header-status">
+        <button id="cloud-status" class="cloud-status" aria-haspopup="dialog" aria-controls="cloud-dialog" hidden></button>
+        <span id="selection-text" class="selection-text" aria-hidden="true"></span>
+      </div>
+      <div class="header-actions">
+      <button id="library-button" class="button settings-button header-icon-button" aria-label="Settings" aria-haspopup="dialog" aria-controls="settings-dialog">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path fill-rule="evenodd" d="M10 2h4l.7 3 2.1 1.2 3-.9 2 3.4-2.3 2.1v2.4l2.3 2.1-2 3.4-3-.9-2.1 1.2-.7 3h-4l-.7-3-2.1-1.2-3 .9-2-3.4 2.3-2.1v-2.4L2.2 8.7l2-3.4 3 .9L9.3 5ZM12 8.8a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4Z" />
+        </svg>
+      </button>
+      </div>
+    </header>
+    <div id="load-error" class="error-banner" role="alert" hidden>
+      <p id="load-error-text"></p>
+      <button id="retry-button" class="button">Retry</button>
+    </div>
+    <p id="save-notice" class="save-notice" role="status"></p>
+    <section id="home-screen" class="home-screen" aria-labelledby="home-title">
+      <div class="home-identity">
+        <h1 id="home-title">Word <span>Search</span></h1>
+      </div>
+      <div class="home-letter-grid" aria-hidden="true">
+        <span>W</span><span>O</span><span>R</span><span>D</span><span>S</span>
+        <span>F</span><span>I</span><span>N</span><span>D</span><span>A</span>
+        <span>L</span><span>E</span><span>A</span><span>F</span><span>E</span>
+        <span>P</span><span>L</span><span>A</span><span>Y</span><span>R</span>
+        <span>S</span><span>M</span><span>I</span><span>L</span><span>E</span>
+      </div>
+      <div class="home-play-area">
+        <button id="home-play" class="button primary-button home-play" disabled>Play</button>
+        <button id="home-difficulty" class="home-difficulty" type="button" aria-haspopup="dialog" aria-controls="library-dialog" title="Choose difficulty and puzzle" disabled>Easy difficulty</button>
+        <p id="home-round" class="home-round"></p>
+      </div>
+    </section>
+    <div id="game-layout" class="game-layout" aria-busy="true" hidden>
+      <section class="word-panel" aria-labelledby="word-list-title">
+        <div class="word-panel-heading">
+          <button id="bonus-button" class="bonus-button" aria-label="Bonus Chest" aria-haspopup="dialog" title="Bonus Chest">
+            <img class="bonus-words-indicator" src="assets/bonus-gift-v1-320.png" width="28" height="28" alt="" draggable="false">
+          </button>
+          <h1 id="word-list-title"></h1>
+          <span id="progress-count" class="progress-count">0 / 0</span>
+        </div>
+        <div id="progress" class="progress-track" role="progressbar" aria-label="Words found" aria-valuemin="0" aria-valuemax="1" aria-valuenow="0">
+          <div id="progress-fill"></div>
+        </div>
+        <ul id="word-list" class="word-list"></ul>
+      </section>
+      <section class="board-panel" aria-label="Puzzle">
+        <div class="board-shell">
+          <div id="board" class="board" role="grid" aria-label="Word search letter grid">
+            <svg id="highlights" aria-hidden="true" preserveAspectRatio="none"></svg>
+            <div id="letters" class="letters"></div>
+          </div>
+          <section id="completion" class="completion" aria-labelledby="completion-title" hidden>
+            <div class="completion-card">
+              <div class="completion-emblem" aria-hidden="true">✓</div>
+              <h2 id="completion-title" aria-live="polite">Complete!</h2>
+              <p id="gem-reward" class="gem-reward" hidden>
+                <img src="assets/gem-128.png" width="28" height="28" alt="" draggable="false">
+                <span id="gem-reward-count"></span>
+              </p>
+              <p id="unlock-message" class="unlock-message" hidden></p>
+              <div class="completion-actions">
+                <button id="play-unlocked" class="button primary-button" hidden>Play new category</button>
+                <button id="next-button" class="button primary-button">Play <span aria-hidden="true">→</span></button>
+                <button id="keep-searching" class="button">Keep Searching</button>
+                <button id="completion-home" class="button quiet-button">Home</button>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div class="board-controls">
+          <button id="hint-button" class="button hint-button board-hint-button" aria-label="Hint" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M9 18v-1.5c0-1.1-.6-2-1.4-2.7a6 6 0 1 1 8.8 0c-.8.7-1.4 1.6-1.4 2.7V18Z" fill="#f2d78c" />
+              <path d="M9 18h6M10 21h4M12 17v-5" />
+            </svg>
+          </button>
+          <div id="gem-balance" class="gem-balance" role="status" aria-label="Gems: 0" title="Gems" hidden>
+            <img src="assets/gem-128.png" width="32" height="32" alt="" draggable="false">
+            <span class="gem-times" aria-hidden="true">×</span>
+            <span id="gem-count">0</span>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  </div>
+  <dialog id="library-dialog" class="library-dialog" aria-labelledby="library-title">
+    <div class="library-top">
+      <div class="dialog-heading">
+        <h2 id="library-title">Selection Screen</h2>
+        <button class="icon-button close-dialog" aria-label="Close">×</button>
+      </div>
+      <div id="difficulty-tabs" class="difficulty-tabs" role="tablist" aria-label="Difficulty">
+        <button id="difficulty-easy" role="tab" aria-selected="true" aria-controls="library-list" data-difficulty="Easy">Easy</button>
+        <button id="difficulty-medium" role="tab" aria-selected="false" aria-controls="library-list" data-difficulty="Medium" tabindex="-1">Medium</button>
+        <button id="difficulty-hard" role="tab" aria-selected="false" aria-controls="library-list" data-difficulty="Hard" tabindex="-1">Hard</button>
+      </div>
+      <div class="selection-summary">
+        <span id="selection-unlock-progress"></span>
+        <span class="selection-gems"><img src="assets/gem-128.png" width="22" height="22" alt=""><span id="selection-gem-count"></span></span>
+      </div>
+    </div>
+    <div id="library-list" class="library-list" role="tabpanel" aria-labelledby="difficulty-easy" tabindex="0"></div>
+  </dialog>
+  <dialog id="category-unlock-dialog" class="category-unlock-dialog" aria-labelledby="category-unlock-title">
+    <div class="dialog-heading">
+      <h2 id="category-unlock-title"></h2>
+      <button class="icon-button close-dialog" aria-label="Close">×</button>
+    </div>
+    <p id="category-unlock-cost" class="category-unlock-cost"></p>
+    <p id="category-unlock-message" role="status" aria-live="polite"></p>
+    <div class="category-unlock-actions">
+      <button id="category-unlock-cancel" class="button" type="button">Cancel</button>
+      <button id="category-unlock-confirm" class="button primary-button" type="button">Unlock</button>
+    </div>
+  </dialog>
+  <dialog id="bonus-dialog" class="bonus-dialog" aria-labelledby="bonus-title">
+    <div class="dialog-heading">
+      <h2 id="bonus-title">Bonus Chest</h2>
+      <button class="icon-button close-dialog" aria-label="Close">×</button>
+    </div>
+    <div class="bonus-chest-row">
+      <div class="bonus-meter">
+        <div class="bonus-meter-label"><span>This map’s bonus words</span><span id="bonus-points">0 / 3</span></div>
+        <div id="bonus-progress" class="bonus-progress" role="progressbar" aria-label="Bonus words found on this map" aria-valuemin="0" aria-valuemax="3" aria-valuenow="0">
+          <div id="bonus-progress-fill"></div>
+        </div>
+      </div>
+      <button id="chest-button" class="chest-button" aria-label="Open this map’s chest" disabled>
+        <img src="assets/bonus-gift-v1-320.png" width="96" height="96" alt="" draggable="false">
+      </button>
+    </div>
+    <p id="chest-status" class="chest-status" aria-live="polite">Find all 3 bonus words on this map to open its chest.</p>
+    <div class="bonus-discoveries">
+      <p class="bonus-found-label">Found on this map</p>
+      <h3 id="bonus-map-title"></h3>
+      <ul id="bonus-found-list" class="bonus-found-list"></ul>
+      <p id="bonus-empty" class="bonus-empty">No bonus words found yet.</p>
+    </div>
+  </dialog>
+  <dialog id="cloud-dialog" class="cloud-dialog" aria-labelledby="cloud-title" aria-describedby="cloud-description">
+    <div class="dialog-heading">
+      <h2 id="cloud-title">Cloud save is not synced</h2>
+      <button class="icon-button close-dialog" aria-label="Close">×</button>
+    </div>
+    <p id="cloud-description"></p>
+    <p id="cloud-warning" class="cloud-warning" hidden>Check both saves before choosing. Replaced progress cannot be recovered.</p>
+    <p id="cloud-message" role="status" aria-live="polite"></p>
+    <div class="cloud-choices">
+      <button id="cloud-local" class="button cloud-save-card" hidden>
+        <span class="cloud-save-label">Keep device save · replace cloud save</span>
+        <span id="cloud-local-progress" class="cloud-save-progress" hidden></span>
+        <span id="cloud-local-summary" class="cloud-save-summary"></span>
+      </button>
+      <button id="cloud-remote" class="button cloud-save-card" hidden>
+        <span class="cloud-save-label">Keep cloud save · replace device save</span>
+        <span id="cloud-remote-progress" class="cloud-save-progress" hidden></span>
+        <span id="cloud-remote-summary" class="cloud-save-summary"></span>
+      </button>
+      <button id="cloud-retry" class="button primary-button">Try syncing again</button>
+      <button id="cloud-stay-guest" class="button quiet-button">Sign out and play on this device</button>
+    </div>
+  </dialog>
+  <dialog id="local-conflict-dialog" class="cloud-dialog" aria-labelledby="local-conflict-title" aria-describedby="local-conflict-description local-conflict-warning">
+    <div class="dialog-heading">
+      <h2 id="local-conflict-title">Two different local saves</h2>
+    </div>
+    <p id="local-conflict-description">Another tab saved different progress while this tab could not save. Play and cloud syncing are paused to protect both copies.</p>
+    <p id="local-conflict-warning" class="cloud-warning">Download the recovery copies first. Reloading uses the verified device save and discards this tab’s conflicting copy. Nothing is merged. Keep this tab open if you are not ready.</p>
+    <p id="local-conflict-message" role="status" aria-live="polite"></p>
+    <div class="cloud-choices">
+      <button id="local-conflict-download" class="button primary-button" type="button">Download recovery copies</button>
+      <button id="local-conflict-reload" class="button" type="button">Discard unsaved changes and reload</button>
+    </div>
+  </dialog>
+  <dialog id="settings-dialog" class="settings-dialog" aria-labelledby="settings-title">
+    <div class="dialog-heading">
+      <h2 id="settings-title">Settings</h2>
+      <button class="icon-button close-dialog" aria-label="Close">×</button>
+    </div>
+    <button id="settings-cloud-save" class="button cloud-settings-button" type="button" aria-haspopup="dialog" aria-controls="cloud-dialog" hidden>Cloud save</button>
+    <button id="delete-local-data" class="button delete-local-button" type="button" aria-haspopup="dialog" aria-controls="delete-local-dialog">Delete all local data</button>
+  </dialog>
+  <dialog id="delete-local-dialog" class="delete-local-dialog" aria-labelledby="delete-local-title" aria-describedby="delete-local-description delete-local-cloud">
+    <div class="dialog-heading">
+      <h2 id="delete-local-title">Delete all local data?</h2>
+    </div>
+    <p id="delete-local-description">This permanently removes your Word Search progress, gems, bonus words, and settings from this device. You’ll also be signed out of Gomer Games.</p>
+    <p id="delete-local-cloud">This cannot be undone.</p>
+    <p id="delete-local-message" role="status" aria-live="polite"></p>
+    <div class="delete-local-actions">
+      <button id="delete-local-cancel" class="button" type="button" autofocus>Cancel</button>
+      <button id="delete-local-confirm" class="button danger-button" type="button">Delete local data</button>
+    </div>
+  </dialog>
+  <aside id="replacement-notice" class="replacement-notice" role="status" hidden>
+    <p>Welcome to the new Word Search library. The old puzzles, discoveries, chests and category progress have been cleared. Your existing gem balance is kept.</p>
+    <button id="replacement-notice-dismiss" class="button" type="button">Got it</button>
+  </aside>
+  <div id="bonus-feedback" class="bonus-feedback" aria-hidden="true"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript>JavaScript is required.</noscript>
+</body>
+</html>

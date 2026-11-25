@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000007",
+  "title": "Quiet Grove",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "CTBRVVLYAIFTHT",
+    "YROLGGNINROMRH",
+    "HSEVUILWHIYOOV",
+    "NHIUCOHBCSIKUU",
+    "DKQANBDAFFODIL",
+    "AYLGDRRVEOYEYW",
+    "HIAHVNHKIKIUPW",
+    "LMIEAISHCUFUUH",
+    "IUPTBEGONIAKCM",
+    "AIIEKHHUAEIURA",
+    "UOMCTYXAOIIBER",
+    "NRNBLUEBONNETI",
+    "NHOLGLNQYMHPTG",
+    "BQOSAIPILUTFUO",
+    "NHIZEUOUAUIOBL",
+    "EJASMINEAHUUID"
+  ],
+  "words": [
+    {
+      "word": "BEGONIA",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        12
+      ]
+    },
+    {
+      "word": "BUTTERCUP",
+      "start": [
+        14,
+        12
+      ],
+      "end": [
+        6,
+        12
+      ]
+    },
+    {
+      "word": "CARNATION",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "DAFFODIL",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "MARIGOLD",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "MORNINGGLORY",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        14,
+        8
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        13,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "AZALEA",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        3,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BLUEBONNET",
+      "prefix": "BLU",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        2,
+        4
+      ],
+      "divergence": [
+        3,
+        5
+      ]
+    },
+    {
+      "target": "HOLLYHOCK",
+      "prefix": "HOL",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        3
+      ],
+      "divergence": [
+        12,
+        4
+      ]
+    },
+    {
+      "target": "ROSE",
+      "prefix": "ROS",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "divergence": [
+        3,
+        0
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000010",
+  "title": "Soaring Adventure",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "YRANACYHIIPMWR",
+    "SGIAOSTOAEOOYG",
+    "TNPUWGDHDCRHKE",
+    "BWLVCINXKCQCIW",
+    "CSHROHPIQWUPLH",
+    "RTKECENVMDGHHC",
+    "AOWHLGPHKASEKH",
+    "NROSBSNHMVLAAI",
+    "EKFILVYNENWFJC",
+    "IHRFQHAWKAHSDK",
+    "IDWGZUUGOOSEJE",
+    "TTCNAZAYFFXAHN",
+    "NACILEPIAEIGNM",
+    "EWWKNUWILOKUTT",
+    "IRHROBINWUWLPD",
+    "EEMPARROTNRLFF"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        5,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "CRANE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        0,
+        12
+      ]
+    },
+    {
+      "word": "FLAMINGO",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "MOCKINGBIRD",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        14,
+        3
+      ],
+      "end": [
+        14,
+        7
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DUCK",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        15,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "PELICAN",
+      "prefix": "PEL",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        6,
+        4
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    },
+    {
+      "target": "PHEASANT",
+      "prefix": "PHEA",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        7,
+        11
+      ],
+      "divergence": [
+        8,
+        11
+      ]
+    },
+    {
+      "target": "STORK",
+      "prefix": "STO",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        7
+      ],
+      "divergence": [
+        1,
+        8
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000010",
+  "title": "Silver Path",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RWHPPWIKRRIEGH",
+    "AFPURUIGODLLUB",
+    "LDEPRVGLRNTUWE",
+    "LIKPTHWOHCWOHC",
+    "OUIYDVKKSIIBKN",
+    "CWNBLOODHOUNDV",
+    "CLGHHBBRTIRXRH",
+    "SQEQPEMEVGOISY",
+    "ROSKLAUVROIAYO",
+    "CBEBSBIEEMEOBR",
+    "FWBTHQAINLAZIK",
+    "UIIYLTTRHNYNSI",
+    "KFKHDLTTKMMWCE",
+    "FKBAEJKENNELUB",
+    "IWNHUUIRHWVVII",
+    "OESHNSETTERWTI"
+  ],
+  "words": [
+    {
+      "word": "BARK",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "BISCUIT",
+      "start": [
+        9,
+        12
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "BLOODHOUND",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "BULLDOG",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "COLLAR",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "GREATDANE",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "MASTIFF",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "PEKINGESE",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "PUG",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "SHELTIE",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "YORKIE",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOBERMAN",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "KENNEL",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "RETRIEVER",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        6,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BULLDOG",
+      "prefix": "BUL",
+      "start": [
+        13,
+        13
+      ],
+      "end": [
+        13,
+        11
+      ],
+      "divergence": [
+        13,
+        10
+      ]
+    },
+    {
+      "target": "CHOWCHOW",
+      "prefix": "CHOW",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        3,
+        5
+      ]
+    },
+    {
+      "target": "KIBBLE",
+      "prefix": "KIB",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ],
+      "divergence": [
+        9,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000004",
+  "title": "Morning Bouquet",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "LPUUYLLYTR",
+    "DRIUWNIEKO",
+    "AIFBDYLLKU",
+    "NMFWAOYCAU",
+    "DRRYIIOCAC",
+    "EOGVSHIAWG",
+    "LSVQYHEFCE",
+    "IEKLRLRJUA",
+    "OULJASMINE",
+    "NOFZRKMJEA",
+    "HGARDENIAA",
+    "BLUEBONNET"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        0,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

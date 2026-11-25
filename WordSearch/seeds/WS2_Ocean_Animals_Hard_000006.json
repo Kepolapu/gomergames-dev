@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000006",
+  "title": "Abyssal Adventure",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "ASIUELCSLLRIER",
+    "OQIAEEUGSHRIMP",
+    "EUOUHPLHMVMNNT",
+    "FIOFOSRWRBEVGH",
+    "PDNTRNIUGNEPCM",
+    "URCXTDHFHSHCHF",
+    "HOAWICGDRJLICN",
+    "CAEWVOSOQAGNAX",
+    "IWMMNRHKELTRUT",
+    "WFAMKAFALJWSNV",
+    "CLVFELZGCHFLNO",
+    "CRHSWRTUABIHFT",
+    "WLALYLHLNCKAST",
+    "EFKBHDRERTMOAE",
+    "WALRUSJBAIAWJR",
+    "SCALLOPWBDUWTD"
+  ],
+  "words": [
+    {
+      "word": "BARNACLE",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "BELUGA",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "CLAM",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "CORAL",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        14,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PENGUIN",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CLAM",
+      "prefix": "CLA",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        7,
+        9
+      ],
+      "divergence": [
+        8,
+        8
+      ]
+    },
+    {
+      "target": "OTTER",
+      "prefix": "OTT",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        5,
+        4
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    },
+    {
+      "target": "SHRIMP",
+      "prefix": "SHR",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        4,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

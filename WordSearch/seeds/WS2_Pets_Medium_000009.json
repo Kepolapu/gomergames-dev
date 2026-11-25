@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000009",
+  "title": "Beloved Buddies",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "UDRSLHSMRENU",
+    "NHSIFDLOGKLO",
+    "TDUJXCLVRWAE",
+    "FPARROTYRYLH",
+    "UELQIJTHTQLD",
+    "IMRGUINEAPIG",
+    "GKHRXCKGRUHD",
+    "UVAJEALUALCO",
+    "AAMLNTZPNKNG",
+    "NGSSVXFPTWIO",
+    "AYTFROGYUQHS",
+    "ASEOSWIWLICR",
+    "KURMACAWABHN",
+    "EOLTIBBARVRI"
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        11,
+        10
+      ],
+      "end": [
+        2,
+        10
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        12,
+        2
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        12,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOG",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "IGUANA",
+      "prefix": "IG",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        9,
+        6
+      ]
+    },
+    {
+      "target": "RABBIT",
+      "prefix": "RA",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        12,
+        8
+      ],
+      "divergence": [
+        11,
+        8
+      ]
+    },
+    {
+      "target": "TARANTULA",
+      "prefix": "TA",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        12,
+        4
+      ],
+      "divergence": [
+        11,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

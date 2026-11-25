@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000001",
+  "title": "Cosmic Voyage",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "PMKLFSCFBF",
+    "DREIGTCEHA",
+    "SLORKASOVW",
+    "PYIBCRLOIF",
+    "AYMHEUNAXW",
+    "CINVFRRDXT",
+    "ESIEEVFYEY",
+    "SNVPPFNNOP",
+    "UDUWNTAIOL",
+    "ISJVYLUURU",
+    "TEHNPVINHT",
+    "COSMOSPWEO"
+  ],
+  "words": [
+    {
+      "word": "COSMOS",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "SPACESUIT",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        1,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MERCURY",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "PLUTO",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000007",
+  "title": "Prairie Excursion",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RNTLIIVTYOVVIL",
+    "EALUBCLCNFRERK",
+    "WUMLSOGYEKNODL",
+    "BTPCCZIFIYOVRD",
+    "TRFYAKYEISGECN",
+    "HGLHKEAATHTIIU",
+    "HONEYBEEINHEIE",
+    "RNCILJRUVOXEEM",
+    "GLUFLHCUUQAMNR",
+    "EAUEWSYGAECDRB",
+    "IOVRUUOCMEOXEN",
+    "OFSCTAAGAUAURD",
+    "DHBRTPIALGWYBU",
+    "IPHGLHYELNDYYC",
+    "UIYATBKIGHORTK",
+    "OAEUISHEEPGGRP"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        14,
+        3
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "BULL",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "GOAT",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        1,
+        12
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FOAL",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        2,
+        2
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BULL",
+      "prefix": "BUL",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        2
+      ],
+      "divergence": [
+        1,
+        1
+      ]
+    },
+    {
+      "target": "GOSLING",
+      "prefix": "GOSL",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "divergence": [
+        2,
+        2
+      ]
+    },
+    {
+      "target": "OXEN",
+      "prefix": "OXE",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        7,
+        11
+      ],
+      "divergence": [
+        7,
+        12
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

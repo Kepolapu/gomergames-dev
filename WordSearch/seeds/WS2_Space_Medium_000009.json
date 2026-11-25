@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Medium_000009",
+  "title": "Silent Passage",
+  "category": "Space",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "ACKILHVYQHWS",
+    "SEUYJSOLARQA",
+    "TFHNEPTUNECT",
+    "RPROBEMLPUKU",
+    "OLVFFVYOYBER",
+    "NHMARSCKDWTN",
+    "AHKWVSZEYUID",
+    "UROVERKALRLF",
+    "TIYLKRTRNULE",
+    "QHEOOYMTEHEI",
+    "ETLELYUHBZTE",
+    "EBTYHUODUWAO",
+    "UESPILCELWSO",
+    "MCYELUSPACMN"
+  ],
+  "words": [
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "CAPSULE",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "EARTH",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "ECLIPSE",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "METEOR",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MODULE",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        2,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ECLIPSE",
+      "prefix": "EC",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        5,
+        6
+      ],
+      "divergence": [
+        4,
+        5
+      ]
+    },
+    {
+      "target": "METEOR",
+      "prefix": "ME",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        3,
+        4
+      ]
+    },
+    {
+      "target": "NEBULA",
+      "prefix": "NE",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

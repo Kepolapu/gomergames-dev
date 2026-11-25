@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Medium_000003",
+  "title": "Velvet Meadow",
+  "category": "Flowers",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "JOFIZGZPEKPO",
+    "LARYIAFAHCUW",
+    "KISHNRHNUOCU",
+    "TWLMNDBSFHRZ",
+    "LTUYIEMYWYEO",
+    "OEOUANUUSLTU",
+    "TLVAAIEIKLTP",
+    "UOUOOAUNPOUE",
+    "SIUEIYIOIHBD",
+    "FVSAUWUXMQWA",
+    "KOYAILONGAMI",
+    "RVUREIWJZEAS",
+    "SOEFUCHSIAFY",
+    "APKEMARIGOLD"
+  ],
+  "words": [
+    {
+      "word": "BUTTERCUP",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "MARIGOLD",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        5,
+        4
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "LILY",
+      "prefix": "LI",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        11,
+        5
+      ],
+      "divergence": [
+        12,
+        5
+      ]
+    },
+    {
+      "target": "LOTUS",
+      "prefix": "LO",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        5,
+        2
+      ],
+      "divergence": [
+        4,
+        3
+      ]
+    },
+    {
+      "target": "ROSE",
+      "prefix": "RO",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        2,
+        9
+      ],
+      "divergence": [
+        1,
+        8
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

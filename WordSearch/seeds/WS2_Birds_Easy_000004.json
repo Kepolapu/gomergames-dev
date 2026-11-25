@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Easy_000004",
+  "title": "Canopy Chorus",
+  "category": "Birds",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "FIFHHDOUCA",
+    "EVOSTRICHC",
+    "CHCFUCDUCK",
+    "PAIAWXRKFP",
+    "EWNIRRKATI",
+    "NKMAFDESNG",
+    "GHROROIWCE",
+    "UVUEAYNNGO",
+    "IEIAKORQAN",
+    "NSWGOOSEUL",
+    "EHERONZAWC",
+    "UAOUVSGOEU"
+  ],
+  "words": [
+    {
+      "word": "CARDINAL",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "CRANE",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CANARY",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        5
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

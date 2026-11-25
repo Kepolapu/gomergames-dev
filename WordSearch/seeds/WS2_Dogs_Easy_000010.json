@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000010",
+  "title": "Silver Path",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "DCUKOEHUPR",
+    "PWHHILNLOE",
+    "OCDOVBTVIT",
+    "MCAHWXBMNR",
+    "EWLFACGLTI",
+    "RHMYZKHXEE",
+    "AWATOVIORV",
+    "NTTHSRXTWE",
+    "IUIWLRKLAR",
+    "AUADUWCIIQ",
+    "NPNSPANIEL",
+    "UTLPOODLEU"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "DALMATIAN",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "RETRIEVER",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "SPANIEL",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "YORKIE",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        10,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "KIBBLE",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000006",
+  "title": "Deepwater Drift",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "THGEIRINBIECBV",
+    "UCNGKATTEBWNEN",
+    "NHGHRIHAMIHAMH",
+    "AYNLOHPYYVEOBA",
+    "UAIFGHBVSUKAFL",
+    "URRSKBAMWAOYGI",
+    "OGRYFFRDIILFHB",
+    "UNEIAORUDNLMRU",
+    "LIHWZTAWUONXOT",
+    "ATHPLQCYUFCOAN",
+    "USKETKUNDBXKWE",
+    "RWMRTUDYTETRAX",
+    "BSLCSEAHORSEIE",
+    "DESHRUKQXLGWIW",
+    "EBRLCVCATFISHC",
+    "SNAPPERWAOAVND"
+  ],
+  "words": [
+    {
+      "word": "BARRACUDA",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "BETTA",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "CATFISH",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "FLOUNDER",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "HALIBUT",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "HERRING",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "SALMON",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "TETRA",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        11,
+        12
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "EEL",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        12,
+        2
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "PIKE",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        0,
+        3
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MAHIMAHI",
+      "prefix": "MAHI",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        2,
+        5
+      ],
+      "divergence": [
+        2,
+        4
+      ]
+    },
+    {
+      "target": "PERCH",
+      "prefix": "PER",
+      "start": [
+        15,
+        4
+      ],
+      "end": [
+        15,
+        6
+      ],
+      "divergence": [
+        15,
+        7
+      ]
+    },
+    {
+      "target": "TETRA",
+      "prefix": "TET",
+      "start": [
+        11,
+        10
+      ],
+      "end": [
+        11,
+        8
+      ],
+      "divergence": [
+        11,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

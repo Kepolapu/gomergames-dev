@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000003",
+  "title": "Seaside Safari",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "LCVIBSHRNE",
+    "OSTARFISHN",
+    "BFRPENGUIN",
+    "SCOFRFRAKK",
+    "TAATNEAGKR",
+    "EUUFTXAHSI",
+    "RLRSKETXNL",
+    "HUYTFYRLAL",
+    "ROVGLWNLIR",
+    "OBAUJENWLV",
+    "SEAURCHINV",
+    "HAMMERHEAD"
+  ],
+  "words": [
+    {
+      "word": "CRAB",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "KRILL",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        7,
+        6
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

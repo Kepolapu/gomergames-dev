@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Hard_000007",
+  "title": "Backcountry Trek",
+  "category": "Wild Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RURGSHPHHPHEOI",
+    "GDIOTTERUHLYHE",
+    "TARKSUMVAOTTEO",
+    "ROUAFDVFMKOHFI",
+    "LNINPHVRBLKRNC",
+    "MIPGLOMFSCUOHA",
+    "GIRAFFEHLHSIJF",
+    "FTERKVMLWIMWRO",
+    "LFTOVUNHBPKEUX",
+    "ILYOLLIDAMRAQH",
+    "ORVUAOANWUYSRS",
+    "NWUKIQZRWNNERP",
+    "BFCMEEIKLKVLYW",
+    "BADGERNEAAIJLH",
+    "JLUIHLHAEWUFIH",
+    "AWRAOBRBOIOIIE"
+  ],
+  "words": [
+    {
+      "word": "ARMADILLO",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "BADGER",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "BISON",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        4,
+        12
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        2
+      ]
+    },
+    {
+      "word": "CHIMPANZEE",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "GIRAFFE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "KANGAROO",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "LEOPARD",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "LION",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        1,
+        12
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        12,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHIPMUNK",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "LEMUR",
+      "start": [
+        14,
+        5
+      ],
+      "end": [
+        10,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MOLE",
+      "prefix": "MOL",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        5,
+        4
+      ],
+      "divergence": [
+        5,
+        3
+      ]
+    },
+    {
+      "target": "OTTER",
+      "prefix": "OTTE",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        2,
+        12
+      ],
+      "divergence": [
+        2,
+        13
+      ]
+    },
+    {
+      "target": "WEASEL",
+      "prefix": "WEA",
+      "start": [
+        14,
+        9
+      ],
+      "end": [
+        14,
+        7
+      ],
+      "divergence": [
+        14,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

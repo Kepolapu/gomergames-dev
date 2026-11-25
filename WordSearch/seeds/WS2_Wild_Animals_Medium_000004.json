@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Medium_000004",
+  "title": "Wilderness Way",
+  "category": "Wild Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "AVLWHNWBWATH",
+    "HDPRIHDNHYII",
+    "UREVAEBHDLGA",
+    "KNUKSIIHYYEY",
+    "BRPWWKHAVNRY",
+    "ALNFNNTTXXYN",
+    "DRHINOCEROST",
+    "GNMHUUGEHIUM",
+    "EJWAACAHYYXM",
+    "RAACDUZCGOEO",
+    "WCAONIETFIAL",
+    "DKUUAKLWNECE",
+    "LAEUPNLLRNPH",
+    "DLAANTELOPEM"
+  ],
+  "words": [
+    {
+      "word": "ANTELOPE",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "ARMADILLO",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "BADGER",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "CHEETAH",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "GAZELLE",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "SKUNK",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "TIGER",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MINK",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "PANDA",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "RHINOCEROS",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "JACKAL",
+      "prefix": "JA",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        9,
+        2
+      ],
+      "divergence": [
+        10,
+        3
+      ]
+    },
+    {
+      "target": "LYNX",
+      "prefix": "LY",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        3,
+        8
+      ],
+      "divergence": [
+        4,
+        7
+      ]
+    },
+    {
+      "target": "SKUNK",
+      "prefix": "SK",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        4,
+        5
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

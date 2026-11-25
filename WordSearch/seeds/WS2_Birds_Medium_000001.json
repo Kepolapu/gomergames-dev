@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Medium_000001",
+  "title": "Feathered Horizons",
+  "category": "Birds",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "OYATHIAJWNRN",
+    "OEHEEHKAAIOH",
+    "NKVEHHCCTCBP",
+    "GRAKFAUWLDIT",
+    "OUKAMOUAYMNW",
+    "STWRTHFVHYHR",
+    "TWLANIDRACDE",
+    "RIIPKYUOHURA",
+    "IEUYKIUOVZAG",
+    "CKINGFISHERL",
+    "HCROWPYHXHLE",
+    "KWZUHWCRANEU",
+    "SEAGULLUYIHU",
+    "VUWORRAPSRGO"
+  ],
+  "words": [
+    {
+      "word": "CRANE",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        0,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CARDINAL",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "FALCON",
+      "prefix": "FA",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        3,
+        6
+      ]
+    },
+    {
+      "target": "MACAW",
+      "prefix": "MA",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "divergence": [
+        4,
+        2
+      ]
+    },
+    {
+      "target": "ROBIN",
+      "prefix": "RO",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        7,
+        7
+      ],
+      "divergence": [
+        8,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

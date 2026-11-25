@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000004",
+  "title": "Lunar Expedition",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UCWSBRKQIT",
+    "NAXAGCOMET",
+    "IPMTIIDKBH",
+    "VSYEYUCPEL",
+    "EUBLYOITRH",
+    "RLALRWIEHD",
+    "SEUINRTOVS",
+    "ELTTOIIAHO",
+    "IPKEPHOIIL",
+    "SATURNIEHA",
+    "HEJYSTARHR",
+    "MABGALAXYW"
+  ],
+  "words": [
+    {
+      "word": "CAPSULE",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "JUPITER",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "METEORITE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

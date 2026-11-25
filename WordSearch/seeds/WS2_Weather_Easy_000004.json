@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000004",
+  "title": "Clear Passage",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "MUOGFREBTR",
+    "OSNOWZYTER",
+    "NXAUEVSTFJ",
+    "SIUEAAEWMG",
+    "OGRGCMIYNY",
+    "OBWROHCIHD",
+    "NUERFYNKAR",
+    "FVAMWTDJIO",
+    "OBYKHJERLU",
+    "WYFGFRWURG",
+    "BLIZZARDNH",
+    "ILSTORMHET"
+  ],
+  "words": [
+    {
+      "word": "BAROMETER",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "DROUGHT",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "SNOW",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLIZZARD",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        3,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

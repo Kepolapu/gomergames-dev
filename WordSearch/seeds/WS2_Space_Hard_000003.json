@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000003",
+  "title": "Celestial Passage",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "IESREVINUALVRE",
+    "ERLYNLIICRATER",
+    "ACOSMOSNTQFVRL",
+    "HPROBEXBYUSWXU",
+    "NCVZUVTIJALCEU",
+    "PHEEAHRETSOOBA",
+    "CYCYAYHEOAYCEM",
+    "OTLHORLVURYFOS",
+    "MMIYOLTNLWIYKA",
+    "EYPUIFYHJATTCT",
+    "TTSTSTRHRIUNEU",
+    "VLELNEUGVYWNFR",
+    "WIORWCCAHMAKCN",
+    "NRSRDYRAXLOEFH",
+    "ORBITGEGPNIOGY",
+    "ANFEFGMMQSIINR"
+  ],
+  "words": [
+    {
+      "word": "BOOSTER",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "CRATER",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "EARTH",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "ECLIPSE",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        14,
+        5
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "LAUNCH",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "ORBIT",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "SPACESUIT",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        0,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PLANET",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ECLIPSE",
+      "prefix": "ECL",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        4,
+        9
+      ]
+    },
+    {
+      "target": "GRAVITY",
+      "prefix": "GRA",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        9,
+        9
+      ],
+      "divergence": [
+        8,
+        10
+      ]
+    },
+    {
+      "target": "LAUNCH",
+      "prefix": "LAUN",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        0,
+        7
+      ],
+      "divergence": [
+        0,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

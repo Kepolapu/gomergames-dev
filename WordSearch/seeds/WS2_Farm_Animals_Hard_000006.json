@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000006",
+  "title": "Barnyard Roaming",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HEOOEHHYEKRUTP",
+    "CAUSWKIDCAORVA",
+    "IOOETYLHBEPPLU",
+    "HOUILRHBYGMULE",
+    "GEIGSEIGYYRLKU",
+    "IMLDKTCCKONHMA",
+    "EAUTTSAKHFDOUE",
+    "ARWWEOLLKOLRPW",
+    "PELDHOFMLVISTR",
+    "UTRDHRYNRIYEGI",
+    "ENNLNDEPHYOIEK",
+    "OSTRIHVNICVNAA",
+    "SRDIOAOYBGHYBD",
+    "RQOKOOUMDWNOPW",
+    "DIOHDHAQRWAOHL",
+    "DDUCKLINGRAIOD"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "CALF",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "MARE",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        3,
+        13
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        7,
+        12
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        10,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DUCKLING",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "LAMB",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        5,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HORSE",
+      "prefix": "HOR",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        3,
+        11
+      ]
+    },
+    {
+      "target": "OSTRICH",
+      "prefix": "OSTRI",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        4
+      ],
+      "divergence": [
+        11,
+        5
+      ]
+    },
+    {
+      "target": "PONY",
+      "prefix": "PON",
+      "start": [
+        13,
+        12
+      ],
+      "end": [
+        13,
+        10
+      ],
+      "divergence": [
+        13,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

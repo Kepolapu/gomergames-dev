@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000003",
+  "title": "Celestial Passage",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "OHPAALDKSL",
+    "DRQUASARVE",
+    "GCBFMMARSX",
+    "RYOIFKKFYO",
+    "AIIMTRFWHP",
+    "VSTLEYKIRL",
+    "IDTVUTLEUA",
+    "TYOEUUTNDN",
+    "YRIYRALKTE",
+    "UASTRONAUT",
+    "DXTCHHIWUE",
+    "SATURNNDHH"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "CRATER",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "EXOPLANET",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "ORBIT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        4,
+        4
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

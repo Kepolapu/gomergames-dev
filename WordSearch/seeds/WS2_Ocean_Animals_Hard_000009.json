@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000009",
+  "title": "Saltwater Journey",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "GFASOEHDIUQSIE",
+    "TSFEJTVNARWHAL",
+    "FCSAFIHMHVBPHU",
+    "KATLSHRIMPNHHD",
+    "ILMJQWOICIIHYA",
+    "ELTRUTIYNFIASE",
+    "AOYLMAFLGHTXAH",
+    "UPLCSEAURCHINR",
+    "LRHRLREWSRWBDE",
+    "ODRSOGKLDVUEDM",
+    "BTKCIGXONAULOM",
+    "SCACYFLRGYIULA",
+    "TERYOPYUHIHILH",
+    "EUUAHNLALUACAO",
+    "RIYIBECHRNVORH",
+    "WCNPBUAHSCUHQF"
+  ],
+  "words": [
+    {
+      "word": "BELUGA",
+      "start": [
+        15,
+        4
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "CONCH",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "CRAYFISH",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        15,
+        2
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "GREATWHITE",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        12,
+        13
+      ],
+      "end": [
+        3,
+        13
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        14,
+        0
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "SEAL",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        3,
+        3
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        11,
+        12
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CORAL",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        7,
+        12
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        5,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BELUGA",
+      "prefix": "BELU",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ],
+      "divergence": [
+        12,
+        11
+      ]
+    },
+    {
+      "target": "SCALLOP",
+      "prefix": "SCA",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        2
+      ],
+      "divergence": [
+        11,
+        3
+      ]
+    },
+    {
+      "target": "SQUID",
+      "prefix": "SQU",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        5,
+        4
+      ],
+      "divergence": [
+        6,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

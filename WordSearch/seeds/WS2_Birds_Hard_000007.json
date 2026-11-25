@@ -1,0 +1,312 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000007",
+  "title": "Cloudland Crossing",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "ALWZEEIESOOGNC",
+    "CYAVVRNRIKKICA",
+    "PSOFNHQWOJBEAO",
+    "EDFLAMINGONROS",
+    "LWRWULMQRMSUTO",
+    "IDKIURCTKWMTLO",
+    "CNUYYAUOODNLEY",
+    "AYWCOVUUNAOUVR",
+    "NNMWKELCSIOVLH",
+    "GYKOBNUAJFJACH",
+    "CRHRLHEEAGLECF",
+    "WATREHSIFGNIKI",
+    "UNAAPNICWNRSWN",
+    "KAKPKEULLTHBVC",
+    "OCYSMCULSNPMGH",
+    "TNHHRNTOUCANLA"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "FLAMINGO",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        11,
+        12
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        0,
+        12
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        14,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        2,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HAWK",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        5,
+        2
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        7,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CANARY",
+      "prefix": "CAN",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ],
+      "divergence": [
+        9,
+        0
+      ]
+    },
+    {
+      "target": "DOVE",
+      "prefix": "DOV",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        8,
+        11
+      ],
+      "divergence": [
+        9,
+        12
+      ]
+    },
+    {
+      "target": "PELICAN",
+      "prefix": "PEL",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        10,
+        4
+      ],
+      "divergence": [
+        9,
+        4
+      ]
+    },
+    {
+      "target": "TOUCAN",
+      "prefix": "TOUCA",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    }
+  ],
+  "trapCount": 4,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

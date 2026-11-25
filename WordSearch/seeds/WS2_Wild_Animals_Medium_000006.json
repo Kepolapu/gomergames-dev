@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Medium_000006",
+  "title": "Mountain Roaming",
+  "category": "Wild Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "VAIUAAIALNHU",
+    "AHHNUOEMECNR",
+    "MBVLIONCLMBT",
+    "IUOHBATCETID",
+    "ZISBXCKEPYSU",
+    "EWDKCNUCHFOW",
+    "BUOORAGNAKNE",
+    "RYVLQATJNGLA",
+    "AOCQVOTKTOFS",
+    "IEOVFEHWMYUE",
+    "ISUYRHRDBOKL",
+    "QOGUCARIBOUU",
+    "FOADLUKWNKUH",
+    "IMRNDRAPOELN"
+  ],
+  "words": [
+    {
+      "word": "BAT",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "BISON",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "ELEPHANT",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "KANGAROO",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "LEOPARD",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "LION",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        13,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BOBCAT",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "CARIBOU",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "LEOPARD",
+      "prefix": "LE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "divergence": [
+        2,
+        8
+      ]
+    },
+    {
+      "target": "MOLE",
+      "prefix": "MO",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        10,
+        9
+      ],
+      "divergence": [
+        11,
+        10
+      ]
+    },
+    {
+      "target": "WOLVERINE",
+      "prefix": "WO",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "divergence": [
+        5,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

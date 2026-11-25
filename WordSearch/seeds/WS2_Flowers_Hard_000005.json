@@ -1,0 +1,312 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000005",
+  "title": "Secret Garden",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "LTVNOITANRACOA",
+    "IFNUOFZQARZKII",
+    "LRGERANIUMRNOF",
+    "YEIBNMEPHGNHOH",
+    "AWCLFIAEAIFMRG",
+    "EOACSIJRZAFACD",
+    "HLJASMDIIEXGHH",
+    "WFKHNENWUGYNIE",
+    "HNCCNMKIWNOODO",
+    "XUUIUNENJADLFB",
+    "FSAZCSRKNRFIDK",
+    "LHYAONYLMDWAWB",
+    "RFLRQSOEHYOAUN",
+    "VIOLETYUNHQOTR",
+    "LSYDUWKLPOPPYF",
+    "CJASMINEAYHHNH"
+  ],
+  "words": [
+    {
+      "word": "CARNATION",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "HONEYSUCKLE",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "POPPY",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        0,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "LOTUS",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        15,
+        3
+      ]
+    },
+    {
+      "word": "MARIGOLD",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        12,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "JASMINE",
+      "prefix": "JASM",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        6,
+        5
+      ],
+      "divergence": [
+        6,
+        6
+      ]
+    },
+    {
+      "target": "POPPY",
+      "prefix": "POP",
+      "start": [
+        14,
+        10
+      ],
+      "end": [
+        14,
+        8
+      ],
+      "divergence": [
+        14,
+        7
+      ]
+    },
+    {
+      "target": "ROSE",
+      "prefix": "ROS",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        14,
+        1
+      ],
+      "divergence": [
+        15,
+        0
+      ]
+    },
+    {
+      "target": "ZINNIA",
+      "prefix": "ZIN",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        7,
+        6
+      ],
+      "divergence": [
+        8,
+        5
+      ]
+    }
+  ],
+  "trapCount": 4,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

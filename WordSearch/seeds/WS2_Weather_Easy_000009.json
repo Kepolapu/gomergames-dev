@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000009",
+  "title": "Crystal Air",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "AUHLCEAOIT",
+    "OHURRICANE",
+    "YEMCECKCRH",
+    "AOIHAILHSL",
+    "AYDCEGSLTI",
+    "RAINBOWUOG",
+    "UUTYFUODRH",
+    "LRYWNEAUMT",
+    "GIODTNUYVN",
+    "UNHIRNOODI",
+    "SYHOHVVPDN",
+    "TWTFLURRYG"
+  ],
+  "words": [
+    {
+      "word": "FLURRY",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "SNOW",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        5,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HURRICANE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "WHITEOUT",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        4,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

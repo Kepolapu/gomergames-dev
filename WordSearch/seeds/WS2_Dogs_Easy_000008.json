@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000008",
+  "title": "Maple Morning",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "PTHNFUYOLT",
+    "ONWBONENHD",
+    "MWCTDFOSCA",
+    "EHOLRHAXHL",
+    "RIKJCEIUOM",
+    "APYILTAIWA",
+    "NPBDBBDTCT",
+    "IEJYGBNFHI",
+    "ATIINYLTOA",
+    "NWUANFVEWN",
+    "HMASTIFFKE",
+    "GREATDANEN"
+  ],
+  "words": [
+    {
+      "word": "BICHON",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "BONE",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "DALMATIAN",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "MASTIFF",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "TREAT",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "WHIPPET",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "GREATDANE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        1,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000009",
+  "title": "Bluewater Crossing",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "SKKCOLLOPVLHUR",
+    "EHDKSTFUINEUVV",
+    "DOUXOHUVITROUT",
+    "CRSARDINEAEHYG",
+    "HWHEHGPHAKKFSR",
+    "SSNMINNOWUCQAO",
+    "EYICLSNMUUAKLU",
+    "AFIFNDTVYNMHMP",
+    "HGVBNLNUCWUBOE",
+    "ONKWEWHHRVLUNR",
+    "RINMIUOAEGBFBN",
+    "SRSUYVLLIGEULB",
+    "ERWIYHCICAUOUL",
+    "KERFEHHBWCIUNH",
+    "AHIHDEDUXITHNV",
+    "DPERCHLTOIECHV"
+  ],
+  "words": [
+    {
+      "word": "BLUEGILL",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "CLOWNFISH",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "GROUPER",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "HALIBUT",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "HERRING",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "MACKEREL",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        5
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "SALMON",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        9,
+        12
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        13,
+        12
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        4,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "COD",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        1,
+        2
+      ]
+    },
+    {
+      "word": "TROUT",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        2,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BLUEGILL",
+      "prefix": "BLU",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ],
+      "divergence": [
+        7,
+        10
+      ]
+    },
+    {
+      "target": "CLOWNFISH",
+      "prefix": "CLO",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        9,
+        6
+      ]
+    },
+    {
+      "target": "PERCH",
+      "prefix": "PER",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        9,
+        13
+      ],
+      "divergence": [
+        10,
+        13
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

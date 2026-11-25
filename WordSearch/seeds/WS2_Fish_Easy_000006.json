@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Easy_000006",
+  "title": "Deepwater Drift",
+  "category": "Fish",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "PPBHVTIUIW",
+    "IEOLNYEOAI",
+    "RFULUBKTTL",
+    "AYLNLEBNRH",
+    "NPCOUOGRSA",
+    "HTYUUOCIHO",
+    "AUWHNNFKLH",
+    "UNCIJLDGCL",
+    "PAOOESMELT",
+    "FOHGJGJYRM",
+    "EYNMINNOWW",
+    "HAUANCHOVY"
+  ],
+  "words": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "BLUEGILL",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "FLOUNDER",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "TETRA",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "PIRANHA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        8,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

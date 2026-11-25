@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Easy_000006",
+  "title": "Treetop Trails",
+  "category": "Birds",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "MCFYDNSNNW",
+    "SAFVAAEUPO",
+    "LRCWEAAQAO",
+    "HDSAFLGWRD",
+    "OIZAWYUURP",
+    "INWUEHLBOE",
+    "FALCONLVTC",
+    "ELEJIWUOMK",
+    "UUFBNFICKE",
+    "NDOVECDMTR",
+    "HRCCROWYTH",
+    "IFPELICANB"
+  ],
+  "words": [
+    {
+      "word": "CARDINAL",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOVE",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        0,
+        5
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

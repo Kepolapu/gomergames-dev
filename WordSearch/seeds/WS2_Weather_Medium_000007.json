@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000007",
+  "title": "Bright Morning",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HFEIOOEUAAUL",
+    "ABOEKTHUNDER",
+    "HLSGYNFEGKXI",
+    "BIWRCYCLONEN",
+    "IZHIRTORNADO",
+    "HZIIMDJQXQNP",
+    "IATYHHRAINIO",
+    "UREREHPSOMTA",
+    "IDOIIMTZZYAU",
+    "FKUQELCICIEU",
+    "RYTVTTSNOWHI",
+    "ODUSYVBQVEBM",
+    "SYUDFORECAST",
+    "TGYTIDIMUHOC"
+  ],
+  "words": [
+    {
+      "word": "ATMOSPHERE",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "BLIZZARD",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "CYCLONE",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        2,
+        3
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "RAIN",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "SNOW",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HEATINDEX",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        2,
+        10
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "WHITEOUT",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ATMOSPHERE",
+      "prefix": "AT",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        2
+      ],
+      "divergence": [
+        6,
+        3
+      ]
+    },
+    {
+      "target": "CYCLONE",
+      "prefix": "CYC",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        3,
+        4
+      ],
+      "divergence": [
+        3,
+        3
+      ]
+    },
+    {
+      "target": "THUNDER",
+      "prefix": "TH",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        7,
+        5
+      ],
+      "divergence": [
+        6,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

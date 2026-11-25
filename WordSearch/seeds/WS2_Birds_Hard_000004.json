@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000004",
+  "title": "Canopy Chorus",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NEKCIHCILUTUUR",
+    "RIEEMNTURKEYUR",
+    "VNVAUEIOYDFDED",
+    "HRUVOIOEACCHVO",
+    "UYLYJSLUAOSHSI",
+    "PLTVTGRXEIPGAM",
+    "UAUEAGFWFDWXEU",
+    "ALREZHTGMMACAW",
+    "PHEASANTXIWAON",
+    "DIIUKIYAEEUUOA",
+    "NGOUKEIAWIYRRC",
+    "OXOWOIEYISEVOI",
+    "CCDOLOYTDHYIBL",
+    "LRSFSAKNYUTGIE",
+    "AOWVTEFRFRCHNP",
+    "FWEAOEOSBHLKBB"
+  ],
+  "words": [
+    {
+      "word": "CHICKEN",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        14,
+        5
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        5,
+        13
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        14,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HERON",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "EAGLE",
+      "prefix": "EAG",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        6,
+        5
+      ],
+      "divergence": [
+        6,
+        6
+      ]
+    },
+    {
+      "target": "FALCON",
+      "prefix": "FAL",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        12,
+        4
+      ],
+      "divergence": [
+        11,
+        3
+      ]
+    },
+    {
+      "target": "ROOSTER",
+      "prefix": "ROO",
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ],
+      "divergence": [
+        7,
+        12
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

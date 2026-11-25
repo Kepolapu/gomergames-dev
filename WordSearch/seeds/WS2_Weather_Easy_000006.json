@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000006",
+  "title": "Calm Skies",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "OXYEVOONCD",
+    "IICICLEKRX",
+    "FROSTRWAEE",
+    "MWIECVZDIF",
+    "OIEKUZNGSO",
+    "NLBKIIBHUR",
+    "SFHLTEIWNE",
+    "OWBAUHEFSC",
+    "OVELUDIIHA",
+    "NHRRNFQJIS",
+    "YCYCLONENT",
+    "HURRICANEJ"
+  ],
+  "words": [
+    {
+      "word": "BLIZZARD",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "CYCLONE",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "HURRICANE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FORECAST",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "HEATINDEX",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

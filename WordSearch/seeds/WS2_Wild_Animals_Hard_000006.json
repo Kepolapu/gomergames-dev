@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Hard_000006",
+  "title": "Mountain Roaming",
+  "category": "Wild Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NUENTRWIOLNNLO",
+    "OJOHEAYTARKSUM",
+    "UISEIAALDWLWIW",
+    "LHDOUKXNYLJMOF",
+    "MGYIRLUFGFBATI",
+    "BEIEIENBOBCATI",
+    "EHEHNJCVNWKYIH",
+    "AMSUMATOPOPPIH",
+    "IDCCACXSNZKGRF",
+    "ODTRUIQCWIEIIA",
+    "HWBWWUALUIHIUC",
+    "LEZIIUKANGAROO",
+    "ZAARMADILLOIFY",
+    "NSRGHNAAUHIRPO",
+    "YEDWAEKOALAUIT",
+    "LLRPIIGFFKLHAE"
+  ],
+  "words": [
+    {
+      "word": "ARMADILLO",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        10
+      ]
+    },
+    {
+      "word": "BAT",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        4,
+        12
+      ]
+    },
+    {
+      "word": "BOBCAT",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "COYOTE",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "HIPPOPOTAMUS",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "KANGAROO",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "KOALA",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "LION",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "MEERKAT",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "PANDA",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "RHINOCEROS",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        15,
+        0
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        8,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ELK",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "HYENA",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        15,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BOBCAT",
+      "prefix": "BOB",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        5,
+        7
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    },
+    {
+      "target": "LYNX",
+      "prefix": "LYN",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ],
+      "divergence": [
+        12,
+        0
+      ]
+    },
+    {
+      "target": "MEERKAT",
+      "prefix": "MEE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        6,
+        2
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

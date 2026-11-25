@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000005",
+  "title": "Morning Flight",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "FWORRAPSDNKSNH",
+    "VMULWFGUZCEWCF",
+    "APARROTUUAINVA",
+    "PKNCEAJDGXIYHE",
+    "UCLHAUIURFSWAN",
+    "RSNDUWLUMGVPEV",
+    "CMTOFLHVOFKAVU",
+    "RTMOCKINGBIRDL",
+    "APWIRLFKNHEAOT",
+    "NUEUBKAAIUXKVU",
+    "EAUNMBCFMKVEBR",
+    "ANOEGIPFALCELE",
+    "YOVULUFWLWBTCN",
+    "DGOEUUICFDKNVR",
+    "LTPVYRANACBDKQ",
+    "EUOWHGAAWGOOSE"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        14,
+        9
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "CRANE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        5,
+        2
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        0,
+        13
+      ]
+    },
+    {
+      "word": "FLAMINGO",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "MOCKINGBIRD",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        7,
+        12
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        14,
+        7
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        5,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PELICAN",
+      "start": [
+        14,
+        2
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CANARY",
+      "prefix": "CAN",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        8,
+        8
+      ],
+      "divergence": [
+        7,
+        9
+      ]
+    },
+    {
+      "target": "FALCON",
+      "prefix": "FALC",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        11,
+        10
+      ],
+      "divergence": [
+        11,
+        11
+      ]
+    },
+    {
+      "target": "VULTURE",
+      "prefix": "VUL",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        4
+      ],
+      "divergence": [
+        12,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

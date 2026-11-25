@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000002",
+  "title": "Silver Horizon",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "EMROIITAKUNH",
+    "EIGEHDROUGHT",
+    "XSNOWDRIFTMW",
+    "UTIYIIGTRRYY",
+    "OONIETFWGNFI",
+    "CFTSACEROFRT",
+    "DWHAVDVOSZAH",
+    "RBGEZYHOLQIU",
+    "AQIEAPVREUNN",
+    "ZRLYYTVMEYHD",
+    "ZNHTKGWUTIUE",
+    "IEGJIYUAIUUR",
+    "LCLOUDWSVELN",
+    "BELCICIITEIN"
+  ],
+  "words": [
+    {
+      "word": "BLIZZARD",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "DROUGHT",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        5,
+        2
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "RAIN",
+      "start": [
+        5,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "SNOWDRIFT",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "TYPHOON",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HEATWAVE",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        1,
+        2
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        10,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DROUGHT",
+      "prefix": "DR",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        2,
+        6
+      ],
+      "divergence": [
+        3,
+        7
+      ]
+    },
+    {
+      "target": "ICICLE",
+      "prefix": "ICI",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        6
+      ],
+      "divergence": [
+        13,
+        7
+      ]
+    },
+    {
+      "target": "TYPHOON",
+      "prefix": "TY",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        9,
+        3
+      ],
+      "divergence": [
+        8,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

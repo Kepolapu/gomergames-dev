@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Medium_000006",
+  "title": "Deepwater Drift",
+  "category": "Fish",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "UEIARVTLTGPE",
+    "ASALMONLNHEE",
+    "KNFUUBVIYIRI",
+    "EHVVLARGUUCA",
+    "OANWURDEYFHI",
+    "IDGIERNUUIRP",
+    "SDLHIAYLLOMA",
+    "AOMJOCDBQWFL",
+    "RCGSTURGEONI",
+    "DKYCRDEVTIDT",
+    "IBETTAKNOUMW",
+    "NGGJKVZKUFNE",
+    "EGSEAHORSEOA",
+    "NHSIFTACICAA"
+  ],
+  "words": [
+    {
+      "word": "BARRACUDA",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "BETTA",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "BLUEGILL",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "CATFISH",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "SALMON",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        12,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HERRING",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        8,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BETTA",
+      "prefix": "BE",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        8,
+        8
+      ],
+      "divergence": [
+        9,
+        9
+      ]
+    },
+    {
+      "target": "KOI",
+      "prefix": "KO",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        12,
+        6
+      ],
+      "divergence": [
+        13,
+        5
+      ]
+    },
+    {
+      "target": "SEAHORSE",
+      "prefix": "SE",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        12,
+        3
+      ],
+      "divergence": [
+        11,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

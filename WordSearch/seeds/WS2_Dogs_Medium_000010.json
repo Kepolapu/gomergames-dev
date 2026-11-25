@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Medium_000010",
+  "title": "Silver Path",
+  "category": "Dogs",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "EHRGOUAHIHOU",
+    "LXVORQATIKAL",
+    "BWIMTECLBONE",
+    "BCNAOTYYHDCA",
+    "IHYSXLWHRWLS",
+    "KOGTBQVEOVEH",
+    "MWCIHEHAIUNR",
+    "LCIFAPAIYLNU",
+    "VHHFEGCGLDED",
+    "IOWHNHSNLDKR",
+    "IWSTREIRRETJ",
+    "RUUTDJJQWSFG",
+    "UDALMATIANUI",
+    "IABISCUITPEU"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "BEAGLE",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "BISCUIT",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "BONE",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "DALMATIAN",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "MASTIFF",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "PUG",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "ROTTWEILER",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "SHEPHERD",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "TERRIER",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        10,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "GREYHOUND",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "KENNEL",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ROTTWEILER",
+      "prefix": "RO",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        5,
+        8
+      ],
+      "divergence": [
+        6,
+        8
+      ]
+    },
+    {
+      "target": "SHEPHERD",
+      "prefix": "SH",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ],
+      "divergence": [
+        6,
+        11
+      ]
+    },
+    {
+      "target": "TERRIER",
+      "prefix": "TE",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        5
+      ],
+      "divergence": [
+        2,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

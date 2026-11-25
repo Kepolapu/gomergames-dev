@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Medium_000002",
+  "title": "Blossom Breeze",
+  "category": "Flowers",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "PTWDRTYPAVDL",
+    "RKRJAJVIOLET",
+    "ISEIQHSQOPYA",
+    "MZWDWHLGUWPI",
+    "RFOUCTIIGWDY",
+    "OQLUERWCAUNZ",
+    "SRFKAGXTRZOI",
+    "ELNMBCQBDVIN",
+    "BLUEBONNETTN",
+    "CXSYAUZHNPAI",
+    "IAINOGEBIXNA",
+    "KRKWMEKLAJRA",
+    "NLILACUOUWAO",
+    "QAHSFTREUICI"
+  ],
+  "words": [
+    {
+      "word": "BEGONIA",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "CARNATION",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "MARIGOLD",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "POPPY",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        1,
+        2
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        13,
+        5
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FUCHSIA",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        13,
+        3
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BEGONIA",
+      "prefix": "BE",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ],
+      "divergence": [
+        6,
+        0
+      ]
+    },
+    {
+      "target": "LILAC",
+      "prefix": "LI",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        4,
+        6
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    },
+    {
+      "target": "POPPY",
+      "prefix": "PO",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        2,
+        8
+      ],
+      "divergence": [
+        2,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

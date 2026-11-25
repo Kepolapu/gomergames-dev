@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Medium_000003",
+  "title": "Celestial Passage",
+  "category": "Space",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "IIENTRVTIIAO",
+    "YHOLHHQUASAR",
+    "ROGTHTRAEJNT",
+    "MRHETIROETEM",
+    "STGLQJYUJNNM",
+    "YPREWSOLARWG",
+    "YIASFWMLUHLE",
+    "ROVCXUPTBHSU",
+    "UEIOEHAHCRUP",
+    "CYTPQSKNERTR",
+    "RTYEIUUVUIHO",
+    "EFGOIAIIOESB",
+    "MTROLNIITYFE",
+    "IHFUUBOOSTER"
+  ],
+  "words": [
+    {
+      "word": "BOOSTER",
+      "start": [
+        13,
+        5
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "EARTH",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        3,
+        3
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        6,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "LAUNCH",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "SPACESUIT",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        12,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MOON",
+      "prefix": "MO",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        5,
+        6
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    },
+    {
+      "target": "PROBE",
+      "prefix": "PR",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        2
+      ],
+      "divergence": [
+        5,
+        3
+      ]
+    },
+    {
+      "target": "UNIVERSE",
+      "prefix": "UN",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        9,
+        7
+      ],
+      "divergence": [
+        8,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

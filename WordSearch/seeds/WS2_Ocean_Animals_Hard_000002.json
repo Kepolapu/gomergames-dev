@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000002",
+  "title": "Tidal Wonders",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "EHIASIEBHOFEHI",
+    "OIHWFTNSQACROS",
+    "SHRIMPIWHNUCHY",
+    "WHDPHFHNMUSSEL",
+    "HNIRYDPHGEXOJU",
+    "SIUAHKLKVRIEAL",
+    "RHRALLODDNASIO",
+    "NCUYHNDTRDDYHB",
+    "MRLOKCHNTGBGLS",
+    "UUHAMMERHEADUT",
+    "WAENAULHQCRUHE",
+    "HEGLAEEHOHNTPR",
+    "ASCXEOKRSCAKRH",
+    "LGWYIQAYLWCUAG",
+    "EWSURLAWCWLHWH",
+    "UPENGUINHAEHNW"
+  ],
+  "words": [
+    {
+      "word": "BARNACLE",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "CLAM",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "CORAL",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        14,
+        5
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        5,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        13
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        11,
+        12
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        14,
+        2
+      ]
+    },
+    {
+      "word": "WHALE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        14,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CRAYFISH",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "ORCA",
+      "start": [
+        1,
+        12
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        10,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CLAM",
+      "prefix": "CLA",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        9,
+        3
+      ],
+      "divergence": [
+        10,
+        4
+      ]
+    },
+    {
+      "target": "PRAWN",
+      "prefix": "PRA",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        5,
+        3
+      ],
+      "divergence": [
+        6,
+        3
+      ]
+    },
+    {
+      "target": "SHRIMP",
+      "prefix": "SHR",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        10,
+        10
+      ],
+      "divergence": [
+        9,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

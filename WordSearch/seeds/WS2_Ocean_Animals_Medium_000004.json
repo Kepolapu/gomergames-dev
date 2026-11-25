@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Medium_000004",
+  "title": "Coastal Kingdom",
+  "category": "Ocean Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "IUCYZUUGSIOH",
+    "HVMUSSELEFRS",
+    "KRILLQWNAACI",
+    "LOBSTERHLFAF",
+    "RGKGQNUWVSJY",
+    "MLCORALVMABL",
+    "STINGRAYVNDL",
+    "CGQWFWURYDKE",
+    "OPMIRHSLFDYJ",
+    "NVHPRAWNXOTG",
+    "CEIWULLVYLHO",
+    "HMIWUHACVLII",
+    "BESROHAESAIY",
+    "EETANAMFFRDC"
+  ],
+  "words": [
+    {
+      "word": "CONCH",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "JELLYFISH",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "KRILL",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "MANATEE",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "ORCA",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "SEAL",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        6,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CORAL",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MANATEE",
+      "prefix": "MA",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        12,
+        6
+      ],
+      "divergence": [
+        11,
+        6
+      ]
+    },
+    {
+      "target": "ORCA",
+      "prefix": "OR",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "divergence": [
+        1,
+        1
+      ]
+    },
+    {
+      "target": "PRAWN",
+      "prefix": "PR",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        8,
+        4
+      ],
+      "divergence": [
+        7,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

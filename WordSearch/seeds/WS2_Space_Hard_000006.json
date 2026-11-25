@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000006",
+  "title": "Galactic Quest",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "UTMUEVCAALUBEN",
+    "UREBHACOMETYWM",
+    "PZRNPUEUFHXLRO",
+    "ELCSAUWOIALCWO",
+    "OAULKLVWLVURFN",
+    "QLRTULPAUOBAKI",
+    "EWYTOFGOMNHTAA",
+    "RHYHHFRRXRBESI",
+    "NENTKDBQGEWRTO",
+    "ELTTUHSGJPJKEW",
+    "NSNSPACESUITRR",
+    "LCHRUHBHDSPQOT",
+    "AAMWLRTBBVGEIA",
+    "EEUAHVHYIMTBDI",
+    "IZABRVMTKERHFA",
+    "ECLIPSEVMOHDTO"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        6,
+        12
+      ],
+      "end": [
+        13,
+        12
+      ]
+    },
+    {
+      "word": "CAPSULE",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "CRATER",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "EARTH",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "ECLIPSE",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "EXOPLANET",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        15,
+        5
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "METEOR",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "ORBIT",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "PLUTO",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "THRUSTER",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        7,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GALAXY",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "SHUTTLE",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "SPACESUIT",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CAPSULE",
+      "prefix": "CAPS",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        10,
+        3
+      ],
+      "divergence": [
+        10,
+        2
+      ]
+    },
+    {
+      "target": "METEOR",
+      "prefix": "MET",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        10
+      ],
+      "divergence": [
+        1,
+        11
+      ]
+    },
+    {
+      "target": "PLUTO",
+      "prefix": "PLUT",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        5,
+        3
+      ],
+      "divergence": [
+        5,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

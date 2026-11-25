@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Medium_000004",
+  "title": "Meadow Pathways",
+  "category": "Farm Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "SGIYIURPRTPI",
+    "FYOOIEIGLVEU",
+    "ULRABBITVGEF",
+    "LOHETVESROHC",
+    "PIMEBKIKYSSY",
+    "RQKUNVAGMLNL",
+    "EUIVLMJIJITN",
+    "TAIAEEBYENOH",
+    "SIUUKVFCSGFV",
+    "OLYAALHWNYHR",
+    "OFIMAKNYGDLA",
+    "RUACNTURKEYM",
+    "ILPFGDWKLDFC",
+    "LHHDOGHRWEAG"
+  ],
+  "words": [
+    {
+      "word": "CALF",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "GOAT",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        11,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HORSE",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        2,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CALF",
+      "prefix": "CA",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        2
+      ],
+      "divergence": [
+        11,
+        1
+      ]
+    },
+    {
+      "target": "HEN",
+      "prefix": "HE",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        3
+      ],
+      "divergence": [
+        3,
+        4
+      ]
+    },
+    {
+      "target": "TURKEY",
+      "prefix": "TU",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        6,
+        1
+      ],
+      "divergence": [
+        5,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

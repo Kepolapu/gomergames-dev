@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Medium_000009",
+  "title": "Saltwater Journey",
+  "category": "Ocean Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "IMNRVFLGLYBR",
+    "BELUGAKIKAEU",
+    "CORALHAURTUD",
+    "HKKHFNKCSDKR",
+    "NHGHSIFYARCE",
+    "ASRWHVOIQUWT",
+    "RFEIZDWALRUS",
+    "WCAANFUUEWVB",
+    "HTTSUPOTCOFO",
+    "ATWIERWMKUBL",
+    "LIHUUICLAMLK",
+    "VXIRBWWHTFPI",
+    "LHTPENGUINEI",
+    "RFEGRAACONCH"
+  ],
+  "words": [
+    {
+      "word": "BELUGA",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "CONCH",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "CORAL",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "CRAYFISH",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        6,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CLAM",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "GREATWHITE",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        0,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BELUGA",
+      "prefix": "BE",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        1,
+        10
+      ],
+      "divergence": [
+        2,
+        10
+      ]
+    },
+    {
+      "target": "OCTOPUS",
+      "prefix": "OC",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        7
+      ],
+      "divergence": [
+        13,
+        6
+      ]
+    },
+    {
+      "target": "SNAIL",
+      "prefix": "SN",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        7,
+        4
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

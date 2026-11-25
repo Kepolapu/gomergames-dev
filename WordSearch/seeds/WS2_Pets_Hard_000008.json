@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000008",
+  "title": "Indoor Adventure",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "EFEHELTRUTGEHN",
+    "LRHSGFNLUKISAI",
+    "TOVOIHRWIAHUQE",
+    "HGDVCOITKCHORH",
+    "THRNHFTZMSLMAA",
+    "HLIBREGRIYXXBO",
+    "AFHLNTDFOIOWBU",
+    "MGUPPYLGTTVEII",
+    "SBFKFEUNEXKGTL",
+    "TUSYGGBZRHGEYT",
+    "EOUNBTFRCMOUCO",
+    "RTARANTULARGXL",
+    "YOEYMKWWAKNYTO",
+    "HAHIGUEIECKALX",
+    "FCOIEOOUUOWURA",
+    "EKHEIGUANAOEIY"
+  ],
+  "words": [
+    {
+      "word": "AXOLOTL",
+      "start": [
+        14,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        15,
+        4
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        0,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        13,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AXOLOTL",
+      "prefix": "AXO",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        6,
+        10
+      ],
+      "divergence": [
+        7,
+        9
+      ]
+    },
+    {
+      "target": "IGUANA",
+      "prefix": "IGU",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        5
+      ],
+      "divergence": [
+        13,
+        6
+      ]
+    },
+    {
+      "target": "MOUSE",
+      "prefix": "MOU",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        10,
+        11
+      ],
+      "divergence": [
+        10,
+        12
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

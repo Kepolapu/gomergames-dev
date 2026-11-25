@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000009",
+  "title": "Migratory Quest",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RMMOAOHNDAIITI",
+    "RXFALCONREUKTR",
+    "FEOCCOCUIRUHGY",
+    "TAKNYAIYBZLIRO",
+    "OLLCGUWDGAAOSL",
+    "UUPHEASANTZTYN",
+    "CBPBIPVIILRLOM",
+    "AHNYELDUKILRFF",
+    "NHHLNRVOCCEPHV",
+    "CDGEAEJHOHPIMU",
+    "IAVCUUAHMWLGBL",
+    "EAGMFXACKRDEKT",
+    "RTURKEYNOKJOKU",
+    "CLEHNACILEPNVR",
+    "URRIYDTFSWANLE",
+    "NIUGNEPHLUEHDR"
+  ],
+  "words": [
+    {
+      "word": "CARDINAL",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "MOCKINGBIRD",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        15,
+        0
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOVE",
+      "start": [
+        11,
+        10
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        1,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "EAGLE",
+      "prefix": "EAG",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        2
+      ],
+      "divergence": [
+        11,
+        3
+      ]
+    },
+    {
+      "target": "FALCON",
+      "prefix": "FAL",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        4,
+        2
+      ],
+      "divergence": [
+        5,
+        3
+      ]
+    },
+    {
+      "target": "PELICAN",
+      "prefix": "PEL",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        7,
+        10
+      ],
+      "divergence": [
+        6,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

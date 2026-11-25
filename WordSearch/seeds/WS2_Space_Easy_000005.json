@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000005",
+  "title": "Astral Adventure",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UANENHIWRE",
+    "CEARTHIAPU",
+    "RWXTGFTOFN",
+    "AMRNRSCTTI",
+    "TXONFSWUGV",
+    "EFCDEDAKIE",
+    "RTKLUNBIIR",
+    "KYEYOLUUES",
+    "NTTRVEEVJE",
+    "BMTYPBOKUK",
+    "TSGMERCURY",
+    "ANECLIPSEO"
+  ],
+  "words": [
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "CRATER",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "ECLIPSE",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "MODULE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        0,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "EARTH",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000006",
+  "title": "Quiet Corner",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "EAOPMYKTID",
+    "KBMECNPGBA",
+    "LLKKTHRAXC",
+    "HOUIGOEIWH",
+    "OODNCRUWHS",
+    "FDHGKQUKMH",
+    "BHYEGEYYHU",
+    "EOQSLPLDLN",
+    "AUZEPTGPRD",
+    "GNXUMQOZIR",
+    "LDPNCANINE",
+    "ERLABRADOR"
+  ],
+  "words": [
+    {
+      "word": "BEAGLE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "BLOODHOUND",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "CANINE",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "CHEW",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "CORGI",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "DACHSHUND",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "KELPIE",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "LABRADOR",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "PEKINGESE",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        6,
+        6
+      ]
+    }
+  ],
+  "traps": []
+}

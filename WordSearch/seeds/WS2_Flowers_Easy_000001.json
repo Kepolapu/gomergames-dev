@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000001",
+  "title": "Petal Haven",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "GOYIOVIVCH",
+    "UEGNROSEUL",
+    "CWRZIIULNO",
+    "HYFAIESVHT",
+    "PIJTNGHVOU",
+    "ABBAMIFULS",
+    "NEAIFOUCLR",
+    "SGWZSIVMYS",
+    "YOHHACYGHA",
+    "FNQHELUCOQ",
+    "LILYNUESCY",
+    "DAHLIAEAKE"
+  ],
+  "words": [
+    {
+      "word": "GERANIUM",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "AZALEA",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "BEGONIA",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        5
+      ]
+    }
+  ],
+  "traps": []
+}

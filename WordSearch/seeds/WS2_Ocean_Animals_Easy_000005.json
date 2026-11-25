@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000005",
+  "title": "Marine Marvels",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "SCBJCFHEEU",
+    "ECENARWHAL",
+    "ANLMEUELDG",
+    "UTUAHIRIWR",
+    "RKGVMEUWAE",
+    "CKADTQHRLA",
+    "HMUSSELRRT",
+    "ITBFIORDUW",
+    "NOAEEIGDSH",
+    "LVOJUPQFII",
+    "YSTINGRAYT",
+    "BARNACLELE"
+  ],
+  "words": [
+    {
+      "word": "BARNACLE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "BELUGA",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        5,
+        2
+      ]
+    },
+    {
+      "word": "GREATWHITE",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CLAM",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

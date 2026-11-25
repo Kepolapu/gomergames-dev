@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000010",
+  "title": "Rural Passage",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "OFACIYIIPLIINM",
+    "AAEAAOOEICAEHD",
+    "EMWOJLCIGSHMHN",
+    "EAXOSTFGTHIHBR",
+    "ILFRXTTGOIAEAH",
+    "RLDOLVRNFUBOIE",
+    "GRTOIIEIMNBBFG",
+    "ULCSIYULCYGDAV",
+    "EYCTBIMKTHFASR",
+    "MLVEAEACAPLAAR",
+    "UWERVAVUWHFIIQ",
+    "IHHKLUUDRLIHIU",
+    "NDONKEYCRUAHYA",
+    "ENLYOACWKIDOOI",
+    "CYJGOOSEOLLFFL",
+    "LUOAIARVTUSWNH"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        3,
+        13
+      ]
+    },
+    {
+      "word": "CALF",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "DUCKLING",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "FOAL",
+      "start": [
+        14,
+        12
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        14,
+        3
+      ],
+      "end": [
+        14,
+        7
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        0,
+        12
+      ]
+    },
+    {
+      "word": "LAMB",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "COLT",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "FOAL",
+      "prefix": "FOA",
+      "start": [
+        6,
+        12
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    },
+    {
+      "target": "OSTRICH",
+      "prefix": "OST",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        3,
+        6
+      ]
+    },
+    {
+      "target": "ROOSTER",
+      "prefix": "ROO",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        13,
+        4
+      ],
+      "divergence": [
+        12,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

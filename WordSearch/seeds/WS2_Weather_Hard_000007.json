@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Hard_000007",
+  "title": "Bright Morning",
+  "category": "Weather",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NOOSNOMOGNAURE",
+    "KVNHNCBLIZZARD",
+    "DOWNPOURAAINMB",
+    "UBLNVNWNTEOXHE",
+    "YEIYHDPDNOAEWR",
+    "LARPVEHIRUADHE",
+    "RJUUQNHWBIENNH",
+    "GWUMTSKKHUFIWP",
+    "NTORNADOONQTWS",
+    "ILFUJTRVREIABO",
+    "NWSIJIPELUWEUM",
+    "TLTWIODCPVSHKT",
+    "HGOSRNINLMLGHA",
+    "GFIYUCOUXDEDAA",
+    "IYDHIGWAWFETIU",
+    "LUTOVERCASTWLT"
+  ],
+  "words": [
+    {
+      "word": "ATMOSPHERE",
+      "start": [
+        12,
+        13
+      ],
+      "end": [
+        3,
+        13
+      ]
+    },
+    {
+      "word": "BLIZZARD",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "CONDENSATION",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "HEATINDEX",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "RAIN",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        3,
+        3
+      ]
+    },
+    {
+      "word": "SNOWDRIFT",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "TEMPERATURE",
+      "start": [
+        14,
+        11
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GUST",
+      "start": [
+        14,
+        5
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        11,
+        10
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        9,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HEATINDEX",
+      "prefix": "HEA",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "divergence": [
+        6,
+        9
+      ]
+    },
+    {
+      "target": "OVERCAST",
+      "prefix": "OVE",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ],
+      "divergence": [
+        11,
+        7
+      ]
+    },
+    {
+      "target": "RAIN",
+      "prefix": "RAI",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        2,
+        10
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000009",
+  "title": "Silken Field",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "MJIOIGTRVA",
+    "OANLROSEIE",
+    "HSRRINVNOX",
+    "YMYIHLUYLG",
+    "DIQEGTAQET",
+    "RNUAEOCCTD",
+    "AEVPWVLHLQ",
+    "NJKHUUNDPE",
+    "GDANDELION",
+    "EUUDAHLIAI",
+    "AUEVKUWUHA",
+    "AYLOTUSMDE"
+  ],
+  "words": [
+    {
+      "word": "DAHLIA",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MARIGOLD",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        5,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

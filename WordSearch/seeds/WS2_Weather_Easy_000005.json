@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000005",
+  "title": "Open Horizon",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "TFHWUAAZRI",
+    "HLCICAAUEL",
+    "UUWNYOONWI",
+    "NRYDMPIUWG",
+    "DRDNNHFOGH",
+    "EYMWSNBMTT",
+    "RPONXNRWWN",
+    "DDUQIOZEYI",
+    "RSYATUVOIN",
+    "MDRSGMISTG",
+    "HYNTWGXAGH",
+    "SNOWFLAKEA"
+  ],
+  "words": [
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "RAINBOW",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        3,
+        3
+      ]
+    }
+  ],
+  "traps": []
+}

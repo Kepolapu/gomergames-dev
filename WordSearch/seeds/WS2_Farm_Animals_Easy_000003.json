@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000003",
+  "title": "Country Crossing",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "SHROVRIRUA",
+    "LEYSHAKPAE",
+    "KIDTHBDOFM",
+    "OFWRCBHUPB",
+    "FEGIEIBECL",
+    "ARWCFTLOEK",
+    "HLRHHUFUAU",
+    "RWCFMKUHOR",
+    "RHHONEYBEE",
+    "VFVWIAYIFI",
+    "HORSEOOYRE",
+    "ISTEERLNHY"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DUCK",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        5,
+        5
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

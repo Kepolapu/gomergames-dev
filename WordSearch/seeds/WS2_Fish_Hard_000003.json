@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000003",
+  "title": "Angling Horizon",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "IGBSWGFPWIEOAO",
+    "GIEKYARGNITSTT",
+    "HVAFPAKOIVVHBY",
+    "HCGDCIEYUORTTV",
+    "AMRBWGRBYPLLRO",
+    "DTTERLVADKEKMH",
+    "DTRUPUORNMHRRC",
+    "OZTOUCRRSHPOYN",
+    "CSAEUNKAWYAIIA",
+    "KHWSRTKCRJOOKU",
+    "KMHREDNUOLFFRE",
+    "AAKOROHDHLVPOK",
+    "URUHUYOANCLARH",
+    "SLDAALCKCSYODG",
+    "WIMEYCATFISHPB",
+    "UNKSDSALMONNDU"
+  ],
+  "words": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "CARP",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "CATFISH",
+      "start": [
+        14,
+        5
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "FLOUNDER",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "GROUPER",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "MARLIN",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "PIKE",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "PIRANHA",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "SALMON",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "TROUT",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BARRACUDA",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        14,
+        12
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANCHOVY",
+      "prefix": "ANC",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        9
+      ],
+      "divergence": [
+        12,
+        10
+      ]
+    },
+    {
+      "target": "PERCH",
+      "prefix": "PER",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        6,
+        11
+      ],
+      "divergence": [
+        7,
+        12
+      ]
+    },
+    {
+      "target": "TROUT",
+      "prefix": "TROU",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        3,
+        8
+      ],
+      "divergence": [
+        3,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000008",
+  "title": "Summer Glow",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "PPHLEHYPYY",
+    "ENHSIKWEGD",
+    "TIOHNLYRJA",
+    "URXUESYIAH",
+    "NDEUIVHWSL",
+    "INPANSYIMI",
+    "AXDGHDYNIA",
+    "ILOTUSMKNA",
+    "IUVWWEWLEV",
+    "ORCHIDHEAK",
+    "FYBSHFUFKA",
+    "YSUNFLOWER"
+  ],
+  "words": [
+    {
+      "word": "DAHLIA",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    }
+  ],
+  "traps": []
+}

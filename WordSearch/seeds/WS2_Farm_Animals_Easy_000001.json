@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000001",
+  "title": "Pasture Journey",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "ULDEYMSFBG",
+    "DYRULGTUYO",
+    "SAEACSAEAS",
+    "MTIIAKLQUL",
+    "NYEIGWLDAI",
+    "SHEEPGIZON",
+    "GRIERTOFSG",
+    "FOCAAKNQTH",
+    "FVRKACAURM",
+    "TURKEYUAIE",
+    "KHCHAHIICP",
+    "ALPACAFLHP"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MARE",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        7,
+        6
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

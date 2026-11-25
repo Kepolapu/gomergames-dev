@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000010",
+  "title": "Reefside Ramble",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NWIOETIUIILHKM",
+    "CGUPPYUEAECYYU",
+    "LALNENIDRASFPA",
+    "PURMFMTEHFLDHA",
+    "OIIPSKKDKOHNTR",
+    "LIWAECLHUYATYF",
+    "LSFKACUNWREBHG",
+    "OGWMHYDYIBHEHM",
+    "CKNOOEFPELJMII",
+    "KCLHRGLMUERPHN",
+    "HOLZSDHYOHLAAN",
+    "MDNUEGFICLEUMO",
+    "HDRPIKEIGWLHIW",
+    "TAWUANCHSUYYHA",
+    "RHCUWVYVOHCNAA",
+    "RHALIBUTRUWRME"
+  ],
+  "words": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        14,
+        12
+      ],
+      "end": [
+        14,
+        6
+      ]
+    },
+    {
+      "word": "BETTA",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        3,
+        13
+      ]
+    },
+    {
+      "word": "CARP",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "FLOUNDER",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "HALIBUT",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "MACKEREL",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        15,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "PIKE",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "PIRANHA",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        2,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MARLIN",
+      "start": [
+        11,
+        12
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "SWORDFISH",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        14,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANCHOVY",
+      "prefix": "ANCH",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        7
+      ],
+      "divergence": [
+        13,
+        8
+      ]
+    },
+    {
+      "target": "MAHIMAHI",
+      "prefix": "MAHI",
+      "start": [
+        11,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ],
+      "divergence": [
+        7,
+        12
+      ]
+    },
+    {
+      "target": "MOLLY",
+      "prefix": "MOL",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        9,
+        2
+      ],
+      "divergence": [
+        8,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

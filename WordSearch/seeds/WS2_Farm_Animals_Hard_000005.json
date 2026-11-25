@@ -1,0 +1,328 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000005",
+  "title": "Harvest Horizon",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "UMEUKIWYHFDHHR",
+    "FRFBWWYDCOWRGL",
+    "DWUORLLRVAAPLE",
+    "UWIAAEWUEBEUUH",
+    "CHLRKLFRBZBERL",
+    "KUHWRRHIICNGAU",
+    "FZIGFSTEERQLMD",
+    "IERLOHZVEHHBIM",
+    "HCIRTSOQBVPKWU",
+    "NHWMUVLYYEGTGO",
+    "LDTCRUUIESIECV",
+    "TPNPKHMHNOAUAQ",
+    "MRLTEKSYOGSUUE",
+    "KUHHYCYRHIIAHE",
+    "HILFCNMLFAIXEI",
+    "CEIESCOLTLOYTO"
+  ],
+  "words": [
+    {
+      "word": "BULL",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "COW",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "FOAL",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        15,
+        3
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        6,
+        12
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        13,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BOAR",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BULL",
+      "prefix": "BUL",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        2,
+        6
+      ],
+      "divergence": [
+        1,
+        5
+      ]
+    },
+    {
+      "target": "FOAL",
+      "prefix": "FOA",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    },
+    {
+      "target": "GOSLING",
+      "prefix": "GOS",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ],
+      "divergence": [
+        9,
+        9
+      ]
+    },
+    {
+      "target": "HEIFER",
+      "prefix": "HEI",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        6,
+        2
+      ],
+      "divergence": [
+        5,
+        3
+      ]
+    },
+    {
+      "target": "MULE",
+      "prefix": "MUL",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "divergence": [
+        8,
+        6
+      ]
+    }
+  ],
+  "trapCount": 5,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000001",
+  "title": "Feathered Horizons",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HNLNOREHKSYIIH",
+    "HAIFETTQPCRANE",
+    "LQWBOITAARVLVE",
+    "CTVKODREIRNRVM",
+    "ROPOKRHHEHWOFD",
+    "OUIEOIDHTKDSQO",
+    "WCUWLNSRFYATGV",
+    "IAYRXIWUIIKRYW",
+    "DNQOFACHAENIAI",
+    "TPIGEONAAIECYP",
+    "OTNNHOUFNUAHHI",
+    "UIMIPNIOGMVHHU",
+    "KVYMUVKTURKEYO",
+    "OHLARWLLUGAESC",
+    "NWULIYHRNUEAHI",
+    "KILFRHFAEUEALQ"
+  ],
+  "words": [
+    {
+      "word": "CRANE",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        5,
+        10
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        3,
+        3
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        15,
+        2
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        13,
+        12
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        12
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FLAMINGO",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DOVE",
+      "prefix": "DOV",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        6,
+        13
+      ],
+      "divergence": [
+        7,
+        13
+      ]
+    },
+    {
+      "target": "HERON",
+      "prefix": "HER",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        3,
+        9
+      ],
+      "divergence": [
+        2,
+        10
+      ]
+    },
+    {
+      "target": "TOUCAN",
+      "prefix": "TOU",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ],
+      "divergence": [
+        12,
+        0
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000001",
+  "title": "Companion Trails",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "MNSDUTJNOHTYPN",
+    "ELCNRTDFBKBKHE",
+    "ECRGAANKAECCHR",
+    "AGWAAKZEOUUENH",
+    "PNRITKEINIJGGT",
+    "AYGHYUIALRPHOR",
+    "RTTEEKARAPHRNM",
+    "RRGLLKGLLYTDNG",
+    "OTDTNFUIHORMOL",
+    "TPFRRIIHIIRRPO",
+    "RUHUFPNSYUFLNI",
+    "EPLTWTERHVUHDI",
+    "RPFALJAXOLOTLY",
+    "BYCWRNPYRABBIT",
+    "YAYUAYIGIEYTYR",
+    "MAUCLBGAKITTEN"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "AXOLOTL",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CANARY",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        11,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "GECKO",
+      "prefix": "GECK",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        1,
+        11
+      ],
+      "divergence": [
+        0,
+        11
+      ]
+    },
+    {
+      "target": "PUPPY",
+      "prefix": "PUP",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ],
+      "divergence": [
+        8,
+        1
+      ]
+    },
+    {
+      "target": "PYTHON",
+      "prefix": "PYT",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        6,
+        2
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

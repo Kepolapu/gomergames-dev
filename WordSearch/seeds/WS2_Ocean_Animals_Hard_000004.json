@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000004",
+  "title": "Coastal Kingdom",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RTOFPUASRRUWCL",
+    "URVTTOUHNEASVE",
+    "DEYMTTLTTAARFL",
+    "WTSRJELLYFISHT",
+    "ASTRVRRLAEGLDR",
+    "LBGFOTAWYCVGHU",
+    "ROGHPHQKIZSLLT",
+    "ULDRWAAOTLELYO",
+    "SRARWMIEFSIYSK",
+    "RWAKQMUUSRWWTY",
+    "NNOANEIUKGRUIH",
+    "LLTFCRMECLAMNC",
+    "VDOLPHINMDRKGV",
+    "YSAJTEOKNKPTRE",
+    "MEEVRALLODDNAS",
+    "SIEUUDKCONCHYI"
+  ],
+  "words": [
+    {
+      "word": "CLAM",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "CONCH",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        15,
+        5
+      ]
+    },
+    {
+      "word": "KRILL",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        6,
+        12
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        14,
+        13
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "SEAL",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "JELLYFISH",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        4,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CLAM",
+      "prefix": "CLA",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        13,
+        2
+      ],
+      "divergence": [
+        14,
+        1
+      ]
+    },
+    {
+      "target": "OTTER",
+      "prefix": "OTT",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        3
+      ],
+      "divergence": [
+        1,
+        2
+      ]
+    },
+    {
+      "target": "PRAWN",
+      "prefix": "PRA",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        11,
+        10
+      ],
+      "divergence": [
+        10,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000006",
+  "title": "Golden Path",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "AIPNKIKVOC",
+    "BTRTULIPRA",
+    "LFIICWYECR",
+    "UYMYSCUUHN",
+    "ELRCZINNIA",
+    "BGOYQFEADT",
+    "OJSTJNIUXI",
+    "NFEKUSWSIO",
+    "NHOLHSIYYN",
+    "EYCCRFLIHJ",
+    "TSUNFLOWER",
+    "EFGARDENIA"
+  ],
+  "words": [
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "CARNATION",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GARDENIA",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        7,
+        2
+      ]
+    }
+  ],
+  "traps": []
+}

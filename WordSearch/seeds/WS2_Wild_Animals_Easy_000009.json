@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000009",
+  "title": "Wildwood Quest",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "URTFTHICTT",
+    "OTTERWRGTC",
+    "CSQUIRRELH",
+    "OKREUNFWTI",
+    "UPAKKFBRTM",
+    "GWBDAUUELP",
+    "AHBREAIWIA",
+    "RTIRNEIUON",
+    "GGTCKHRINZ",
+    "VAGWIBIXYE",
+    "BECHEETAHE",
+    "WOLVERINEI"
+  ],
+  "words": [
+    {
+      "word": "BAT",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "CHIMPANZEE",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "GIRAFFE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "LION",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHEETAH",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        8,
+        6
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000007",
+  "title": "Friendly Footsteps",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RYITERREFETYTR",
+    "RTNDHQIIAIGIEU",
+    "TRHSNAKEIAOWIY",
+    "OICHINCHILLAQV",
+    "RTDQOEHIRUDCHY",
+    "TJEPGCKOHYFACP",
+    "OGKHYLLOIWIMEP",
+    "IETOANUYIGSVMU",
+    "SCYAOHEDGEHOGP",
+    "EKNHRDRRUUAIGH",
+    "IOTGLAFLCWOIAO",
+    "AYOFZINMGYYMEK",
+    "PRUIYWBTKUSTMU",
+    "FHLUELTRUTPYHU",
+    "NRHACATLELWPHN",
+    "OUELJFSRWGAIYE"
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        14,
+        6
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        2,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "GECKO",
+      "prefix": "GEC",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        2,
+        7
+      ]
+    },
+    {
+      "target": "PUPPY",
+      "prefix": "PUP",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ],
+      "divergence": [
+        9,
+        13
+      ]
+    },
+    {
+      "target": "PYTHON",
+      "prefix": "PYT",
+      "start": [
+        14,
+        11
+      ],
+      "end": [
+        12,
+        11
+      ],
+      "divergence": [
+        11,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Medium_000001",
+  "title": "Riverbound Journey",
+  "category": "Fish",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "IMEOIOVDNTEI",
+    "EASFMOLLYUTF",
+    "BRHADDOCKBEL",
+    "SLQPRKRUHIIO",
+    "NIRDEDLSXLUU",
+    "ANKSRRIHNAON",
+    "PWWFMFCNHHND",
+    "PURHNERHELCE",
+    "EAWWHFLHLXAR",
+    "RNOEGRUTSBRK",
+    "NLFWVVRLYCPV",
+    "CYARGNITSGFI",
+    "NKKETWLYFHOI",
+    "HPIRANHAEKNU"
+  ],
+  "words": [
+    {
+      "word": "CLOWNFISH",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "FLOUNDER",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "HALIBUT",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "MARLIN",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "PIRANHA",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        7
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        9,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CARP",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CLOWNFISH",
+      "prefix": "CL",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        7,
+        9
+      ],
+      "divergence": [
+        7,
+        8
+      ]
+    },
+    {
+      "target": "KOI",
+      "prefix": "KO",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        2,
+        6
+      ],
+      "divergence": [
+        1,
+        7
+      ]
+    },
+    {
+      "target": "PERCH",
+      "prefix": "PER",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ],
+      "divergence": [
+        10,
+        0
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

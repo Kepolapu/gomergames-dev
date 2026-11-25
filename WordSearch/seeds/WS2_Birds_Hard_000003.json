@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000003",
+  "title": "Aerial Passage",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NACUOTTGNBESNS",
+    "FINCHYXOIOCPHE",
+    "ONCVJCKUUKFIHA",
+    "THFLAMINGOIGUG",
+    "SDVNCHJHNGDEKU",
+    "KHAOFRUIEVPONL",
+    "RRIZSYAYPEUNLL",
+    "YOEWRTSNLHHRCW",
+    "LHSKGYRGEHRYOL",
+    "OAHTCTAIPNEIIH",
+    "IHNOOEIYCVWATH",
+    "GRAIHRPUOHUUWI",
+    "HAOWDLKDIQWTII",
+    "MVIUKRCWORRAPS",
+    "CEUOUPARROTKTH",
+    "TNPHHBKCVHWRPI"
+  ],
+  "words": [
+    {
+      "word": "CARDINAL",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "CRANE",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "FLAMINGO",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        13,
+        13
+      ],
+      "end": [
+        13,
+        7
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        6,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CANARY",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        14,
+        5
+      ],
+      "end": [
+        14,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "OSTRICH",
+      "prefix": "OST",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        9,
+        3
+      ],
+      "divergence": [
+        10,
+        4
+      ]
+    },
+    {
+      "target": "STORK",
+      "prefix": "STO",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ],
+      "divergence": [
+        1,
+        0
+      ]
+    },
+    {
+      "target": "TOUCAN",
+      "prefix": "TOU",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        2,
+        8
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

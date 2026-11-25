@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000004",
+  "title": "Playful Pals",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "EKNFONCDEP",
+    "FINCHFHKGI",
+    "OTGAUOAHTI",
+    "DTOQUNMEBG",
+    "YEEISFEKNR",
+    "TNVOCKLQOL",
+    "HUXVADESGI",
+    "HIRRHJOHUZ",
+    "UIATGRNFPA",
+    "YPIWLHWLPR",
+    "FROGDESNYD",
+    "LAEAXOLOTL"
+  ],
+  "words": [
+    {
+      "word": "AXOLOTL",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "CHAMELEON",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        10,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "KOI",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

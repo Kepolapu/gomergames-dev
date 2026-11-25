@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000010",
+  "title": "Undersea Crossing",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "OIEGNTGEFI",
+    "IJELLYFISH",
+    "UWLHHYPGCM",
+    "LUVIGMVRRN",
+    "OGBWIWVEWS",
+    "RWLRARWAFE",
+    "CVHAHTRTGA",
+    "ASRAKPZWVH",
+    "HYZYLWUHPO",
+    "TURTLEYIJR",
+    "CLAMGVFTNS",
+    "BARNACLEPE"
+  ],
+  "words": [
+    {
+      "word": "BARNACLE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "CLAM",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "ORCA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GREATWHITE",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "JELLYFISH",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "WHALE",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

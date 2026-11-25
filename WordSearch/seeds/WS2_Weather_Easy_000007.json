@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000007",
+  "title": "Bright Morning",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UIECRLIHFA",
+    "OBOVERCAST",
+    "UABYBGHFSM",
+    "HRUASVHLBO",
+    "EOOYITNULS",
+    "AMMUIIOROP",
+    "TERYAOXRMH",
+    "ITVRUHYYME",
+    "NEULMISTBR",
+    "DRIZZLEFZE",
+    "EYSEDRBYOI",
+    "XITLTGUSTG"
+  ],
+  "words": [
+    {
+      "word": "ATMOSPHERE",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "BAROMETER",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "DRIZZLE",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "HEATINDEX",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FOG",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "RAIN",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        4,
+        6
+      ]
+    }
+  ],
+  "traps": []
+}

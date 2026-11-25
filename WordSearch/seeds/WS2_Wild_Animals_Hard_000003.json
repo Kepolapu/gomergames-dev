@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Hard_000003",
+  "title": "Forest Frontier",
+  "category": "Wild Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "GLRSUOGTSWJELR",
+    "EHREIYIGRARHCU",
+    "ALUOBIRACBKLRD",
+    "FYQOHKAZLFSOEP",
+    "ONIEEXFEVCSEUY",
+    "TXTTOUFLGORWBE",
+    "TTEFQBELRYFKPY",
+    "EHQGHRCEJORORK",
+    "RMRYRKCVITLYNT",
+    "TNRIIOVMIEAUIA",
+    "TYUENAUBTQKIIA",
+    "PQXIVLBNWSCOAI",
+    "SDHCMAALDKARFO",
+    "DRLIRZEUNHJIEJ",
+    "OGNWCVWBSLOTHT",
+    "FKTFTIUVOIOGLA"
+  ],
+  "words": [
+    {
+      "word": "ANTELOPE",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "CARIBOU",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "COYOTE",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "GIRAFFE",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "GROUNDHOG",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "KOALA",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "MINK",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "SKUNK",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        5,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GAZELLE",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "RHINOCEROS",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        14,
+        12
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "JACKAL",
+      "prefix": "JAC",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        2,
+        8
+      ],
+      "divergence": [
+        3,
+        7
+      ]
+    },
+    {
+      "target": "LYNX",
+      "prefix": "LYN",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        8,
+        12
+      ],
+      "divergence": [
+        8,
+        13
+      ]
+    },
+    {
+      "target": "OTTER",
+      "prefix": "OTT",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        5,
+        2
+      ],
+      "divergence": [
+        5,
+        1
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

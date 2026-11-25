@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000009",
+  "title": "Silent Passage",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "TSYIMQITAI",
+    "OETOAEIOOI",
+    "IJLAQBTVEA",
+    "MJNERHLEBS",
+    "EFEOSWMUOT",
+    "RAIYUCVVOR",
+    "CJCIUMOFSO",
+    "UCOSMOSPTN",
+    "RHMKYYQKEA",
+    "YYEQUASARU",
+    "ASTEROIDTT",
+    "ONLFAHKHTH"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "METEOR",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "ORBIT",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BOOSTER",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

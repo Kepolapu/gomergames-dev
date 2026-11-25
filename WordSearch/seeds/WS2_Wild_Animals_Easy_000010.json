@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000010",
+  "title": "Nature Passage",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "TIITIOOAIA",
+    "GKOALAECLR",
+    "FAEWUOTHFH",
+    "OCZRYAYIGI",
+    "XMDEKCFMDN",
+    "IODRLLNPDO",
+    "VLEHOLRALC",
+    "HEUWJRENUE",
+    "MLYNXFNZUR",
+    "WEASELUEXO",
+    "OUVLLCIEIS",
+    "UGROUNDHOG"
+  ],
+  "words": [
+    {
+      "word": "CHIMPANZEE",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "GROUNDHOG",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "MEERKAT",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "RHINOCEROS",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "WOLF",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        4,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GAZELLE",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "KOALA",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

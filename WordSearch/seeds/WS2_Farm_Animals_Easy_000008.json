@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000008",
+  "title": "Hayfield Adventure",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "YZLDFAHHEC",
+    "MABHUOTAIH",
+    "RNKEICACKI",
+    "VBPIMWKLTC",
+    "ARGFKUHAKK",
+    "EDCENHOUGE",
+    "OHLRGGNAON",
+    "OYHDHDESOV",
+    "SHEEPHYFSE",
+    "GDGDEUBGEF",
+    "ALPACAEIOA",
+    "EYIOEIEAVU"
+  ],
+  "words": [
+    {
+      "word": "CHICKEN",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "FOAL",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "GOAT",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        8,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ALPACA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        2,
+        2
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

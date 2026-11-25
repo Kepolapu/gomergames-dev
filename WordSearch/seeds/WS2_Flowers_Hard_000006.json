@@ -1,0 +1,312 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000006",
+  "title": "Golden Path",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HILUESORMIRPGR",
+    "LILYRYVMLSTGCR",
+    "XROGPETUNIAYPG",
+    "NOILEDNADUYUYE",
+    "NHTHKFPVYFCSWR",
+    "DAFFODILVRNYKA",
+    "IVXWRNIUEAVCIN",
+    "WJIALRETPZFNKI",
+    "ZLGONBTYHUOXCU",
+    "IOYCLUIPSGAAOM",
+    "NTIOBEOXEUEGHY",
+    "NUEIIPTBIUCHYN",
+    "ISIIPERIWINKLE",
+    "AGNYIKHHYHKRLI",
+    "HHIBISCUSHNYOE",
+    "NSIIDIHCROULHO"
+  ],
+  "words": [
+    {
+      "word": "BEGONIA",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "BUTTERCUP",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        14,
+        8
+      ]
+    },
+    {
+      "word": "HONEYSUCKLE",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        3
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        15,
+        4
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        10
+      ]
+    },
+    {
+      "word": "POPPY",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        11,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DAFFODIL",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        15,
+        12
+      ],
+      "end": [
+        7,
+        12
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HIBISCUS",
+      "prefix": "HIB",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        11,
+        7
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    },
+    {
+      "target": "PANSY",
+      "prefix": "PANS",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        1,
+        9
+      ],
+      "divergence": [
+        0,
+        10
+      ]
+    },
+    {
+      "target": "POPPY",
+      "prefix": "POP",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        9,
+        7
+      ],
+      "divergence": [
+        8,
+        8
+      ]
+    },
+    {
+      "target": "SNAPDRAGON",
+      "prefix": "SNAP",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        7,
+        8
+      ],
+      "divergence": [
+        8,
+        7
+      ]
+    }
+  ],
+  "trapCount": 4,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

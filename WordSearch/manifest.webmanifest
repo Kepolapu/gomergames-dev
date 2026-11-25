@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "WordSearch",
+  "short_name": "WordSearch",
+  "description": "Find your focus, one word at a time. Play saved word search puzzles.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4efe6",
+  "theme_color": "#2b3a55",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

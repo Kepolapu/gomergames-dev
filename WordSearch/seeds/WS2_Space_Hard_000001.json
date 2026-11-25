@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000001",
+  "title": "Cosmic Voyage",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "FNEUFELRPHUUWC",
+    "OLCPNDAUYRALNA",
+    "WFLLRRURDOOKDP",
+    "UIIVVFNKTKEBHS",
+    "JUPITERLHHTTEU",
+    "CYSLPHNCLYIVTL",
+    "RHETWVNUXURRLE",
+    "AYUEXUUASOORLP",
+    "TNUUAYLEZHEGHT",
+    "ELELGACUNBTQFT",
+    "RNDNGAVONREPUS",
+    "WRKDPLANETMSQY",
+    "OUISYDGQNYLOIO",
+    "ITCRETSURHTLHE",
+    "MARSYUVIWNMAVP",
+    "ESFMODULEHIRIE"
+  ],
+  "words": [
+    {
+      "word": "CAPSULE",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "CRATER",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "EARTH",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "LAUNCH",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        14,
+        3
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        11,
+        10
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "MODULE",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        4,
+        12
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "SPACESUIT",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "THRUSTER",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        13,
+        3
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ECLIPSE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "JUPITER",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "VENUS",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CAPSULE",
+      "prefix": "CAPS",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        12,
+        3
+      ],
+      "divergence": [
+        13,
+        2
+      ]
+    },
+    {
+      "target": "LAUNCH",
+      "prefix": "LAUN",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    },
+    {
+      "target": "THRUSTER",
+      "prefix": "THR",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        7,
+        11
+      ],
+      "divergence": [
+        6,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

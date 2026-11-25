@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000003",
+  "title": "Household Harmony",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "AUUIOOAIUELN",
+    "GAEKQFERRETT",
+    "CECLDOGBFYTE",
+    "AERJCHLMOUSE",
+    "GIHBHPCGAIIK",
+    "TWEWIHYHYZYA",
+    "OXOANLRTRHLR",
+    "RZGFCKOIHUVA",
+    "TTHIHILRTOKP",
+    "OOXNIIUNMNNH",
+    "IRVCLHACHNDW",
+    "SRTHLRETSMAH",
+    "EAGBABIHGWIA",
+    "IPFTEOANAUGI"
+  ],
+  "words": [
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        12,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GERBIL",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        1,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HAMSTER",
+      "prefix": "HA",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    },
+    {
+      "target": "KOI",
+      "prefix": "KO",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        8,
+        9
+      ],
+      "divergence": [
+        8,
+        8
+      ]
+    },
+    {
+      "target": "TORTOISE",
+      "prefix": "TO",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        7,
+        6
+      ],
+      "divergence": [
+        8,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

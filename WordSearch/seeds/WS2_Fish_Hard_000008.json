@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000008",
+  "title": "Harbor Voyage",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HIBLEREKCAMIUW",
+    "HLIRYJHHKOEBLM",
+    "RIHSIFLEGNAUZO",
+    "EJATTROUTROAPL",
+    "PUMSYKZYRNRKOL",
+    "PPIBECEAHTVHLY",
+    "AUHHEOCAEAXNLC",
+    "NVAKLUVTHJOLOM",
+    "SQMGDYYNKETFCF",
+    "TILAPIAXGHKUKT",
+    "OFIUKRORMOYSNK",
+    "KEIAIWUDGAQMZA",
+    "UOHPHTWVTNRERU",
+    "XLIWSPTHBHILIR",
+    "HORYUCTBIENTII",
+    "RJHADDOCKCMNSN"
+  ],
+  "words": [
+    {
+      "word": "BARRACUDA",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "MACKEREL",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        1,
+        2
+      ]
+    },
+    {
+      "word": "MARLIN",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "PIRANHA",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        9,
+        12
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        10,
+        11
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        15,
+        12
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "TETRA",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "TROUT",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        11,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MOLLY",
+      "prefix": "MOL",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        7,
+        11
+      ],
+      "divergence": [
+        7,
+        10
+      ]
+    },
+    {
+      "target": "TETRA",
+      "prefix": "TET",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        7,
+        7
+      ],
+      "divergence": [
+        8,
+        6
+      ]
+    },
+    {
+      "target": "TROUT",
+      "prefix": "TRO",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        10
+      ],
+      "divergence": [
+        3,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

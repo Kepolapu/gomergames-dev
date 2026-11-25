@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000009",
+  "title": "Crystal Air",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "OYRIEIUUWGIA",
+    "OHEATWAVEYCU",
+    "DGDGKYNHWGIY",
+    "RLNWCLOUDDCT",
+    "IRUKEUUACCLO",
+    "ZYHBAROMETER",
+    "ZWTAYUUKAKYN",
+    "LNLUIXAZOUNA",
+    "ERDEWLYLOEWD",
+    "VMVWFSTORMUO",
+    "HWAWUJYHHVMO",
+    "EIOAENIHSNUS",
+    "INQZPORDNIAR",
+    "SDTHGUORDIOA"
+  ],
+  "words": [
+    {
+      "word": "BAROMETER",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "DRIZZLE",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "DROUGHT",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "RAINDROP",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        13,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DEW",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        0,
+        2
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BAROMETER",
+      "prefix": "BA",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    },
+    {
+      "target": "RAINDROP",
+      "prefix": "RA",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        1,
+        3
+      ],
+      "divergence": [
+        2,
+        4
+      ]
+    },
+    {
+      "target": "WIND",
+      "prefix": "WI",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        7,
+        4
+      ],
+      "divergence": [
+        6,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

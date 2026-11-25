@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Medium_000007",
+  "title": "Quiet Grove",
+  "category": "Flowers",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HQAOHIYHOLRD",
+    "REWOLFNUSIJA",
+    "AAINUTEPNLDN",
+    "ZUKKYEXLDYND",
+    "AORCHIDLHHME",
+    "LBLUEBONNETL",
+    "EUOOUGYFUETI",
+    "AEIQIWSOOAUO",
+    "YGARDENIAALN",
+    "SNAPDRAGONIR",
+    "KMUUKLPOROPH",
+    "LILACINQTXRN",
+    "RMKCOHYLLOHL",
+    "NDAFFODILTAI"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "DAFFODIL",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        2
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        10,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "MARIGOLD",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        6,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "LILY",
+      "prefix": "LI",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        11,
+        5
+      ],
+      "divergence": [
+        12,
+        5
+      ]
+    },
+    {
+      "target": "ORCHID",
+      "prefix": "OR",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        10,
+        8
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    },
+    {
+      "target": "SNAPDRAGON",
+      "prefix": "SN",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        2,
+        8
+      ],
+      "divergence": [
+        3,
+        8
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

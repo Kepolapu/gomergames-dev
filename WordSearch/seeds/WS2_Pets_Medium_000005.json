@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000005",
+  "title": "Cuddle Quest",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "EUFIDNHSHURG",
+    "CATHWHGSNNYI",
+    "CHINCHILLAKP",
+    "MYRQDFUFTOKA",
+    "EWUADLUKUUYE",
+    "EIILBHRORLLN",
+    "AHOCWBKQTDYI",
+    "AGWFHCIILTNU",
+    "XWULEYQTEOBG",
+    "OWUGLRIKHAHI",
+    "LAEGTORTOISE",
+    "OCIWRSYEIUFI",
+    "TARUPPTHTUWU",
+    "LMUELWYRANAC"
+  ],
+  "words": [
+    {
+      "word": "AXOLOTL",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "CAT",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        2
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FERRET",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CAT",
+      "prefix": "CA",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        1,
+        1
+      ],
+      "divergence": [
+        0,
+        2
+      ]
+    },
+    {
+      "target": "CHINCHILLA",
+      "prefix": "CH",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "divergence": [
+        3,
+        2
+      ]
+    },
+    {
+      "target": "SNAKE",
+      "prefix": "SN",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        1,
+        8
+      ],
+      "divergence": [
+        1,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

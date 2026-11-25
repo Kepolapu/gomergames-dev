@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000008",
+  "title": "Pelagic Passage",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "KDCWNSYOKRURDO",
+    "SEUEQWSBWOJCYT",
+    "UPAUVEAGWSEIAT",
+    "PBIPBRNRNNLYRU",
+    "ODUUNHDKPTLTGR",
+    "TRKARUDDNLYRNT",
+    "CRCEYCONCHFIIL",
+    "OLTAWYLUYFIITE",
+    "ETYHQMLCSMSHSJ",
+    "OOVGSEAURCHINI",
+    "YVOOSKRNKVFQYI",
+    "ZNRSYLWNARWHAL",
+    "DHUKASWYCTKSOR",
+    "WMIWTFTTNREICA",
+    "NIUGNEPEDBAEUL",
+    "YEMWFTIIROVBHR"
+  ],
+  "words": [
+    {
+      "word": "BARNACLE",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "CONCH",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "JELLYFISH",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "ORCA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        0
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        9,
+        12
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        1,
+        12
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        7,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MANATEE",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "JELLYFISH",
+      "prefix": "JEL",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        6,
+        13
+      ],
+      "divergence": [
+        5,
+        13
+      ]
+    },
+    {
+      "target": "OTTER",
+      "prefix": "OTT",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        2,
+        13
+      ],
+      "divergence": [
+        3,
+        13
+      ]
+    },
+    {
+      "target": "OYSTER",
+      "prefix": "OYS",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        0,
+        5
+      ],
+      "divergence": [
+        0,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000003",
+  "title": "Seaside Safari",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "ATNWHDMOULKLSS",
+    "CONCHAKIRRCKTL",
+    "OUUHNAOTECRSAF",
+    "EGIARWLTWMAKRR",
+    "URTXSMSEUUBHFN",
+    "OEFYGYWIPSWGII",
+    "EAUOOSORYSLHSH",
+    "HTIVNIUGNEPNHC",
+    "OWBHHYCPHLVELR",
+    "AHSEIRNVOTGCMU",
+    "IILULKWDLTREIA",
+    "ETOAUURKKSCUIE",
+    "NERBELUGAVQOUS",
+    "POLLACSFDSIUIX",
+    "CKURUWLHGXTIIS",
+    "NFFHOLOBSTERTD"
+  ],
+  "words": [
+    {
+      "word": "BELUGA",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "CONCH",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "CORAL",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "LOBSTER",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "MANATEE",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "ORCA",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        12,
+        13
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        7,
+        12
+      ]
+    },
+    {
+      "word": "WHALE",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOLPHIN",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "GREATWHITE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        12,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BELUGA",
+      "prefix": "BELU",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        11,
+        5
+      ],
+      "divergence": [
+        12,
+        6
+      ]
+    },
+    {
+      "target": "OYSTER",
+      "prefix": "OYS",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        4,
+        4
+      ],
+      "divergence": [
+        3,
+        3
+      ]
+    },
+    {
+      "target": "SQUID",
+      "prefix": "SQUI",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        10,
+        12
+      ],
+      "divergence": [
+        9,
+        13
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

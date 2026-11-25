@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Easy_000002",
+  "title": "Underwater Trails",
+  "category": "Fish",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "TKUNAAOAAR",
+    "CMAHIMAHIH",
+    "SOVFNVNNPI",
+    "WGDYHAOTHH",
+    "OKWJRMUIYA",
+    "RNVILVYLEL",
+    "DMPAKRYAEI",
+    "FTSQAPFPYB",
+    "IRNRPYYIHU",
+    "SDTUWRAADT",
+    "HEGPIKEXYM",
+    "TYBLUEGILL"
+  ],
+  "words": [
+    {
+      "word": "COD",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        3,
+        2
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "HALIBUT",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "PIKE",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "PIRANHA",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "SALMON",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLUEGILL",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "SWORDFISH",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "TETRA",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

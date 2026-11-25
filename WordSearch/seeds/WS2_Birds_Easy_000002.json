@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Easy_000002",
+  "title": "Winged Wanderings",
+  "category": "Birds",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "EUAIWKRKAS",
+    "EHAOESHIFN",
+    "IARHRTNNLM",
+    "ICGJLOYGAU",
+    "ZOWLPRBFMO",
+    "SUCWEKHIIN",
+    "PYKICFYSNH",
+    "ATOUCANHGI",
+    "RDNLTWHEOA",
+    "RYHRIYYRIH",
+    "OSTRICHNGN",
+    "WHPIGEONDI"
+  ],
+  "words": [
+    {
+      "word": "FLAMINGO",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CROW",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        7
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

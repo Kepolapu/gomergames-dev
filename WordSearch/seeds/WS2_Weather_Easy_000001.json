@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000001",
+  "title": "Azure Skies",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "YCUIKFIISF",
+    "WSFROSTLNO",
+    "GUSTFWUUOR",
+    "FNDGMUWUWE",
+    "HSHNDNPNDC",
+    "EHIADLKVRA",
+    "AIXOIEEUIS",
+    "TNUUWLWYFT",
+    "WEWYCHWNTT",
+    "ANHIUMUIYU",
+    "VYCRCLOUDA",
+    "EIRTORNADO"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        3
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "SNOWDRIFT",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HAIL",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "traps": []
+}

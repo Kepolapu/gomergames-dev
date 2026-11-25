@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000006",
+  "title": "Homebound Journey",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HCNIFHIAUMNOUL",
+    "EBDOIGIHXELEHI",
+    "OUHROGLHTOUMNZ",
+    "VNBDRUITHILIYA",
+    "HNGVMWIPIUVOXR",
+    "HYIOQKFKAIAOTD",
+    "IYUCHAMELEONRL",
+    "YGRWIEHFKKNJMV",
+    "RSUAOHGOLDFISH",
+    "AHKABJFDHCPNUC",
+    "NWUTNBPCEBYWDG",
+    "ASDLDAIGTHTGPR",
+    "CYTWRWUTXDHEHG",
+    "XAYRLWRRUAOCUI",
+    "RTOKMOUSEVNKUI",
+    "OTEEKARAPUIOAC"
+  ],
+  "words": [
+    {
+      "word": "AXOLOTL",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "CHAMELEON",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        4,
+        2
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        0,
+        10
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        14,
+        8
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        12,
+        2
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BUNNY",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        15,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AXOLOTL",
+      "prefix": "AXO",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        5,
+        11
+      ],
+      "divergence": [
+        6,
+        10
+      ]
+    },
+    {
+      "target": "GECKO",
+      "prefix": "GEC",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        9,
+        9
+      ],
+      "divergence": [
+        8,
+        10
+      ]
+    },
+    {
+      "target": "MOUSE",
+      "prefix": "MOU",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        6,
+        2
+      ],
+      "divergence": [
+        7,
+        1
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

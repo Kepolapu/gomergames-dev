@@ -1,0 +1,312 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Hard_000010",
+  "title": "Undersea Crossing",
+  "category": "Ocean Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "SNHULODLKCAEIS",
+    "CIIEETANAMLUUN",
+    "AHKAVRVHMRMAFA",
+    "LPHLOHHCEKVSMI",
+    "LLNCXENTOUACVL",
+    "OOYVLVSTINGRAY",
+    "PDYAVYNHDRCLFU",
+    "WUHUOMQDXNRHEI",
+    "RWIESROHAESDPH",
+    "CRABHLIXNIASEB",
+    "DDLELWNRFUJENY",
+    "EMHAMMERHEADGF",
+    "SURLAWAWHSUCUL",
+    "CPWUUTGKFWHAIQ",
+    "OKEASAKRILLCNU",
+    "FHOFIYBLSHRIMP"
+  ],
+  "words": [
+    {
+      "word": "CLAM",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "CORAL",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "KRILL",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "MANATEE",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        1,
+        3
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        12,
+        2
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "WHALE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        4,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CONCH",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        7,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CLAM",
+      "prefix": "CLA",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "divergence": [
+        1,
+        3
+      ]
+    },
+    {
+      "target": "DOLPHIN",
+      "prefix": "DOL",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        0,
+        4
+      ],
+      "divergence": [
+        0,
+        3
+      ]
+    },
+    {
+      "target": "SHRIMP",
+      "prefix": "SHRI",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "divergence": [
+        8,
+        5
+      ]
+    },
+    {
+      "target": "WHALE",
+      "prefix": "WHA",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        11
+      ],
+      "divergence": [
+        13,
+        12
+      ]
+    }
+  ],
+  "trapCount": 4,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

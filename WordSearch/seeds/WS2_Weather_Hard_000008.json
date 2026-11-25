@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Hard_000008",
+  "title": "Soft Horizons",
+  "category": "Weather",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "WRDQENIHSNUSHC",
+    "RLRQDLHMYTDGLL",
+    "AUOMFLURRYOOEH",
+    "IIURIWROGFUXFU",
+    "NPGKUSKTNDNTIR",
+    "DKHROLTSJXTSKR",
+    "RETEMOMREHTAWI",
+    "OBYTVDJENOLCYC",
+    "PULWNHYDIJVEMA",
+    "VILIGHTNINGRQN",
+    "ILWQZKIUQIHOFE",
+    "FUQEEZOHAIPFRN",
+    "EVAPORATIONVOV",
+    "TYPHOONRQLNXSI",
+    "LYFLSVQUDNWSTO",
+    "TSNOWFLAKELNMA"
+  ],
+  "words": [
+    {
+      "word": "CLOUD",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "EVAPORATION",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        12,
+        10
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "HURRICANE",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "RAINDROP",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "THERMOMETER",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "THUNDERSTORM",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "TYPHOON",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        7,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLIZZARD",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        14,
+        8
+      ]
+    },
+    {
+      "word": "CYCLONE",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "DROUGHT",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HURRICANE",
+      "prefix": "HUR",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    },
+    {
+      "target": "SNOWFLAKE",
+      "prefix": "SNO",
+      "start": [
+        14,
+        11
+      ],
+      "end": [
+        12,
+        9
+      ],
+      "divergence": [
+        11,
+        8
+      ]
+    },
+    {
+      "target": "TYPHOON",
+      "prefix": "TYP",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        13,
+        2
+      ],
+      "divergence": [
+        12,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

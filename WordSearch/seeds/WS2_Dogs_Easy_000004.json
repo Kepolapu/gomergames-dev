@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000004",
+  "title": "Morning Meadow",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UKFAWWCLAR",
+    "KAEEYNEUWO",
+    "IAHNUIHOIT",
+    "BCFXNAATLT",
+    "BKNAUEHEGW",
+    "LHPHVHLRIE",
+    "ESIUFHRRII",
+    "LHWURVRINL",
+    "CLBEAGLELE",
+    "FRXGXONRWR",
+    "DOBERMANLF",
+    "BSCHNAUZER"
+  ],
+  "words": [
+    {
+      "word": "BEAGLE",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "CHEW",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "CHIHUAHUA",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "DOBERMAN",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "KENNEL",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "ROTTWEILER",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "SPANIEL",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        0,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BOXER",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "SCHNAUZER",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "TERRIER",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    }
+  ],
+  "traps": []
+}

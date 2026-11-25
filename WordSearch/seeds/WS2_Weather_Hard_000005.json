@@ -1,0 +1,312 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Hard_000005",
+  "title": "Open Horizon",
+  "category": "Weather",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "IFNUKAIHIBWPDM",
+    "NNOITAROPAVEBR",
+    "BNIRRGWQFRSDWO",
+    "IETVEBNYAOFEGT",
+    "EAAGTCYIEMDYIS",
+    "YDSHBUAMNECJKN",
+    "NHNIISZSKTIROQ",
+    "RNEIQRNLTEHOFP",
+    "MHDOWNPOURHGOY",
+    "OTNVQKVYWPNRIE",
+    "NHOHAILFYFDVCL",
+    "SUCXTYPTRNTRIT",
+    "ONVKARUXIOHYCT",
+    "ODVEAAEAKUSYLM",
+    "NENACIRRUHPTER",
+    "HRTOAHNWBREEZE"
+  ],
+  "words": [
+    {
+      "word": "BREEZE",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "CONDENSATION",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "EVAPORATION",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "HURRICANE",
+      "start": [
+        14,
+        9
+      ],
+      "end": [
+        14,
+        1
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        9,
+        12
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        14,
+        0
+      ]
+    },
+    {
+      "word": "RAINDROP",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "SNOW",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        0,
+        13
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "TYPHOON",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        5,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BAROMETER",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        5,
+        1
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BREEZE",
+      "prefix": "BRE",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        13,
+        6
+      ],
+      "divergence": [
+        12,
+        5
+      ]
+    },
+    {
+      "target": "ICICLE",
+      "prefix": "ICI",
+      "start": [
+        11,
+        12
+      ],
+      "end": [
+        9,
+        12
+      ],
+      "divergence": [
+        8,
+        12
+      ]
+    },
+    {
+      "target": "RAINDROP",
+      "prefix": "RAI",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        4,
+        7
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    },
+    {
+      "target": "TYPHOON",
+      "prefix": "TYP",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        6
+      ],
+      "divergence": [
+        11,
+        7
+      ]
+    }
+  ],
+  "trapCount": 4,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

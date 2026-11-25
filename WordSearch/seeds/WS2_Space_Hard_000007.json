@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000007",
+  "title": "Voidbound Journey",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "OAHPNRUTASVKYP",
+    "NTELESCOPEFXCL",
+    "CDHURKOZHUAYRA",
+    "UFMTUVVLULHQEN",
+    "HDIORETSAJRKTE",
+    "LOEVDPGGNROVST",
+    "AUCUWURXWMVIOI",
+    "UHLUEHLOJEEVOU",
+    "NHIKCSIEBTRBBI",
+    "CLPYYHRIYEVLTS",
+    "HFSURWWEUOONHE",
+    "DCEUUGONVRYUQU",
+    "OLVQCYAIYITULP",
+    "UASTRONAUTNKTE",
+    "WLBLEYUELELUTL",
+    "EDWHMIIENRSTAR"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "BOOSTER",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "ECLIPSE",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        0,
+        12
+      ]
+    },
+    {
+      "word": "LAUNCH",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        14,
+        9
+      ]
+    },
+    {
+      "word": "MODULE",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        5,
+        13
+      ]
+    },
+    {
+      "word": "PLUTO",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "SHUTTLE",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        14,
+        11
+      ],
+      "end": [
+        7,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MERCURY",
+      "start": [
+        15,
+        4
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "PLUTO",
+      "prefix": "PLUT",
+      "start": [
+        12,
+        13
+      ],
+      "end": [
+        12,
+        10
+      ],
+      "divergence": [
+        12,
+        9
+      ]
+    },
+    {
+      "target": "ROVER",
+      "prefix": "ROV",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        5,
+        11
+      ],
+      "divergence": [
+        5,
+        12
+      ]
+    },
+    {
+      "target": "SHUTTLE",
+      "prefix": "SHU",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        6,
+        5
+      ],
+      "divergence": [
+        5,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

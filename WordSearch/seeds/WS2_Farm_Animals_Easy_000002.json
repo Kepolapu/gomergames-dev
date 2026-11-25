@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000002",
+  "title": "Homestead Trails",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "GDEPRTAYVP",
+    "OUPFEAEOLI",
+    "KCZONKBHRG",
+    "MKGWNKHBYU",
+    "RLZORYUSIU",
+    "OIDFSAUHCT",
+    "ONKIHTMULR",
+    "SGYYUHORSE",
+    "THTDFKFUBT",
+    "EICFBOARHT",
+    "RGIEMUWTHB",
+    "HFLLAMAAIE"
+  ],
+  "words": [
+    {
+      "word": "DUCKLING",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BOAR",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        6,
+        6
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Medium_000003",
+  "title": "Country Crossing",
+  "category": "Farm Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HCRUWOUEKSNT",
+    "GNOFOAYBULLR",
+    "OORUUNFSBZMT",
+    "XFOHNOILLATS",
+    "EAQSUUHORSEU",
+    "NCQOEUIJOJHK",
+    "WAWOFIOOAAGK",
+    "NPUESIIKVOCD",
+    "ILHTGTIDDUSY",
+    "UAGWPURYDMRR",
+    "EFBYIRWILRKA",
+    "PONYGKWMCTTO",
+    "VNXANEKCIHCB",
+    "VLCTAYWDHWBE"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        2,
+        10
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        13,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BULL",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DUCK",
+      "prefix": "DU",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        8,
+        9
+      ],
+      "divergence": [
+        8,
+        10
+      ]
+    },
+    {
+      "target": "GOOSE",
+      "prefix": "GO",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ],
+      "divergence": [
+        3,
+        0
+      ]
+    },
+    {
+      "target": "HORSE",
+      "prefix": "HO",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        2,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

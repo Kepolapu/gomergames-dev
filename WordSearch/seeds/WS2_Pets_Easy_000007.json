@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000007",
+  "title": "Friendly Footsteps",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "GTUUFTIVNY",
+    "EHIHAMSTER",
+    "RRGYHHFOUU",
+    "BWURQKOIAA",
+    "IWAAPYTHON",
+    "LZNBJGKRHG",
+    "PVABBAUYGE",
+    "OUXITULCSL",
+    "NTPTHRNUYF",
+    "BYOPNQONWI",
+    "BFYFYMULYS",
+    "PARAKEETTH"
+  ],
+  "words": [
+    {
+      "word": "BUNNY",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

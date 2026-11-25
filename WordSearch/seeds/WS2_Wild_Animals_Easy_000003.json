@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000003",
+  "title": "Forest Frontier",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "IUMKIHBGRB",
+    "WPEUELKDNO",
+    "LRIHSMYJRB",
+    "CEAWGKILRC",
+    "AULBKKRNHA",
+    "RNCEBWUAKT",
+    "IDBKPIUUTH",
+    "BWIDHHTOFB",
+    "OYSTBOARHM",
+    "UDOJUAANHH",
+    "HLNIEAWHTM",
+    "SGROUNDHOG"
+  ],
+  "words": [
+    {
+      "word": "BISON",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "BOBCAT",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "ELEPHANT",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "GROUNDHOG",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "MINK",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        7,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CARIBOU",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "ELK",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

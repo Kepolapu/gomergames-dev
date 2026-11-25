@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000004",
+  "title": "Lunar Expedition",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "OEINLWIWOIMDJL",
+    "AIOGGTUANORTSA",
+    "AOTLKEIIDZVVOR",
+    "MTTERHIUWEOOEF",
+    "LHCLLFLCNYUTFS",
+    "VRHEHEVUAHIYSO",
+    "LUPLBTSUUPYQTL",
+    "OSNTYIZCUHSJAA",
+    "RTVTULYJOHUURR",
+    "OEHUYLTHBPPWLW",
+    "CRWHNEPTUNECLE",
+    "KLJSFTYFWKRMYO",
+    "EHOYKALUBENMWB",
+    "TRVEASVYIROVER",
+    "LVMETEORMHVIWC",
+    "IHVMCOUGALAXYH"
+  ],
+  "words": [
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "CAPSULE",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "JUPITER",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "METEOR",
+      "start": [
+        14,
+        2
+      ],
+      "end": [
+        14,
+        7
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        13,
+        5
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "SHUTTLE",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        5,
+        3
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "THRUSTER",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "VENUS",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        6,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MODULE",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        15,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "JUPITER",
+      "prefix": "JUP",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        9,
+        9
+      ],
+      "divergence": [
+        10,
+        8
+      ]
+    },
+    {
+      "target": "ROVER",
+      "prefix": "ROV",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        2,
+        11
+      ],
+      "divergence": [
+        2,
+        10
+      ]
+    },
+    {
+      "target": "SHUTTLE",
+      "prefix": "SHU",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        7,
+        8
+      ],
+      "divergence": [
+        7,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

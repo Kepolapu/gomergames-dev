@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Easy_000005",
+  "title": "Coastal Current",
+  "category": "Fish",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HHEEAIILRS",
+    "SEAHORSEVT",
+    "IHGDOLWUMI",
+    "ODRUDUWUAN",
+    "TNYWPOVYHG",
+    "HRCUNPCYIR",
+    "RFONLRYKMA",
+    "IRIUWLLTAY",
+    "KMUUTQCTHW",
+    "TILAPIAJIN",
+    "NIIGYYRKOI",
+    "LPRSNAPPER"
+  ],
+  "words": [
+    {
+      "word": "CARP",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "STINGRAY",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "TROUT",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        4
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

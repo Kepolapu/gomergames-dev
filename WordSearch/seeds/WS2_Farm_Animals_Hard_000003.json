@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000003",
+  "title": "Country Crossing",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "CKISFRBTNEXOET",
+    "PONRWUNTRDJRTH",
+    "TDLWWRWUXEYOMV",
+    "BLUTRHHRIUAUUI",
+    "WTMCHICKENKULI",
+    "LIFFKRHECTWBEO",
+    "UDOGKLXYKDMYUQ",
+    "UCAEHOIWOAVBUV",
+    "LVAZHRTNLAIAEU",
+    "UACHRLKHGMIEIO",
+    "IIASTEERNLMEMW",
+    "NOPNYLTYNRSAUU",
+    "YELHEHWSTOFLKN",
+    "UMAUVAEVOIAWUP",
+    "IHECWOUGUOUUSI",
+    "TIBBARPRFLRLVG"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        3,
+        3
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "DUCKLING",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "FOAL",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "LAMB",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        13,
+        13
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        0
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        6,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DONKEY",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "FOAL",
+      "prefix": "FOA",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        7,
+        2
+      ],
+      "divergence": [
+        8,
+        2
+      ]
+    },
+    {
+      "target": "MULE",
+      "prefix": "MUL",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        2,
+        2
+      ],
+      "divergence": [
+        1,
+        2
+      ]
+    },
+    {
+      "target": "OXEN",
+      "prefix": "OXE",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        5,
+        7
+      ],
+      "divergence": [
+        4,
+        8
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

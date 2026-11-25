@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000005",
+  "title": "Velvet Valley",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HDNUHSHCADXNAA",
+    "PTHRFIFCNFVFEI",
+    "IRRHIIBSLGAEBN",
+    "THKELTHIYCHLHO",
+    "BSETTERYCAHPYL",
+    "UHVEPRQBHHTOFL",
+    "LUCHQYITRBOIYI",
+    "LCEHMHYELUFNKP",
+    "RRTNSDTOVLWTJA",
+    "DHLAAEOBGECEQP",
+    "DHEZIDVLOKRRWH",
+    "RLHKHWTQRXCKRN",
+    "UUROLSPANIELBI",
+    "XOUKIBBLECWROA",
+    "YNWEWFRHRRJINE",
+    "DBEAGLELUWGUEW"
+  ],
+  "words": [
+    {
+      "word": "BEAGLE",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "BICHON",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "BLOODHOUND",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        15,
+        0
+      ]
+    },
+    {
+      "word": "BONE",
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "BOXER",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "DACHSHUND",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "GREATDANE",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "PAPILLON",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "PITBULL",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "RETRIEVER",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "SHEPHERD",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "SPANIEL",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "YORKIE",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "AKITA",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "BARK",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BEAGLE",
+      "prefix": "BEAGL",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        2,
+        8
+      ],
+      "divergence": [
+        2,
+        7
+      ]
+    },
+    {
+      "target": "PAPILLON",
+      "prefix": "PAP",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        9,
+        13
+      ],
+      "divergence": [
+        10,
+        13
+      ]
+    },
+    {
+      "target": "RETRIEVER",
+      "prefix": "RET",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        8,
+        6
+      ],
+      "divergence": [
+        9,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

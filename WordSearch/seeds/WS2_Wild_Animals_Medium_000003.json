@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Medium_000003",
+  "title": "Forest Frontier",
+  "category": "Wild Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "EPIOHEAIORHC",
+    "HLAKCAJNUUIS",
+    "RDEERUIYOIYK",
+    "YMCPMNOOBABU",
+    "GEHWHHRVISDN",
+    "AAYWEAAERWFK",
+    "ZKEFGONVAFYE",
+    "EKNNEIGTCYSK",
+    "LTAAUTUVJOLS",
+    "LKOUAUTVOEHD",
+    "EYXIAUAMFUPP",
+    "UPHSUYNYWOLF",
+    "OTTERYFMVTVG",
+    "ABDVTTIBBARL"
+  ],
+  "words": [
+    {
+      "word": "CARIBOU",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "ELEPHANT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "ELK",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "GAZELLE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "ORANGUTAN",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "SKUNK",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "WOLF",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        11,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BABOON",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "HYENA",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "KANGAROO",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DEER",
+      "prefix": "DE",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        12,
+        3
+      ],
+      "divergence": [
+        11,
+        4
+      ]
+    },
+    {
+      "target": "GAZELLE",
+      "prefix": "GA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        5,
+        1
+      ],
+      "divergence": [
+        6,
+        2
+      ]
+    },
+    {
+      "target": "SKUNK",
+      "prefix": "SK",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        7,
+        11
+      ],
+      "divergence": [
+        6,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

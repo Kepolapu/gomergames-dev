@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000004",
+  "title": "Morning Bouquet",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "ATHFRARHHYSIAD",
+    "ZOCLAILONGAMHG",
+    "AKEIIPLHHIIURE",
+    "LCAKYLUYSYUIMR",
+    "ESAIYUAHDRILBA",
+    "AAUHNECCHORUDN",
+    "IUONKUMHBLIWAI",
+    "WCHOFNTNWGSZFU",
+    "KVNGKLJEXGFNFM",
+    "KIFAWUOAPNXPOU",
+    "AOFRAAIWTIXADK",
+    "SLNDWLAIENBNIN",
+    "CENPHZDUURGSLE",
+    "ATDANDELIONYYA",
+    "EJDNXFPRIMROSE",
+    "BLFSDYRNTULIPN"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "DAFFODIL",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        14,
+        2
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "MORNINGGLORY",
+      "start": [
+        14,
+        9
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        3,
+        2
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        13,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FUCHSIA",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        12,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DAISY",
+      "prefix": "DAI",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        9,
+        6
+      ]
+    },
+    {
+      "target": "IRIS",
+      "prefix": "IRI",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        3,
+        10
+      ]
+    },
+    {
+      "target": "SNAPDRAGON",
+      "prefix": "SNAP",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ],
+      "divergence": [
+        8,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

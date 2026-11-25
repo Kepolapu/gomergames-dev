@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000004",
+  "title": "Clear Passage",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "PTMWUEAPNLIC",
+    "ELCICINOGJAI",
+    "DDURUOPNWODL",
+    "RMHIKYIMSCUS",
+    "IYOEPNWWNIRL",
+    "ZTJNTFGYOQEE",
+    "ZINHSYODWXDE",
+    "LDGHJOUGFYNT",
+    "EIKDAOOQLIUO",
+    "LMFYLIKNAZHA",
+    "RURCHHLRKNTA",
+    "LHTBERVMEYCO",
+    "EPNTOVERCAST",
+    "BEVRLEBREEZE"
+  ],
+  "words": [
+    {
+      "word": "BREEZE",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        2,
+        3
+      ]
+    },
+    {
+      "word": "DRIZZLE",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "HAIL",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "ICICLE",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HUMIDITY",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "RAIN",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BREEZE",
+      "prefix": "BRE",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        11,
+        8
+      ],
+      "divergence": [
+        10,
+        9
+      ]
+    },
+    {
+      "target": "DOWNPOUR",
+      "prefix": "DO",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        6,
+        6
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    },
+    {
+      "target": "ICICLE",
+      "prefix": "ICI",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        5
+      ],
+      "divergence": [
+        1,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

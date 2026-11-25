@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000004",
+  "title": "Morning Meadow",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HNFRARFFITSAMK",
+    "ELDOOPKYAEIULH",
+    "ICHSCHNAUZERFW",
+    "ECKZSYPAWSAIUN",
+    "NSOADKUEAIHEEQ",
+    "RBERHAHZOYLNRS",
+    "FLFGGCLRHBKIHT",
+    "GOIWNIUMBHEEYT",
+    "NOULWIUIAYLOML",
+    "ADYYHLKIITPLVE",
+    "MHLTIUUEIYIBKN",
+    "ROJRPWCEPHEAUN",
+    "EUZEPRTMNJEINE",
+    "BNZAEWWVNIVHMK",
+    "ODUTTHKTERRIER",
+    "DVTULABRADORIE"
+  ],
+  "words": [
+    {
+      "word": "BLOODHOUND",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        14,
+        1
+      ]
+    },
+    {
+      "word": "CHEW",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "CORGI",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "DALMATIAN",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "DOBERMAN",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "KENNEL",
+      "start": [
+        13,
+        13
+      ],
+      "end": [
+        8,
+        13
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "LABRADOR",
+      "start": [
+        15,
+        4
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "MASTIFF",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "PEKINGESE",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        0
+      ]
+    },
+    {
+      "word": "SCHNAUZER",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "TERRIER",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "TREAT",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        14,
+        3
+      ]
+    },
+    {
+      "word": "WHIPPET",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        14,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "KELPIE",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "SHELTIE",
+      "start": [
+        5,
+        13
+      ],
+      "end": [
+        11,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BLOODHOUND",
+      "prefix": "BLO",
+      "start": [
+        10,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ],
+      "divergence": [
+        7,
+        11
+      ]
+    },
+    {
+      "target": "TERRIER",
+      "prefix": "TER",
+      "start": [
+        14,
+        3
+      ],
+      "end": [
+        12,
+        5
+      ],
+      "divergence": [
+        11,
+        6
+      ]
+    },
+    {
+      "target": "TREAT",
+      "prefix": "TREA",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        3,
+        10
+      ],
+      "divergence": [
+        2,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

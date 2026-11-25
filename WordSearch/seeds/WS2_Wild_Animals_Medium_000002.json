@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Medium_000002",
+  "title": "Woodland Wander",
+  "category": "Wild Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HBBAVFRUPHMU",
+    "QOTYAEOAYGUE",
+    "EAHLUTKXIHSF",
+    "IRXLTOAOUGKH",
+    "WYNGTYDYNMRE",
+    "GOYHAOYCTYAT",
+    "OYLTKCFHYCTZ",
+    "RVNVRGWIDOYE",
+    "ILWGEHRPIUOB",
+    "LTIGERNMZGKR",
+    "LUYOMWIUWAWA",
+    "AVUNNFNNWREI",
+    "RLEMURPKEVOO",
+    "YUREVAEBWCYR"
+  ],
+  "words": [
+    {
+      "word": "BEAVER",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "COYOTE",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "GORILLA",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "LEMUR",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "LION",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "MEERKAT",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHIPMUNK",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        3,
+        2
+      ]
+    },
+    {
+      "word": "TIGER",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BOAR",
+      "prefix": "BO",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        8,
+        10
+      ],
+      "divergence": [
+        8,
+        9
+      ]
+    },
+    {
+      "target": "FOX",
+      "prefix": "FO",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        5,
+        5
+      ],
+      "divergence": [
+        4,
+        4
+      ]
+    },
+    {
+      "target": "GORILLA",
+      "prefix": "GO",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        5,
+        1
+      ],
+      "divergence": [
+        5,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

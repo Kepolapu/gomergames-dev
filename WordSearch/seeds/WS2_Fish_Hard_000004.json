@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000004",
+  "title": "Freshwater Quest",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HKCOLLOPOYEYPD",
+    "WEWIYMLSBELEFS",
+    "TSLIJBYRALVILO",
+    "TBTEHLDSOROOIE",
+    "EMXURUWMOADEUY",
+    "TIOLREWJNXYIVH",
+    "ROIHKGKGCHFONH",
+    "AIAPNIECXOHHDE",
+    "RHRNQLHOACDUKR",
+    "YAYHFLHQNMTLLR",
+    "CMIIQHMABWCINI",
+    "UISFAIXGFXUYDN",
+    "AHCHNBETTAAPVG",
+    "CACNCHLSNAPPER",
+    "OMOYDNTGCGAUMC",
+    "AWATILAPIAEGWL"
+  ],
+  "words": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "ANGELFISH",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "BETTA",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "CARP",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "COD",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "HERRING",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "MACKEREL",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "TETRA",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLUEGILL",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        15,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        7,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANCHOVY",
+      "prefix": "ANCH",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        12,
+        3
+      ],
+      "divergence": [
+        11,
+        2
+      ]
+    },
+    {
+      "target": "MAHIMAHI",
+      "prefix": "MAHI",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ],
+      "divergence": [
+        6,
+        1
+      ]
+    },
+    {
+      "target": "TETRA",
+      "prefix": "TET",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ],
+      "divergence": [
+        2,
+        0
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

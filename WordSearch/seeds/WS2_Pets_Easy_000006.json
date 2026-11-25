@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000006",
+  "title": "Homebound Journey",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "DAURBQIMWR",
+    "GNHEDGEHOG",
+    "PGUINEAPIG",
+    "YEOYJHDQYH",
+    "TLORTHKNRR",
+    "HFNAQUNPVR",
+    "OIZBIURTZY",
+    "NSHBBNRTPL",
+    "FHTIYKHPLU",
+    "UAHTRDUWLE",
+    "CKLTRPFROG",
+    "DTORTOISEI"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "CAT",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BUNNY",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        9,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

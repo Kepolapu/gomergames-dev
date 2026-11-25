@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000008",
+  "title": "Indoor Adventure",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "WBERHDLEYUAA",
+    "UUVPSDOUMIPL",
+    "PNRYIYIGNVAM",
+    "ANLTFIYIOQRO",
+    "RYRHLCOIEUAU",
+    "RNLOEKFHLJKS",
+    "ONYNGDDLEZEE",
+    "TFUINRGVMKEK",
+    "YWOUAFWEAATT",
+    "BRUZOGUUHEVN",
+    "TKITTENPCOFR",
+    "LLSNDCHZTSGI",
+    "OVDLYKELTRUT",
+    "YAXOLOTLNNER"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "AXOLOTL",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        7
+      ]
+    },
+    {
+      "word": "BUNNY",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "CHAMELEON",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        12,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        3,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANGELFISH",
+      "prefix": "AN",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        3,
+        1
+      ],
+      "divergence": [
+        3,
+        2
+      ]
+    },
+    {
+      "target": "DOG",
+      "prefix": "DO",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        6
+      ],
+      "divergence": [
+        1,
+        7
+      ]
+    },
+    {
+      "target": "LIZARD",
+      "prefix": "LI",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        4,
+        7
+      ],
+      "divergence": [
+        3,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

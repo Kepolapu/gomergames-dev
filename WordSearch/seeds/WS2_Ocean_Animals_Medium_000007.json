@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Medium_000007",
+  "title": "Shoreline Secrets",
+  "category": "Ocean Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HDEVHUYLREUB",
+    "GYILNIUGNEPS",
+    "OYSTERYRLLWQ",
+    "NSEKRYTVBTFU",
+    "DHOCTOPUSGRI",
+    "HRURKPLBRVAD",
+    "VIBAVRHHTTLK",
+    "LMHYHACWFELS",
+    "APNFHWJLSCOE",
+    "HLWIPNFSAFDB",
+    "WSKSNYUCJMDU",
+    "RBHHTMFCVVNI",
+    "ARHAMMERHEAD",
+    "NEIIOTTERWSI"
+  ],
+  "words": [
+    {
+      "word": "CLAM",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "OYSTER",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CRAYFISH",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        8,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "EEL",
+      "prefix": "EE",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        12,
+        6
+      ],
+      "divergence": [
+        11,
+        5
+      ]
+    },
+    {
+      "target": "OCTOPUS",
+      "prefix": "OC",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        8,
+        9
+      ],
+      "divergence": [
+        8,
+        8
+      ]
+    },
+    {
+      "target": "OTTER",
+      "prefix": "OT",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        3,
+        6
+      ],
+      "divergence": [
+        2,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

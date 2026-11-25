@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000003",
+  "title": "Household Harmony",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "OLGONIATTI",
+    "MOUSEULMOH",
+    "DHEEIOCYRI",
+    "YBQIIVBKTR",
+    "TCHAMELEON",
+    "MHSGUZFLIH",
+    "TAKYEYUCSB",
+    "FUCHRRIEEU",
+    "RJWATHBIIN",
+    "OLNHWRNIRN",
+    "GAXOLOTLLY",
+    "CEIIGUANAO"
+  ],
+  "words": [
+    {
+      "word": "AXOLOTL",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "BUNNY",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHAMELEON",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

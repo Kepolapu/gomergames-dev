@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000007",
+  "title": "Voidbound Journey",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HHAOUCOESN",
+    "LPROBELBUL",
+    "ATUDWTKCPV",
+    "UEJRTWKOEU",
+    "NLCUKTNSRA",
+    "CEHREAJMNO",
+    "HSNKAAMOON",
+    "JCCYCTKSVL",
+    "HOYOIAEJAI",
+    "RPFDIIKRYI",
+    "UEDGRAVITY",
+    "PFTHRUSTER"
+  ],
+  "words": [
+    {
+      "word": "COSMOS",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "CRATER",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "LAUNCH",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "THRUSTER",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PROBE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "SHUTTLE",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

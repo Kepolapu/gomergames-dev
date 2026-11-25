@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Easy_000004",
+  "title": "Freshwater Quest",
+  "category": "Fish",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "UADWNSGIOL",
+    "LHERRINGIC",
+    "MWDCIQCHDS",
+    "PIBETTAJVW",
+    "THNIVMKMEO",
+    "UZONICTAWR",
+    "NKUHORYCWD",
+    "AZADHWVKMF",
+    "UMDRAKDEXI",
+    "VAGZFAMRFS",
+    "HVSNAPPERH",
+    "RPERCHLLJU"
+  ],
+  "words": [
+    {
+      "word": "BETTA",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "HERRING",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "SWORDFISH",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MACKEREL",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        5
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Easy_000001",
+  "title": "Riverbound Journey",
+  "category": "Fish",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "KAIEIRIIEN",
+    "TAADEUZSMV",
+    "RORNRLRWAE",
+    "OTUDCOVHRK",
+    "UYHCHHOFLW",
+    "TDHAUAOAIP",
+    "IZERVIKVNO",
+    "OSHPGUPPYL",
+    "ISARDINENL",
+    "OKHIBIYBFO",
+    "CLOWNFISHC",
+    "STURGEONRK"
+  ],
+  "words": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "CLOWNFISH",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "MARLIN",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "TROUT",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CARP",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "SEAHORSE",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        0,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

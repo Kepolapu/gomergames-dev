@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Medium_000006",
+  "title": "Barnyard Roaming",
+  "category": "Farm Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "UDDLMEYVNXRN",
+    "LUTHLKSTEERN",
+    "RCDGAAGDNFNU",
+    "NKQAIIMZYEZV",
+    "ELUAEUNAXOAD",
+    "NIAEAFEOAYIY",
+    "VNIAHGKAAKOD",
+    "BGLOIECYYILY",
+    "OCUHWAIIDCOW",
+    "AUHXPYHFGHYT",
+    "RIILUICLELTT",
+    "WLAOFMBGYRGL",
+    "RFTERHRAMLCO",
+    "ESOOGIEEMIIC"
+  ],
+  "words": [
+    {
+      "word": "ALPACA",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        10,
+        6
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "COW",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "DUCKLING",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        2,
+        10
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FOAL",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        12,
+        6
+      ],
+      "end": [
+        12,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "KID",
+      "prefix": "KI",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ],
+      "divergence": [
+        8,
+        9
+      ]
+    },
+    {
+      "target": "OXEN",
+      "prefix": "OX",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        4,
+        8
+      ],
+      "divergence": [
+        4,
+        7
+      ]
+    },
+    {
+      "target": "STEER",
+      "prefix": "ST",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        12,
+        2
+      ],
+      "divergence": [
+        11,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

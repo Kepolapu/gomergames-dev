@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000008",
+  "title": "Hayfield Adventure",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HMHKETEIUCWAEE",
+    "RUULBOARHVEFIM",
+    "OLROIFGICHRAMU",
+    "LEUEWHCXIUKKWL",
+    "UPAFIKOJROOIMD",
+    "EEHKESZRTNEUIR",
+    "AOHNTTKASZIOET",
+    "ACAPLAKBOEBNST",
+    "PUFNWLWBGMVNOF",
+    "MOYMPLWICALFOU",
+    "CUNEJIYTKUEIGP",
+    "HEEYKOMVTOUOWD",
+    "NHNTGNILKCUDGY",
+    "SUAYFWOUNMEOYR",
+    "OOAEAYLDRSDFEA",
+    "GEGIEKWLIHMNDI"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        14,
+        10
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "DUCKLING",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "GOAT",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        10,
+        12
+      ],
+      "end": [
+        6,
+        12
+      ]
+    },
+    {
+      "word": "MULE",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "RAM",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        12,
+        5
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        15,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ALPACA",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "CALF",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        7,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "MULE",
+      "prefix": "MUL",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        3,
+        13
+      ],
+      "divergence": [
+        4,
+        13
+      ]
+    },
+    {
+      "target": "OSTRICH",
+      "prefix": "OST",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        6,
+        4
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    },
+    {
+      "target": "PONY",
+      "prefix": "PON",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        8,
+        11
+      ],
+      "divergence": [
+        7,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

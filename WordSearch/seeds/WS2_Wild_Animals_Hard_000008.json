@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Hard_000008",
+  "title": "Timberland Journey",
+  "category": "Wild Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "KSNTLOEHFLOWHP",
+    "TVESKUNKUEWLTT",
+    "IOJBESKFOYUEIG",
+    "GEALLIROGVOBRW",
+    "EUEHEKSWBABOON",
+    "RYOMPVOKCAUIIE",
+    "HYCEHFRVRNIAII",
+    "EHOUADEXDTAIHX",
+    "HIULNWCHEETAHM",
+    "VBGLTMOHKLKIGI",
+    "ENATUGNAROUAIN",
+    "DURKDDIFUPZFAK",
+    "LIWIBXHIWEUOGR",
+    "YNIZEBRALUCXAE",
+    "LRLYATFLCUJEAI",
+    "OTMOOSEDLSBEIO"
+  ],
+  "words": [
+    {
+      "word": "ANTELOPE",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "BABOON",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "BEAR",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "CHEETAH",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "GAZELLE",
+      "start": [
+        9,
+        12
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "GORILLA",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        2
+      ]
+    },
+    {
+      "word": "MINK",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "ORANGUTAN",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "RHINOCEROS",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "SKUNK",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "TIGER",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "WOLF",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ELEPHANT",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "GROUNDHOG",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANTELOPE",
+      "prefix": "ANT",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        9,
+        4
+      ],
+      "divergence": [
+        10,
+        4
+      ]
+    },
+    {
+      "target": "BABOON",
+      "prefix": "BAB",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        4,
+        8
+      ],
+      "divergence": [
+        4,
+        7
+      ]
+    },
+    {
+      "target": "BEAR",
+      "prefix": "BEA",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        14,
+        4
+      ],
+      "divergence": [
+        15,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

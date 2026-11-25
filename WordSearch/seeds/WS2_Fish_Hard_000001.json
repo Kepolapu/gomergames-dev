@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Hard_000001",
+  "title": "Riverbound Journey",
+  "category": "Fish",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "KCODDAHHNCNAUA",
+    "EMARLINRKAEMAU",
+    "RKNUUWIEQRXNML",
+    "HEOIHRRPQPUHLA",
+    "AKPERCHPBTDIUA",
+    "LZOUFLZALCGBOU",
+    "IAUIOWRNUETEUY",
+    "BVUMTRHSUFVTUV",
+    "UNLYATGLFVYTEO",
+    "TRDCYHBLMEOANH",
+    "YWULRRITCIOIYC",
+    "KDLRNCEMJSNYWN",
+    "AOHNQRKJAXMNIA",
+    "MLGOLDFISHPEOU",
+    "RNNULCNHWNINLW",
+    "YNOEGRUTSRWIVT"
+  ],
+  "words": [
+    {
+      "word": "ANCHOVY",
+      "start": [
+        12,
+        13
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "BARRACUDA",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "BLUEGILL",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "CARP",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "HALIBUT",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "MARLIN",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "MINNOW",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "STURGEON",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        1,
+        12
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BETTA",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "GROUPER",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "PERCH",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        4,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANCHOVY",
+      "prefix": "ANC",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        9
+      ],
+      "divergence": [
+        0,
+        8
+      ]
+    },
+    {
+      "target": "BLUEGILL",
+      "prefix": "BLU",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ],
+      "divergence": [
+        7,
+        8
+      ]
+    },
+    {
+      "target": "MOLLY",
+      "prefix": "MOL",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        5,
+        5
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

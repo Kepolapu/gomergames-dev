@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Easy_000003",
+  "title": "Aerial Passage",
+  "category": "Birds",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "MLNERYAYNE",
+    "AHCYIORNVP",
+    "CHRKEAUOWH",
+    "AEOANCDGOE",
+    "WCWAVLLYOA",
+    "UDCNCENBDS",
+    "EVDKYUNKPA",
+    "MAGPIEKQEN",
+    "VULTUREBCT",
+    "ULWWOZRJKL",
+    "WHWTTVKVEL",
+    "EOSTRICHRR"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        4,
+        2
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MAGPIE",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        6,
+        6
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

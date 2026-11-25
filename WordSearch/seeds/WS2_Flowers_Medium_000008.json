@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Medium_000008",
+  "title": "Summer Glow",
+  "category": "Flowers",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "EFHSDHOUICDD",
+    "GARDENIAERVA",
+    "HFJFSVOCAHII",
+    "HLIDOFFADUJS",
+    "APNSRVGRYYAY",
+    "ELEZUNENLJSX",
+    "GDCRWURAKPMB",
+    "NAXHIWATXOIH",
+    "AHKHWWNIZPNI",
+    "RLOTUSIOQPEF",
+    "DIUFYYUNFYAO",
+    "YAEUZAMRKWUI",
+    "HOAINUTEPLRO",
+    "VIOLETOUUIEH"
+  ],
+  "words": [
+    {
+      "word": "DAFFODIL",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        12,
+        2
+      ]
+    },
+    {
+      "word": "POPPY",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        13,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CARNATION",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        1,
+        4
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "GARDENIA",
+      "prefix": "GA",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        7,
+        1
+      ],
+      "divergence": [
+        8,
+        2
+      ]
+    },
+    {
+      "target": "POPPY",
+      "prefix": "POP",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ],
+      "divergence": [
+        5,
+        9
+      ]
+    },
+    {
+      "target": "VIOLET",
+      "prefix": "VI",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        2,
+        10
+      ],
+      "divergence": [
+        3,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

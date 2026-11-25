@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000005",
+  "title": "Secret Garden",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HSMDHYEDFH",
+    "YNRSHSEOCI",
+    "DAFFODILYB",
+    "RPYRHGMYSI",
+    "ADNBFYSPZS",
+    "NRJUEISEJC",
+    "GAUEAGYTIU",
+    "EGXDGHOUWS",
+    "AOTULIPNAQ",
+    "UNKYJUXIIA",
+    "MAGNOLIAIA",
+    "SUNFLOWERN"
+  ],
+  "words": [
+    {
+      "word": "BEGONIA",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        8,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DAFFODIL",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

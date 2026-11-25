@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000005",
+  "title": "Hidden Habitat",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "AHTHDIFMHR",
+    "IOTTERURKT",
+    "UANTELOPEB",
+    "AEWIRRGRHW",
+    "IGROUNDHOG",
+    "HILHAKKZRP",
+    "IHEUINHRKK",
+    "KGORILLALM",
+    "YOPMHVSBHO",
+    "EIAFFIHBCO",
+    "IVRLYOAIGS",
+    "NDDJAOXTLE"
+  ],
+  "words": [
+    {
+      "word": "ANTELOPE",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "GORILLA",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "KOALA",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "LEOPARD",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        11,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GROUNDHOG",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "MINK",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        5,
+        6
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,234 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Medium_000009",
+  "title": "Cloudy Cove",
+  "category": "Dogs",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "SIEOUBGTKNHR",
+    "SRPEKINGESED",
+    "YOLSYCVCORGI",
+    "ADGEYHMQXQDW",
+    "AADTBOXERNHC",
+    "KRCLYNENUAMO",
+    "IBVADYOHHIRL",
+    "TAYMHLSKBNQL",
+    "ALKFLHEGIASI",
+    "IHYICVTCSRWE",
+    "OHPAWSTFCEHH",
+    "IADEYKEWUMVE",
+    "PHCVUTRVIOAV",
+    "RETNIOPBTPEV"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "BICHON",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "BISCUIT",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "BOXER",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "COLLIE",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "CORGI",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "MALTESE",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        1,
+        3
+      ]
+    },
+    {
+      "word": "PAPILLON",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "PEKINGESE",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DACHSHUND",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "LABRADOR",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        12,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AKITA",
+      "prefix": "AKI",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        9,
+        3
+      ],
+      "divergence": [
+        10,
+        4
+      ]
+    },
+    {
+      "target": "MALTESE",
+      "prefix": "MA",
+      "start": [
+        5,
+        10
+      ],
+      "end": [
+        5,
+        9
+      ],
+      "divergence": [
+        5,
+        8
+      ]
+    }
+  ],
+  "trapCount": 2,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000006",
+  "title": "Galactic Quest",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "AIIRVHLLVM",
+    "SQMCOESDBG",
+    "TNMMVCNVOO",
+    "RETOFHKUOU",
+    "OPZDOYIESK",
+    "NTYUHNKHTR",
+    "AUJLPLANET",
+    "UNWERXFZRL",
+    "TECCAPSULE",
+    "WXCKQFJYBH",
+    "METEORITER",
+    "FUASTEROID"
+  ],
+  "words": [
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "BOOSTER",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "CAPSULE",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "MODULE",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "VENUS",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        4,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

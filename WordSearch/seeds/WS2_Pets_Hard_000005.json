@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000005",
+  "title": "Cuddle Quest",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "RETSMAHHULNOKU",
+    "TCLNIQGCOUGGUE",
+    "MDMHEOLHEUERUI",
+    "HVOORUYIICIIAW",
+    "SYUFLFGNZQWEGT",
+    "IBSOOIECEABBHE",
+    "FVEWKAWHICRLWE",
+    "LPUPPYNINJHDHK",
+    "EFEINOELEMAHCA",
+    "GDGMHKALNXCTCR",
+    "NNDTAAYATFIAYA",
+    "ADYNKZQLWRGWTP",
+    "XPSDFINCHHUAGA",
+    "YNWWTHBGNYATAA",
+    "KTORTOISEDNXIC",
+    "DAIGECKONCAOWO"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "CAT",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        11,
+        12
+      ]
+    },
+    {
+      "word": "CHAMELEON",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "FROG",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        10,
+        10
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        14,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PUPPY",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        4,
+        13
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        8,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANGELFISH",
+      "prefix": "ANG",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        9,
+        2
+      ],
+      "divergence": [
+        8,
+        3
+      ]
+    },
+    {
+      "target": "GECKO",
+      "prefix": "GEC",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        3,
+        9
+      ],
+      "divergence": [
+        4,
+        8
+      ]
+    },
+    {
+      "target": "PYTHON",
+      "prefix": "PYT",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        9,
+        11
+      ],
+      "divergence": [
+        8,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

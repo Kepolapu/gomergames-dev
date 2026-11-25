@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Medium_000005",
+  "title": "Morning Flight",
+  "category": "Birds",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "RHEUOHLHHEUI",
+    "EDAKIFRMOLKA",
+    "NOGWTEEKARAP",
+    "UVLBKPNUOCIK",
+    "IEEYNHRTOUAU",
+    "PJPFKCSJNWFW",
+    "REHSIFGNIKLN",
+    "MGLECMHHNRGA",
+    "EDCIIOHFYOIC",
+    "ICHICKENUOUU",
+    "PNYYLAUWDSEO",
+    "GLROBINRHTFT",
+    "AHEGKGCQEEXL",
+    "MUUPARROTROH"
+  ],
+  "words": [
+    {
+      "word": "CHICKEN",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        4,
+        1
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        2
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "KINGFISHER",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        1,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "PELICAN",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DOVE",
+      "prefix": "DO",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        9,
+        9
+      ],
+      "divergence": [
+        8,
+        10
+      ]
+    },
+    {
+      "target": "EAGLE",
+      "prefix": "EA",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        10,
+        5
+      ],
+      "divergence": [
+        11,
+        4
+      ]
+    },
+    {
+      "target": "KINGFISHER",
+      "prefix": "KI",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        3,
+        10
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

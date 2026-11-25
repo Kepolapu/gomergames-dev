@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000007",
+  "title": "Sunny Stroll",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "RRTRTDIJSP",
+    "SHEPHERDCO",
+    "BKUTFDHMHI",
+    "LEBSRLELNN",
+    "OWUTKILYAT",
+    "OTLMYYEOUE",
+    "DHLPAIFVZR",
+    "HTDIOLHFET",
+    "OIOWFOTKRR",
+    "UIGXHKDEYN",
+    "NBONENTLST",
+    "DSETTERVEE"
+  ],
+  "words": [
+    {
+      "word": "BLOODHOUND",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "MALTESE",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "RETRIEVER",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "SCHNAUZER",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "SHEPHERD",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BONE",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "BULLDOG",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "HUSKY",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        5
+      ]
+    }
+  ],
+  "traps": []
+}

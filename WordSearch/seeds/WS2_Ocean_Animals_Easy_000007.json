@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000007",
+  "title": "Shoreline Secrets",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "SOFHRILOIQ",
+    "ENYNHBCIEO",
+    "ASTINGRAYW",
+    "UNARWHALHD",
+    "RWWQNTYUHL",
+    "CVDFIWFDEY",
+    "HIOYAEISGP",
+    "ITLVAUSWMC",
+    "NRPFQUHIUC",
+    "LUHSMNRLIR",
+    "KRILLHEHMA",
+    "NENNSEIRGB"
+  ],
+  "words": [
+    {
+      "word": "CRAYFISH",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "DOLPHIN",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "KRILL",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        5,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CRAB",
+      "start": [
+        8,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "STINGRAY",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

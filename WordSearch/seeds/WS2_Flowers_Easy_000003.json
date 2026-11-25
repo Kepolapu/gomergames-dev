@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Easy_000003",
+  "title": "Velvet Meadow",
+  "category": "Flowers",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "BHOZVHAUET",
+    "GUEUIFAEAB",
+    "EPTGONMIOL",
+    "RAKTLDNUAU",
+    "ANHDEUMIWE",
+    "NSNSTRLMAB",
+    "IYMEJOCQFO",
+    "URPJNHIULN",
+    "MYIGDFLWPN",
+    "OIASTSWDHE",
+    "YMZTULIPTT",
+    "SUNFLOWERT"
+  ],
+  "words": [
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "BUTTERCUP",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "IRIS",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

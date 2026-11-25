@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000003",
+  "title": "Gentle Currents",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "DGXROOSYIS",
+    "RLUTTVNWHI",
+    "OJSSMDOKEF",
+    "UTIXTBWBAO",
+    "GMECNPDMTR",
+    "HNSIVLRYWE",
+    "TQALGGIKAC",
+    "MRKOEBFUVA",
+    "HNFIIETBES",
+    "HMWPGVTNLT",
+    "LIGHTNINGM",
+    "OFLURRYOES"
+  ],
+  "words": [
+    {
+      "word": "DROUGHT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "SNOWDRIFT",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        8,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FLURRY",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        9,
+        6
+      ]
+    }
+  ],
+  "traps": []
+}

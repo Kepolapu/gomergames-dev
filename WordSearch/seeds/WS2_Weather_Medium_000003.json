@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000003",
+  "title": "Gentle Currents",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HLEVUDAURWSB",
+    "ICRLCOZEAGTR",
+    "HREWYWUKIVOE",
+    "UHHGCNUANKRE",
+    "MCPHLPKLDHMZ",
+    "IGSYOOYFRNFE",
+    "DHOJNUYWOQNO",
+    "IVMNERVOPKDG",
+    "TWTIQMSNHAKI",
+    "YUAZSNNSNDAA",
+    "LDAAOTHRGUST",
+    "HQEMGLOKVRZD",
+    "CNMWCTHFROST",
+    "IOIENACIRRUH"
+  ],
+  "words": [
+    {
+      "word": "ATMOSPHERE",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "CYCLONE",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "DEW",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "HURRICANE",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        6,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MIST",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "RAINDROP",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ATMOSPHERE",
+      "prefix": "AT",
+      "start": [
+        13,
+        5
+      ],
+      "end": [
+        12,
+        5
+      ],
+      "divergence": [
+        11,
+        5
+      ]
+    },
+    {
+      "target": "FROST",
+      "prefix": "FR",
+      "start": [
+        5,
+        7
+      ],
+      "end": [
+        5,
+        8
+      ],
+      "divergence": [
+        5,
+        9
+      ]
+    },
+    {
+      "target": "STORM",
+      "prefix": "STO",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        11,
+        6
+      ],
+      "divergence": [
+        12,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

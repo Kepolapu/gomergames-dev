@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000006",
+  "title": "Treetop Trails",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HHCIRTSOAOAAUR",
+    "REWIVCFLWEWHDT",
+    "CKRLUHNUVOCYRY",
+    "YRGONINOOAINIO",
+    "TYOMNCDDFBQSBL",
+    "AUSWRKPOYHEOGU",
+    "AORHJEHFVAQANE",
+    "VDPKCNWEGWEAII",
+    "UHHKEMIUUKCCKP",
+    "AHEVHYLBOULYCG",
+    "PRAKPLWDOUHROA",
+    "WRSCFVRTDRURMM",
+    "LCARDINALVLSWW",
+    "OUNLLNZKRQUAIL",
+    "ELTWRLROOSTERU",
+    "MMOLGTSOVBTNRY"
+  ],
+  "words": [
+    {
+      "word": "CARDINAL",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "CROW",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        5,
+        3
+      ]
+    },
+    {
+      "word": "DOVE",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        11,
+        13
+      ],
+      "end": [
+        6,
+        13
+      ]
+    },
+    {
+      "word": "MOCKINGBIRD",
+      "start": [
+        11,
+        12
+      ],
+      "end": [
+        1,
+        12
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "OWL",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        7,
+        2
+      ],
+      "end": [
+        14,
+        2
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        10,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHICKEN",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "ROBIN",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "TOUCAN",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        6,
+        12
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DOVE",
+      "prefix": "DOV",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        6,
+        8
+      ],
+      "divergence": [
+        7,
+        9
+      ]
+    },
+    {
+      "target": "OSTRICH",
+      "prefix": "OST",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        15,
+        5
+      ],
+      "divergence": [
+        15,
+        4
+      ]
+    },
+    {
+      "target": "PHEASANT",
+      "prefix": "PHE",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        8,
+        4
+      ],
+      "divergence": [
+        7,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

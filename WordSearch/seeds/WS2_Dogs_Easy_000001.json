@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Easy_000001",
+  "title": "Twilight Trail",
+  "category": "Dogs",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "BWRORNUWHP",
+    "AMSHELTIEH",
+    "RMPAWSLMGV",
+    "KAVCUFWKRY",
+    "ALKUONNLEP",
+    "LTLIURXLYA",
+    "MEYOIOGHHP",
+    "CSAEEAAIOI",
+    "GEYSEIAAUL",
+    "MOYBHAUVNL",
+    "HUSKYLYCDO",
+    "RVEBICHONN"
+  ],
+  "words": [
+    {
+      "word": "CORGI",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "GREYHOUND",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "HUSKY",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "MALTESE",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "PAPILLON",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "SHELTIE",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BARK",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "BEAGLE",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        4,
+        8
+      ]
+    },
+    {
+      "word": "BICHON",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "traps": []
+}

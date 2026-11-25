@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Medium_000007",
+  "title": "Voidbound Journey",
+  "category": "Space",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "OTSLIXEAATAI",
+    "LGVPSOLARHSH",
+    "IAPLANETWGTI",
+    "HLUHUCFXCCEH",
+    "EAVONREPUSRW",
+    "LXEAEFHSIEOL",
+    "UYQABUKFUIIA",
+    "SWUTULVEFIDR",
+    "PUAHLUHPHNTW",
+    "AZSTARGFRBMR",
+    "CHAQACOSMOSO",
+    "LIRRWWNKJZBV",
+    "AIGJUPITERDE",
+    "RTRETSOOBRER"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "BOOSTER",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "CAPSULE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "GALAXY",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "JUPITER",
+      "start": [
+        12,
+        3
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        2,
+        2
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "SPACESUIT",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        4,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "NEBULA",
+      "start": [
+        4,
+        4
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "STAR",
+      "start": [
+        9,
+        2
+      ],
+      "end": [
+        9,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "PLANET",
+      "prefix": "PL",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        2,
+        3
+      ],
+      "divergence": [
+        3,
+        3
+      ]
+    },
+    {
+      "target": "ROVER",
+      "prefix": "RO",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        11,
+        7
+      ]
+    },
+    {
+      "target": "SPACESUIT",
+      "prefix": "SP",
+      "start": [
+        13,
+        5
+      ],
+      "end": [
+        12,
+        5
+      ],
+      "divergence": [
+        11,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

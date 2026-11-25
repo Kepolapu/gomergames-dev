@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000001",
+  "title": "Companion Trails",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HYCUIRRNRSAF",
+    "LHSIFDLOGNOO",
+    "DHXHNHIGUANA",
+    "NTIYPMLWUKAD",
+    "HHWCHAMELEON",
+    "EDNYFFRZVOEK",
+    "DROOIFNRKUMH",
+    "GAUIPYTHONHA",
+    "EZAINMLBTTHM",
+    "HIUNYIGTLXRS",
+    "OLUIBYCETYAT",
+    "GBGRTHVFCFTE",
+    "DLEYPPUPFKLR",
+    "AGYOIFCATROL"
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "CHAMELEON",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        4,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BUNNY",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        7,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "IGUANA",
+      "prefix": "IG",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        9,
+        6
+      ],
+      "divergence": [
+        9,
+        7
+      ]
+    },
+    {
+      "target": "LIZARD",
+      "prefix": "LI",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        2,
+        6
+      ],
+      "divergence": [
+        3,
+        6
+      ]
+    },
+    {
+      "target": "PUPPY",
+      "prefix": "PUP",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        7
+      ],
+      "divergence": [
+        12,
+        8
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Medium_000001",
+  "title": "Petal Haven",
+  "category": "Flowers",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "PIMDULWEOCSO",
+    "ERHAHIBISCUS",
+    "TIJFALMMLHDH",
+    "USGFUYUWNNRR",
+    "NWLOHAIYOGDO",
+    "IQODUYNGIUIS",
+    "AKTIUCACLOHE",
+    "BOULYRRVEWCU",
+    "IMSBDVEHDHRY",
+    "YOMPCAGKNKOM",
+    "AZALEAIJAFAF",
+    "YNVUCUASDVYT",
+    "SHPANSYCYTNL",
+    "AEGNARDYHETO"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        3,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DAFFODIL",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        2,
+        6
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HYDRANGEA",
+      "prefix": "HYD",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ],
+      "divergence": [
+        10,
+        8
+      ]
+    },
+    {
+      "target": "LOTUS",
+      "prefix": "LO",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "divergence": [
+        4,
+        4
+      ]
+    },
+    {
+      "target": "ROSE",
+      "prefix": "RO",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        9,
+        10
+      ],
+      "divergence": [
+        10,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

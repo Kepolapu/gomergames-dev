@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Hard_000009",
+  "title": "Crystal Air",
+  "category": "Weather",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "ONLTSACREVOSYH",
+    "RTBCMCEVGNFNKS",
+    "HEABJIAVJOJOFR",
+    "IERQRWSHTIYWYD",
+    "BLOYTEZTVTPKRR",
+    "ESMAUOEKBAEKAI",
+    "LGEUUIIZORDQIT",
+    "ZHTVWHITEOUTNH",
+    "ZLEYKIYHYPYLBU",
+    "IPRECIPITATION",
+    "RBWDMSHGAVURWD",
+    "DLIROHEIIEYYDE",
+    "OUOMAFQVAKBFMR",
+    "VTTHXARUOPNWOD",
+    "SAENACIRRUHHLG",
+    "AIHRNOUULWGUST"
+  ],
+  "words": [
+    {
+      "word": "ATMOSPHERE",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "BAROMETER",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "BREEZE",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        13,
+        13
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "DRIZZLE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "HURRICANE",
+      "start": [
+        14,
+        10
+      ],
+      "end": [
+        14,
+        2
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "OVERCAST",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "PRECIPITATION",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "THUNDER",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "EVAPORATION",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "SNOW",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "WHITEOUT",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        7,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DRIZZLE",
+      "prefix": "DRI",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        5,
+        13
+      ],
+      "divergence": [
+        6,
+        13
+      ]
+    },
+    {
+      "target": "HEATWAVE",
+      "prefix": "HEA",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        2
+      ],
+      "divergence": [
+        2,
+        3
+      ]
+    },
+    {
+      "target": "OVERCAST",
+      "prefix": "OVE",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        11,
+        6
+      ],
+      "divergence": [
+        10,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000001",
+  "title": "Petal Haven",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NWNFGKCOHYLLOH",
+    "LILACAAULUIYND",
+    "RWEWUIRWUULUAX",
+    "LEHHNHNDIOYIAT",
+    "IUWUFVAMEUNNYD",
+    "VUTOUKTIYNEJPA",
+    "QEKDLDIOINIEUF",
+    "PAEFAFOZUURAIF",
+    "MYZIEKNKIIYPAO",
+    "ZASAECYUWYGHTD",
+    "RYGIHIBISCUSII",
+    "OQMNIENRIYKHIL",
+    "SGIOOKKLFRCUSI",
+    "EIOGLLHHYRIYEI",
+    "OEIEHRILOTUSIO",
+    "AAUBBFOAELAZAF"
+  ],
+  "words": [
+    {
+      "word": "AZALEA",
+      "start": [
+        15,
+        12
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "CARNATION",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "DAFFODIL",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "GARDENIA",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        7,
+        11
+      ]
+    },
+    {
+      "word": "HOLLYHOCK",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "LILAC",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        15,
+        7
+      ]
+    },
+    {
+      "word": "ORCHID",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        9,
+        13
+      ]
+    },
+    {
+      "word": "PERIWINKLE",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        14,
+        3
+      ]
+    },
+    {
+      "word": "PETUNIA",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "SUNFLOWER",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        2,
+        12
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BEGONIA",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "ROSE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AZALEA",
+      "prefix": "AZA",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        9,
+        3
+      ],
+      "divergence": [
+        10,
+        4
+      ]
+    },
+    {
+      "target": "DAISY",
+      "prefix": "DAI",
+      "start": [
+        1,
+        13
+      ],
+      "end": [
+        3,
+        11
+      ],
+      "divergence": [
+        4,
+        10
+      ]
+    },
+    {
+      "target": "IRIS",
+      "prefix": "IRI",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        11,
+        8
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

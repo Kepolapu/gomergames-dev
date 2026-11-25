@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Medium_000010",
+  "title": "Nature Passage",
+  "category": "Wild Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "UYUEASOEOIAH",
+    "HFTIGERWLTNH",
+    "YTFBTDWSUKTI",
+    "EDUTKNWQUWER",
+    "NIJASCFUHOLR",
+    "AZARMADILLOI",
+    "ATCKFRKRPVPK",
+    "LFKSIIFRQEEY",
+    "HFAULBVEMRUU",
+    "AKLMWOXLCIUF",
+    "ZONNUUTHHNWR",
+    "KREGDABHCEHA",
+    "EINXADEERUHE",
+    "ARBEZUCHLBGB"
+  ],
+  "words": [
+    {
+      "word": "ANTELOPE",
+      "start": [
+        0,
+        10
+      ],
+      "end": [
+        7,
+        10
+      ]
+    },
+    {
+      "word": "ARMADILLO",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "BADGER",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "BEAR",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "CARIBOU",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "ELK",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "HYENA",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        9,
+        2
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "start": [
+        2,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "TIGER",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MUSKRAT",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        3,
+        3
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ARMADILLO",
+      "prefix": "AR",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ],
+      "divergence": [
+        9,
+        11
+      ]
+    },
+    {
+      "target": "ELK",
+      "prefix": "EL",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        9,
+        7
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    },
+    {
+      "target": "JACKAL",
+      "prefix": "JA",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "divergence": [
+        4,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

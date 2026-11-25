@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Hard_000007",
+  "title": "Sunny Stroll",
+  "category": "Dogs",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "WTYBMFFITSAMMU",
+    "TCETTEISHRBONE",
+    "PLMRPGYCDNHYPH",
+    "SUKVRLUYNFUIOO",
+    "PWPORIRUUWOUOH",
+    "AYCPGREYHOUNDH",
+    "NBULYILRSXKALC",
+    "IAWRAKILHHEQEA",
+    "EVMTOIEFCZNFJN",
+    "LRIRTLWKALNFOI",
+    "TKWTERTTDHELWN",
+    "ADHFHBTTHGLBFE",
+    "IBULLDOGKIHHYU",
+    "AQLRKIRDPAWSEO",
+    "WTNMAUHAUHIHCC",
+    "COLLARPOAUEULL"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "BONE",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        1,
+        13
+      ]
+    },
+    {
+      "word": "BULLDOG",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "CHIHUAHUA",
+      "start": [
+        14,
+        12
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "COLLAR",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        15,
+        5
+      ]
+    },
+    {
+      "word": "CORGI",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "DACHSHUND",
+      "start": [
+        10,
+        8
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "DOBERMAN",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "KENNEL",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "MASTIFF",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "PAWS",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        7,
+        12
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        6,
+        4
+      ]
+    },
+    {
+      "word": "ROTTWEILER",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "SPANIEL",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "TERRIER",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CANINE",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "GREYHOUND",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "PAPILLON",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        8,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AKITA",
+      "prefix": "AKI",
+      "start": [
+        7,
+        4
+      ],
+      "end": [
+        7,
+        6
+      ],
+      "divergence": [
+        7,
+        7
+      ]
+    },
+    {
+      "target": "BULLDOG",
+      "prefix": "BUL",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        6,
+        3
+      ],
+      "divergence": [
+        6,
+        4
+      ]
+    },
+    {
+      "target": "TERRIER",
+      "prefix": "TER",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        5
+      ],
+      "divergence": [
+        10,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

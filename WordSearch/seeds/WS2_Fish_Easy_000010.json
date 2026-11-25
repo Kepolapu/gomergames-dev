@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Easy_000010",
+  "title": "Reefside Ramble",
+  "category": "Fish",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "IUIHMFUEIE",
+    "SRTILAPIAE",
+    "TWYZHSRWRL",
+    "BGOSOQMLHR",
+    "LRFRARFEIW",
+    "UVLNDRVHLN",
+    "ETOUBFDYYT",
+    "GFUCOUIIHR",
+    "IMNAUWWSND",
+    "LUDRFKFWHE",
+    "LXEPMOLLYP",
+    "TTRHADDOCK"
+  ],
+  "words": [
+    {
+      "word": "BLUEGILL",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "CARP",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "HADDOCK",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "MARLIN",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "SWORDFISH",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FLOUNDER",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "SARDINE",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        9,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000009",
+  "title": "Countryside Quest",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "RVESNNUAOU",
+    "IORTUYBOAR",
+    "ISKEOXENBW",
+    "RTGEAAKDUR",
+    "PRWRBXHGLL",
+    "FIHDYYNTLT",
+    "UCGUKIFPKA",
+    "IHHTLWEUOJ",
+    "EULKHEIFER",
+    "AOCDHWJYMF",
+    "CUASFDOGRT",
+    "DIFEOOIAEN"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "BULL",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        6,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DUCKLING",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

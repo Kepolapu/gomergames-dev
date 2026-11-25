@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000004",
+  "title": "Wilderness Way",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "MRENMWUOOR",
+    "ROSMCYVNAX",
+    "LROUBHWGNA",
+    "AAGSKRUYHG",
+    "UNLKEOLODT",
+    "BGMRCILDAK",
+    "EUWAVHCKUV",
+    "ATFTAARLAU",
+    "RALHEEHDME",
+    "HNLHEFNBWO",
+    "RLGMJACKAL",
+    "TCHIPMUNKT"
+  ],
+  "words": [
+    {
+      "word": "BEAR",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "MEERKAT",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        7,
+        3
+      ]
+    },
+    {
+      "word": "ORANGUTAN",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BAT",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "CHIPMUNK",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "PANDA",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        7,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

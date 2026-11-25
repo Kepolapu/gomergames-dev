@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000005",
+  "title": "Astral Adventure",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "HAINYWLELUDOMO",
+    "RYOISTMBLHLHEH",
+    "OAERCEMRORVBIV",
+    "CYAQONZMEOOIAA",
+    "KMPUUAUTVRSQSI",
+    "EHLWILICPNJTTU",
+    "TWUHWPAFYFRGEI",
+    "IITFUOJUPOUVRR",
+    "IWOJHXIHNWLUOB",
+    "ETILLETASCUUIC",
+    "TLXRNKUQTBHYDO",
+    "BSYATTSATURNDS",
+    "MOUSGYJZJKDLUM",
+    "PLUAYTIVARGNYO",
+    "NAAUNEPTUNEAOS",
+    "ERUQYOLWHVZAAO"
+  ],
+  "words": [
+    {
+      "word": "ASTEROID",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "BOOSTER",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        9,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "EXOPLANET",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "JUPITER",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "MODULE",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "PLUTO",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        1,
+        12
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "SATURN",
+      "start": [
+        11,
+        6
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        15,
+        1
+      ]
+    },
+    {
+      "word": "VENUS",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        11,
+        13
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ASTRONAUT",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "LAUNCH",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        1,
+        4
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ASTEROID",
+      "prefix": "AST",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        11,
+        5
+      ],
+      "divergence": [
+        11,
+        4
+      ]
+    },
+    {
+      "target": "JUPITER",
+      "prefix": "JUP",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        7,
+        8
+      ],
+      "divergence": [
+        7,
+        9
+      ]
+    },
+    {
+      "target": "PLUTO",
+      "prefix": "PLU",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        13,
+        2
+      ],
+      "divergence": [
+        13,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

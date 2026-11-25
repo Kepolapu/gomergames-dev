@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Hard_000009",
+  "title": "Wildwood Quest",
+  "category": "Wild Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "IEYCAHNLHFUWRE",
+    "EXREGITCYHBKNF",
+    "NLAKCAJAANCAJF",
+    "WDRRKHEHYRXDTA",
+    "EPSLFIHHBIIGGR",
+    "WOLVERINEIYBCI",
+    "XROVUOPYAUWMOG",
+    "DCTAIUPUVAIYUU",
+    "UUHDIIOAEFCWGE",
+    "UPVLUEPUROICAC",
+    "EIYUIKOVUDIJRE",
+    "SNWBAXTGYCRHPG",
+    "OEPRTNAHPELEYT",
+    "OUBCHIMPANZEEI",
+    "MEEHHNUUAHLHYD",
+    "ZTAAEVSOOULION"
+  ],
+  "words": [
+    {
+      "word": "BAT",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "CARIBOU",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "CHIMPANZEE",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        12
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        5,
+        12
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "ELEPHANT",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        12,
+        4
+      ]
+    },
+    {
+      "word": "GIRAFFE",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        0,
+        13
+      ]
+    },
+    {
+      "word": "HIPPOPOTAMUS",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        15,
+        6
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "LION",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        15,
+        13
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "PORCUPINE",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        8,
+        2
+      ]
+    },
+    {
+      "word": "TIGER",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        2
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        11,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BEAVER",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        14,
+        13
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "LEOPARD",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        10,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "COUGAR",
+      "prefix": "COUGA",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        12,
+        6
+      ],
+      "divergence": [
+        13,
+        5
+      ]
+    },
+    {
+      "target": "JACKAL",
+      "prefix": "JAC",
+      "start": [
+        2,
+        12
+      ],
+      "end": [
+        2,
+        10
+      ],
+      "divergence": [
+        2,
+        9
+      ]
+    },
+    {
+      "target": "LYNX",
+      "prefix": "LYN",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        11,
+        1
+      ],
+      "divergence": [
+        12,
+        0
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000009",
+  "title": "Beloved Buddies",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "TPTEEKARAPLFWA",
+    "NLAFGTORTOISEO",
+    "HXWXKVPLHYIIRU",
+    "PARROTLNNFNOFN",
+    "ONCCLYCNLORHEQ",
+    "NUUHQCUSHMKNRY",
+    "AUAIABYTGCKCRD",
+    "OIENNMYXIWFAEN",
+    "EEACGPECPVLXTG",
+    "ARHHWEZLAKROLT",
+    "YUTIVVLZETFLQL",
+    "UAPLGFHFNOFONI",
+    "RKELXUIKIUNTMB",
+    "VCLAFIADUSLLRR",
+    "YPPUPMTNGHHGHE",
+    "ENFPNMACAWJIAG"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        14,
+        10
+      ]
+    },
+    {
+      "word": "AXOLOTL",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "BUNNY",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "CAT",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        13,
+        3
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        8,
+        12
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        15,
+        13
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        14,
+        0
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        10,
+        2
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        12
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHAMELEON",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        12,
+        10
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        3,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANGELFISH",
+      "prefix": "ANG",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        8,
+        4
+      ],
+      "divergence": [
+        9,
+        4
+      ]
+    },
+    {
+      "target": "AXOLOTL",
+      "prefix": "AXO",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        3,
+        4
+      ],
+      "divergence": [
+        4,
+        5
+      ]
+    },
+    {
+      "target": "PUPPY",
+      "prefix": "PUP",
+      "start": [
+        14,
+        2
+      ],
+      "end": [
+        14,
+        4
+      ],
+      "divergence": [
+        14,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

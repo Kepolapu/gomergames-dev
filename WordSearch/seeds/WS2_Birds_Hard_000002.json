@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Hard_000002",
+  "title": "Winged Wanderings",
+  "category": "Birds",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "JVAEKORVYNEVAR",
+    "TUWCEINIUGNEPN",
+    "RLUWLIILTMFWXI",
+    "EDMOCKINGBIRDE",
+    "TQKONHACOFDBAO",
+    "SOADYSOEKCRGEI",
+    "OOUPAUSLIVLMAA",
+    "OUAEAXTGUEAAWI",
+    "RUHCWRORUANGFH",
+    "OPNKVQRXJUIPHH",
+    "OFYELUKOYODIWG",
+    "SRDRAALGTVREUO",
+    "GWTULIKTWTAKYO",
+    "HIAUULHKUGCVGS",
+    "ICANARYDLRCHRE",
+    "YIWRBCHICKENHO"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        14,
+        6
+      ]
+    },
+    {
+      "word": "CARDINAL",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        15,
+        11
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "EAGLE",
+      "start": [
+        3,
+        13
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        10,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "MAGPIE",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "MOCKINGBIRD",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        3,
+        12
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        11,
+        8
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        1,
+        12
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        0,
+        13
+      ],
+      "end": [
+        0,
+        9
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        14,
+        3
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        15,
+        10
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        11,
+        3
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FALCON",
+      "start": [
+        8,
+        12
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        13,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "EAGLE",
+      "prefix": "EAGL",
+      "start": [
+        11,
+        11
+      ],
+      "end": [
+        14,
+        8
+      ],
+      "divergence": [
+        15,
+        7
+      ]
+    },
+    {
+      "target": "ROOSTER",
+      "prefix": "ROOS",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ],
+      "divergence": [
+        12,
+        0
+      ]
+    },
+    {
+      "target": "VULTURE",
+      "prefix": "VUL",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "divergence": [
+        3,
+        1
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

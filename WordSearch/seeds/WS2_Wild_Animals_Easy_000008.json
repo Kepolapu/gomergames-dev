@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000008",
+  "title": "Timberland Journey",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "RMHKDNRHMP",
+    "HWERZLEMUR",
+    "SAEEAHTRSK",
+    "LZIKRBFNKO",
+    "OSKJMKBXRY",
+    "TNQFAPAIAB",
+    "HNLUDCETTE",
+    "GONIICKKQA",
+    "WAIWLRHAHV",
+    "UCAULVRSLE",
+    "AOANOPMEJR",
+    "CFDEERLILM"
+  ],
+  "words": [
+    {
+      "word": "ARMADILLO",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "DEER",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "JACKAL",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "SQUIRREL",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "LEMUR",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "MEERKAT",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "WOLF",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        5,
+        3
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

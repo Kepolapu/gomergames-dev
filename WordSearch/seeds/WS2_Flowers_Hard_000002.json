@@ -1,0 +1,312 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Hard_000002",
+  "title": "Blossom Breeze",
+  "category": "Flowers",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "IENIMSAJUERPOY",
+    "JITVKOFSUAIULL",
+    "CYRKIRGERANIUM",
+    "MARIGOLDTKLWNG",
+    "ITHGSZINNIAKBV",
+    "OFBDRZYDFBUJUO",
+    "ATHBLUEBONNETI",
+    "ELKCUSYENOHLTT",
+    "GSGRYJJKIGVHEF",
+    "NFOWDAHLIAIURU",
+    "APXRLCEAHROKCC",
+    "RLOMMDIUVDLWUH",
+    "DHNPNIAUYPEVPS",
+    "YSNAPURIWATYEI",
+    "HRDKZYWPYNIIOA",
+    "HTULIPIJESIEVL"
+  ],
+  "words": [
+    {
+      "word": "BUTTERCUP",
+      "start": [
+        4,
+        12
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "GERANIUM",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "HONEYSUCKLE",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "HYDRANGEA",
+      "start": [
+        14,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "IRIS",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "JASMINE",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        0,
+        1
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        0,
+        13
+      ]
+    },
+    {
+      "word": "MARIGOLD",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        3,
+        7
+      ]
+    },
+    {
+      "word": "POPPY",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        14,
+        5
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        14,
+        7
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        15,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        15,
+        5
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "ZINNIA",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        4,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BLUEBONNET",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        6,
+        12
+      ]
+    },
+    {
+      "word": "DANDELION",
+      "start": [
+        14,
+        2
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "PANSY",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        0
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "IRIS",
+      "prefix": "IRI",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        1,
+        1
+      ],
+      "divergence": [
+        0,
+        0
+      ]
+    },
+    {
+      "target": "LILY",
+      "prefix": "LIL",
+      "start": [
+        1,
+        12
+      ],
+      "end": [
+        3,
+        10
+      ],
+      "divergence": [
+        4,
+        9
+      ]
+    },
+    {
+      "target": "SNAPDRAGON",
+      "prefix": "SNAP",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        4
+      ],
+      "divergence": [
+        13,
+        5
+      ]
+    },
+    {
+      "target": "VIOLET",
+      "prefix": "VIO",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    }
+  ],
+  "trapCount": 4,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

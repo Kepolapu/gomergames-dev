@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000004",
+  "title": "Coastal Kingdom",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HSYIUUSRSO",
+    "OAEAEIEYHC",
+    "YKMAUAAURT",
+    "SWWMUULHIO",
+    "TCSWERHQMP",
+    "EJATFRCYPU",
+    "RIZLAUHHFS",
+    "HHWRLRVEIG",
+    "AHLKNOFZAN",
+    "IOTTERPIOD",
+    "IRWHALEKSR",
+    "RIUISQUIDH"
+  ],
+  "words": [
+    {
+      "word": "HAMMERHEAD",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "OCTOPUS",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "SEAL",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "WHALE",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "OYSTER",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "SQUID",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

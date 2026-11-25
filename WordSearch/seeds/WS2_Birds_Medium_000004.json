@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Medium_000004",
+  "title": "Canopy Chorus",
+  "category": "Birds",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HCHNHGHFUYII",
+    "AAPYTURKEYNI",
+    "HCEZAWRCDOIG",
+    "CDNFJOWQEGCS",
+    "NDGAQONGSNGP",
+    "IMULUDIJWIWA",
+    "FEICKPNUAMJR",
+    "NCNOKEWVNAUR",
+    "FCENVCKEOLCO",
+    "RYCAFKXAGFNW",
+    "NGRZSEAGULLH",
+    "HLLQKROHERON",
+    "ESOOGYQBTYHZ",
+    "OTEEKARAPFNR"
+  ],
+  "words": [
+    {
+      "word": "DUCK",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "FALCON",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "FLAMINGO",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "HERON",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "SPARROW",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "WOODPECKER",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        11,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FINCH",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "SEAGULL",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        10,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "DUCK",
+      "prefix": "DU",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        5,
+        4
+      ],
+      "divergence": [
+        5,
+        3
+      ]
+    },
+    {
+      "target": "GOOSE",
+      "prefix": "GO",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ],
+      "divergence": [
+        7,
+        8
+      ]
+    },
+    {
+      "target": "RAVEN",
+      "prefix": "RA",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        10,
+        6
+      ],
+      "divergence": [
+        9,
+        7
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

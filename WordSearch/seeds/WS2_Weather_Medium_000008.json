@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Medium_000008",
+  "title": "Soft Horizons",
+  "category": "Weather",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "NSYJWFIUYIUI",
+    "URETEMORABOI",
+    "EFYUWRRGTCTD",
+    "ERYSIUWRKTSR",
+    "VOTTLORHSHNI",
+    "ASVFJPLIULOZ",
+    "WTFTKNMWNYWZ",
+    "TTBEVWNKSLDL",
+    "AKUEHOUEHHRE",
+    "EWILODOOICIY",
+    "HWGSIIAUNYFF",
+    "IRNUWUOAERTM",
+    "JOCCSRAINBOW",
+    "MLIGHTNINGII"
+  ],
+  "words": [
+    {
+      "word": "BAROMETER",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "DRIZZLE",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ]
+    },
+    {
+      "word": "FROST",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "LIGHTNING",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "MIST",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "MONSOON",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        7,
+        6
+      ]
+    },
+    {
+      "word": "RAINBOW",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        6,
+        3
+      ]
+    },
+    {
+      "word": "SNOWDRIFT",
+      "start": [
+        3,
+        10
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "SUNSHINE",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        11,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DOWNPOUR",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        2,
+        5
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        2,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "HEATWAVE",
+      "prefix": "HE",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        8,
+        7
+      ],
+      "divergence": [
+        8,
+        6
+      ]
+    },
+    {
+      "target": "SLEET",
+      "prefix": "SL",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        4,
+        4
+      ],
+      "divergence": [
+        5,
+        5
+      ]
+    },
+    {
+      "target": "SUNSHINE",
+      "prefix": "SU",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        11,
+        5
+      ],
+      "divergence": [
+        10,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

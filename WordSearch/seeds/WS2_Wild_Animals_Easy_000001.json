@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000001",
+  "title": "Untamed Trails",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "AFIFIAATHN",
+    "NSWEASELEH",
+    "TLIIYCHNGC",
+    "EOAOCXIBLH",
+    "LTVJOPHEFE",
+    "OHNFUEHAQE",
+    "PNVCLDMRCT",
+    "EHROHHAHVA",
+    "VOMVTRFELH",
+    "PAUHBADGER",
+    "QCKEHKKHHA",
+    "GAZELLEPUI"
+  ],
+  "words": [
+    {
+      "word": "ANTELOPE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "BADGER",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "CHEETAH",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "GAZELLE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        11,
+        6
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "PORCUPINE",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        5,
+        1
+      ]
+    },
+    {
+      "word": "ZEBRA",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        7,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BEAR",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "FOX",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        7
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

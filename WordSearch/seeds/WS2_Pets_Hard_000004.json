@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000004",
+  "title": "Playful Pals",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "OUMNRORHBHURET",
+    "OKOJEACCYUEFCJ",
+    "AGUOANBPRWNHCL",
+    "NHSIIXPBNUINHI",
+    "GLEFPUOEINRLYB",
+    "EOBVGIULCTHAHR",
+    "UEHEQWBHOXAKIE",
+    "AKHEAYIAKTCIWG",
+    "OLTVGLWUUTLTNN",
+    "EPKYLDUYLNCTMO",
+    "PARAKEETNHEEAO",
+    "IRLVWVHHNRMNCI",
+    "IRPUPPYHRALYAY",
+    "KOITFUFEKQRHWO",
+    "NTWHSIFLEGNAUE",
+    "EGYRANACKVEVTO"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        14,
+        11
+      ],
+      "end": [
+        14,
+        3
+      ]
+    },
+    {
+      "word": "AXOLOTL",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "BUNNY",
+      "start": [
+        0,
+        8
+      ],
+      "end": [
+        4,
+        12
+      ]
+    },
+    {
+      "word": "CANARY",
+      "start": [
+        15,
+        7
+      ],
+      "end": [
+        15,
+        2
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        1,
+        12
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        0,
+        7
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        2,
+        13
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        11,
+        7
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        6,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        9,
+        12
+      ],
+      "end": [
+        13,
+        12
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        14,
+        1
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MOUSE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        2
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        15,
+        12
+      ],
+      "end": [
+        7,
+        4
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ANGELFISH",
+      "prefix": "ANGE",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ],
+      "divergence": [
+        6,
+        0
+      ]
+    },
+    {
+      "target": "AXOLOTL",
+      "prefix": "AXO",
+      "start": [
+        6,
+        10
+      ],
+      "end": [
+        6,
+        8
+      ],
+      "divergence": [
+        6,
+        7
+      ]
+    },
+    {
+      "target": "PUPPY",
+      "prefix": "PUP",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        2
+      ],
+      "divergence": [
+        12,
+        1
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

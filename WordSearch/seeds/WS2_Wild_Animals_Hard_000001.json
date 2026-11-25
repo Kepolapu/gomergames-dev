@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Hard_000001",
+  "title": "Untamed Trails",
+  "category": "Wild Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "KTRGAIOEUEPIIR",
+    "VHLDGCWOLFOVOE",
+    "ETNGCHBCRENIIG",
+    "HAIQHIYVQASOAI",
+    "PYCBRMWTTCGAQT",
+    "TYWABPUURIINEN",
+    "EKCMAAGSHIXOAW",
+    "OANUENRVKYKOLK",
+    "OUAOAZUUWREUKI",
+    "EUURFELEPHANTU",
+    "IWOLVERINECTAA",
+    "EIBCOHIBWVKMYA",
+    "AOEPMEIWHTOLSL",
+    "UGACOHURKGDDLD",
+    "YRRILUBABOONNS",
+    "DUYLEPELKKFSHN"
+  ],
+  "words": [
+    {
+      "word": "BABOON",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "CARIBOU",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "CHIMPANZEE",
+      "start": [
+        1,
+        5
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "ELEPHANT",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        9,
+        12
+      ]
+    },
+    {
+      "word": "ELK",
+      "start": [
+        15,
+        6
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "HYENA",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "KANGAROO",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "LEOPARD",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        15,
+        0
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        15,
+        4
+      ]
+    },
+    {
+      "word": "MUSKRAT",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "ORANGUTAN",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        2,
+        10
+      ]
+    },
+    {
+      "word": "PANDA",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        0,
+        4
+      ]
+    },
+    {
+      "word": "SLOTH",
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "TIGER",
+      "start": [
+        4,
+        13
+      ],
+      "end": [
+        0,
+        13
+      ]
+    },
+    {
+      "word": "WEASEL",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        10,
+        1
+      ],
+      "end": [
+        10,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BEAR",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        14,
+        2
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "WOLF",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        9
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BABOON",
+      "prefix": "BAB",
+      "start": [
+        14,
+        8
+      ],
+      "end": [
+        14,
+        6
+      ],
+      "divergence": [
+        14,
+        5
+      ]
+    },
+    {
+      "target": "ELEPHANT",
+      "prefix": "ELE",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        9,
+        5
+      ],
+      "divergence": [
+        9,
+        4
+      ]
+    },
+    {
+      "target": "WEASEL",
+      "prefix": "WEA",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        9,
+        10
+      ],
+      "divergence": [
+        8,
+        11
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

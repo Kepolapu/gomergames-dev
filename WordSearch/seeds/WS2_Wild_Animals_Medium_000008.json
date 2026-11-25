@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Medium_000008",
+  "title": "Timberland Journey",
+  "category": "Wild Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "ARDGLTOVYGFA",
+    "ELEPHANTNLLC",
+    "IGDNOKIYOACH",
+    "EMQNRRIWOAAI",
+    "SYLLTECKAEHM",
+    "OSMAUEWUAFHP",
+    "ODBKAMCCPHFA",
+    "MUPHNLYNXILN",
+    "ATGRHRKRMLNZ",
+    "KIWAEFHEISBE",
+    "IBXGVBERWKHE",
+    "EBDUWVOTKUHA",
+    "IAHOHGIALNTD",
+    "BRQCLOMWRKOT"
+  ],
+  "words": [
+    {
+      "word": "BAT",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        4,
+        4
+      ]
+    },
+    {
+      "word": "BOAR",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "CHIMPANZEE",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "COUGAR",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "ELEPHANT",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "GORILLA",
+      "start": [
+        12,
+        5
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "KOALA",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "MOOSE",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "SKUNK",
+      "start": [
+        9,
+        9
+      ],
+      "end": [
+        13,
+        9
+      ]
+    },
+    {
+      "word": "WOLF",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        0,
+        10
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BADGER",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        8,
+        5
+      ]
+    },
+    {
+      "word": "MEERKAT",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "PORCUPINE",
+      "start": [
+        1,
+        3
+      ],
+      "end": [
+        9,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "KOALA",
+      "prefix": "KO",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        2,
+        4
+      ],
+      "divergence": [
+        2,
+        3
+      ]
+    },
+    {
+      "target": "MOOSE",
+      "prefix": "MO",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        5
+      ],
+      "divergence": [
+        13,
+        4
+      ]
+    },
+    {
+      "target": "WOLF",
+      "prefix": "WO",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        3,
+        8
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

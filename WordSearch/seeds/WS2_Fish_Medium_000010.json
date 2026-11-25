@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Fish_Medium_000010",
+  "title": "Reefside Ramble",
+  "category": "Fish",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "PIWEOSCUIOWR",
+    "AGAIJREPPANS",
+    "IBEICGYDTDLW",
+    "HSIFNWOLCHRD",
+    "ATYMOLLYHEHW",
+    "MBUFUHYYDHNG",
+    "ILRNIIUNMOLR",
+    "HUPYAIUKMULO",
+    "AERXPOLLOCKU",
+    "MGAXLYATHFFP",
+    "LICFHSFBEVGE",
+    "NLBQYFWFOTLR",
+    "HLTILAPIAERH",
+    "SRSMELTKEISA"
+  ],
+  "words": [
+    {
+      "word": "BLUEGILL",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "CARP",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        11,
+        10
+      ]
+    },
+    {
+      "word": "FLOUNDER",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        3,
+        10
+      ]
+    },
+    {
+      "word": "GROUPER",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "MAHIMAHI",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "MOLLY",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        7
+      ]
+    },
+    {
+      "word": "SMELT",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        13,
+        6
+      ]
+    },
+    {
+      "word": "SNAPPER",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "TETRA",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "TILAPIA",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "TUNA",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        7,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CLOWNFISH",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "POLLOCK",
+      "start": [
+        8,
+        4
+      ],
+      "end": [
+        8,
+        10
+      ]
+    },
+    {
+      "word": "SALMON",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        5,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "GROUPER",
+      "prefix": "GR",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        8,
+        2
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    },
+    {
+      "target": "MOLLY",
+      "prefix": "MO",
+      "start": [
+        7,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ],
+      "divergence": [
+        9,
+        8
+      ]
+    },
+    {
+      "target": "TETRA",
+      "prefix": "TET",
+      "start": [
+        11,
+        9
+      ],
+      "end": [
+        9,
+        7
+      ],
+      "divergence": [
+        8,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

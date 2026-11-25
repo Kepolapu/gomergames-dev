@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000004",
+  "title": "Meadow Pathways",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HNFUITFHLR",
+    "QOFWIYBAKG",
+    "WUNULHOUHO",
+    "SCAEWFEPLS",
+    "HFUIYNFNUL",
+    "EVHGLBCUWI",
+    "EUPOKVEEIN",
+    "PCEAIFUEFG",
+    "XSCTQYIUYI",
+    "COLTTAKUDI",
+    "ERNGTKHDRL",
+    "THRABBITTV"
+  ],
+  "words": [
+    {
+      "word": "BULL",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        9,
+        3
+      ]
+    },
+    {
+      "word": "GOAT",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        5,
+        4
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        10,
+        5
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FOAL",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        4,
+        7
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

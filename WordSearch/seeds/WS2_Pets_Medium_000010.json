@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Medium_000010",
+  "title": "Happy Haven",
+  "category": "Pets",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "YAINMTEIITYH",
+    "GOUUEKUHCEIS",
+    "KUIUANAUGIHI",
+    "CHINCHILLAKF",
+    "TMSNOUHRVUAL",
+    "KLHLEULJWMUE",
+    "ITRTUAFIMABG",
+    "TEQOJYPDZCIN",
+    "TEQRABBITAYA",
+    "EKUTUYUTGWRA",
+    "NAXOIUAFLGRD",
+    "IRHIHRNUWLDG",
+    "EAFSWGOKCEGL",
+    "FPLEPUPPYYRN"
+  ],
+  "words": [
+    {
+      "word": "ANGELFISH",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        0,
+        11
+      ]
+    },
+    {
+      "word": "GUINEAPIG",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "KOI",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        0,
+        2
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        10,
+        11
+      ]
+    },
+    {
+      "word": "MACAW",
+      "start": [
+        5,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "PARAKEET",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        8
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        8,
+        8
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        9,
+        7
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        0,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        12,
+        6
+      ]
+    },
+    {
+      "word": "TORTOISE",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        13,
+        3
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "KOI",
+      "prefix": "KO",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        6
+      ],
+      "divergence": [
+        12,
+        5
+      ]
+    },
+    {
+      "target": "PUPPY",
+      "prefix": "PUP",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        4
+      ],
+      "divergence": [
+        13,
+        3
+      ]
+    },
+    {
+      "target": "SNAKE",
+      "prefix": "SN",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "divergence": [
+        4,
+        4
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

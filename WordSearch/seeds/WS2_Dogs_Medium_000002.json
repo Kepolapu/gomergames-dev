@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Medium_000002",
+  "title": "Cozy Crossing",
+  "category": "Dogs",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "UWURHHIXIVHA",
+    "TERTPRZAKITA",
+    "PUPPYOYRRKVE",
+    "VKLSZIOHAVHN",
+    "WEHCCSEDBKAA",
+    "PNPVGHHNLIHD",
+    "INOFXENLNEQT",
+    "TEIUVPCAOEFA",
+    "BLNOGHRLUHJE",
+    "UTTMDEUVEZIR",
+    "LNEUMRUUWAEG",
+    "LMROVDMVRUSR",
+    "NYPTIUCSIBYH",
+    "DUTFUUCOLLAR"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        1,
+        7
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "BISCUIT",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "CHEW",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        0
+      ]
+    },
+    {
+      "word": "COLLAR",
+      "start": [
+        13,
+        6
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "GREATDANE",
+      "start": [
+        10,
+        11
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "KENNEL",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "LEASH",
+      "start": [
+        8,
+        7
+      ],
+      "end": [
+        12,
+        11
+      ]
+    },
+    {
+      "word": "PITBULL",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "POMERANIAN",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "POODLE",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "SCHNAUZER",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        11,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "BARK",
+      "start": [
+        4,
+        8
+      ],
+      "end": [
+        1,
+        8
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "SHEPHERD",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        11,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AKITA",
+      "prefix": "AK",
+      "start": [
+        4,
+        10
+      ],
+      "end": [
+        4,
+        9
+      ],
+      "divergence": [
+        4,
+        8
+      ]
+    },
+    {
+      "target": "CHEW",
+      "prefix": "CH",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        8,
+        5
+      ],
+      "divergence": [
+        9,
+        4
+      ]
+    },
+    {
+      "target": "SCHNAUZER",
+      "prefix": "SC",
+      "start": [
+        3,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ],
+      "divergence": [
+        5,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

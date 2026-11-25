@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000010",
+  "title": "Radiant Crossing",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "NOPKUESPILCEUY",
+    "AOROVERVLTNPNT",
+    "AEOYZHDVHAHEFY",
+    "WABRCXURAANMNE",
+    "DSEUKOULOMCETL",
+    "EWUCOSMOSVUITR",
+    "SCVRTOUETVLOEM",
+    "HTLEKAIPTLVTRO",
+    "UMRMYOQTEQIUWD",
+    "THHGLHETQRIYHU",
+    "TRWHTKAJOONIIL",
+    "LAFACSQEWIROHE",
+    "ESWOIPTPCIGBVQ",
+    "LARYNEPTUNENIA",
+    "BUEPMLTNGMARST",
+    "IQAALUBENAOXNI"
+  ],
+  "words": [
+    {
+      "word": "ECLIPSE",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        14,
+        9
+      ],
+      "end": [
+        14,
+        12
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        2,
+        3
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        14,
+        4
+      ],
+      "end": [
+        6,
+        12
+      ]
+    },
+    {
+      "word": "MODULE",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        11,
+        13
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        15,
+        8
+      ],
+      "end": [
+        15,
+        3
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        13,
+        4
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "ORBIT",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        14,
+        13
+      ]
+    },
+    {
+      "word": "PLANET",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "PROBE",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        2
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        15,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "ROCKET",
+      "start": [
+        13,
+        2
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "SHUTTLE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "SUPERNOVA",
+      "start": [
+        5,
+        5
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "THRUSTER",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        8,
+        2
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "COMET",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        7,
+        8
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        3,
+        13
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "ECLIPSE",
+      "prefix": "ECL",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        7,
+        2
+      ],
+      "divergence": [
+        8,
+        3
+      ]
+    },
+    {
+      "target": "ROVER",
+      "prefix": "ROV",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        5,
+        9
+      ],
+      "divergence": [
+        6,
+        10
+      ]
+    },
+    {
+      "target": "THRUSTER",
+      "prefix": "THR",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        8,
+        2
+      ],
+      "divergence": [
+        7,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

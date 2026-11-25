@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Easy_000002",
+  "title": "Silver Horizon",
+  "category": "Weather",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "NRFUEWPLCN",
+    "LSNOWFLAKE",
+    "TWLTGKUUVI",
+    "RHKDYMOACY",
+    "SUKBHPWVYD",
+    "TRHPRTHVCS",
+    "ORWHAEKOLW",
+    "RIXEIUETOI",
+    "MCHAUYSZNN",
+    "AAUEOUNXED",
+    "FNAAGSHCCB",
+    "AEHUMIDITY"
+  ],
+  "words": [
+    {
+      "word": "BREEZE",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        8,
+        2
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "HURRICANE",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "STORM",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        8,
+        0
+      ]
+    },
+    {
+      "word": "TYPHOON",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "WIND",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CYCLONE",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "traps": []
+}

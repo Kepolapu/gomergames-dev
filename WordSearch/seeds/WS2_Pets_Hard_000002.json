@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Hard_000002",
+  "title": "Cozy Corners",
+  "category": "Pets",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "DRAZILRGVKFIAE",
+    "WTARANTULAAIUR",
+    "BRTLHOHPHLHGON",
+    "SLCCRETPULXUKD",
+    "OONRFLCYFIUALK",
+    "EIAVKEMHIHSNNG",
+    "FPUIUMOLSCTACL",
+    "HMROOAUVGNOUUP",
+    "GDOGNHSOXIAFSY",
+    "WEKLBCETMHHKYT",
+    "PDRURTKDKCQLEH",
+    "YFNBECRKGDTRMO",
+    "TNNRILRNIEHHDN",
+    "YTRGOLDFISHFLC",
+    "IEHHBGNBVOYOVL",
+    "FOITRETSMAHCGD"
+  ],
+  "words": [
+    {
+      "word": "BUNNY",
+      "start": [
+        9,
+        4
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "CHAMELEON",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "CHINCHILLA",
+      "start": [
+        10,
+        9
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        8,
+        3
+      ]
+    },
+    {
+      "word": "FERRET",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        10,
+        5
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        2,
+        4
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        13,
+        10
+      ]
+    },
+    {
+      "word": "HAMSTER",
+      "start": [
+        15,
+        10
+      ],
+      "end": [
+        15,
+        4
+      ]
+    },
+    {
+      "word": "HEDGEHOG",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        15,
+        12
+      ]
+    },
+    {
+      "word": "IGUANA",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "LIZARD",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        0,
+        0
+      ]
+    },
+    {
+      "word": "MOUSE",
+      "start": [
+        5,
+        6
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        7,
+        13
+      ],
+      "end": [
+        12,
+        13
+      ]
+    },
+    {
+      "word": "SNAKE",
+      "start": [
+        6,
+        8
+      ],
+      "end": [
+        10,
+        12
+      ]
+    },
+    {
+      "word": "TARANTULA",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CAT",
+      "start": [
+        6,
+        12
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "GERBIL",
+      "start": [
+        8,
+        0
+      ],
+      "end": [
+        13,
+        5
+      ]
+    },
+    {
+      "word": "GUPPY",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        4,
+        7
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CHAMELEON",
+      "prefix": "CHAM",
+      "start": [
+        15,
+        11
+      ],
+      "end": [
+        15,
+        8
+      ],
+      "divergence": [
+        15,
+        7
+      ]
+    },
+    {
+      "target": "MOUSE",
+      "prefix": "MOU",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        7,
+        6
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    },
+    {
+      "target": "PYTHON",
+      "prefix": "PYT",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        12,
+        0
+      ],
+      "divergence": [
+        13,
+        0
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

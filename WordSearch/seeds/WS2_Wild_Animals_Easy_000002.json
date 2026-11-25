@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Wild_Animals_Easy_000002",
+  "title": "Woodland Wander",
+  "category": "Wild Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "EHHIURWNOO",
+    "SLEOPARDII",
+    "DGEHFQHWTN",
+    "HOHPBEAVER",
+    "YRIHHICNHG",
+    "EIROOAINPW",
+    "NLUIFRNDAE",
+    "ALHWEVMTNU",
+    "AALVXUONDO",
+    "IILNLULBAT",
+    "FOYRMIEHXQ",
+    "WLOYCOYOTE"
+  ],
+  "words": [
+    {
+      "word": "BAT",
+      "start": [
+        9,
+        7
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "BEAVER",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        3,
+        9
+      ]
+    },
+    {
+      "word": "COYOTE",
+      "start": [
+        11,
+        4
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "HYENA",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "LEOPARD",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        7
+      ]
+    },
+    {
+      "word": "MOLE",
+      "start": [
+        7,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "PANDA",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "WOLVERINE",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        3,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "ELEPHANT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        7,
+        7
+      ]
+    },
+    {
+      "word": "GORILLA",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        8,
+        1
+      ]
+    },
+    {
+      "word": "LYNX",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        8,
+        4
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

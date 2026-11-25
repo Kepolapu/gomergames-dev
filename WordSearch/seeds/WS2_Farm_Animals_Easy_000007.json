@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000007",
+  "title": "Prairie Excursion",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "NOULSOFICT",
+    "VSYLCUOXEN",
+    "ITQABOARFS",
+    "ORHMIPWDHT",
+    "WIBAMHYUNA",
+    "CCTBCGLCTL",
+    "KHEHDNKKUL",
+    "ALZMROHILI",
+    "HSHWUFNUEO",
+    "IGOOSEBKFN",
+    "AIAAIAUAEN",
+    "IOEIEIEAIY"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        7
+      ]
+    },
+    {
+      "word": "BULL",
+      "start": [
+        9,
+        6
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "COW",
+      "start": [
+        1,
+        4
+      ],
+      "end": [
+        3,
+        6
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        6,
+        7
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        4,
+        3
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        2,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "EMU",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "OSTRICH",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        6,
+        1
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

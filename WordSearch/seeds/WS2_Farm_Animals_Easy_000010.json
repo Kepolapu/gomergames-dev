@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Easy_000010",
+  "title": "Rural Passage",
+  "category": "Farm Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "RYCRHLCWPL",
+    "ASEDVNLSPE",
+    "BNTLYNCALF",
+    "BWBAEFUEME",
+    "IVORLFCOIA",
+    "TOAZWLHSUO",
+    "UMRHENIOEI",
+    "LCVLKUCOIO",
+    "IHTYCOKUND",
+    "HLGVIGEYII",
+    "HORSEUNKAW",
+    "KDUCKWKTAA"
+  ],
+  "words": [
+    {
+      "word": "BOAR",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        11,
+        4
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "HORSE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "MARE",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        5,
+        0
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CALF",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        4,
+        6
+      ],
+      "end": [
+        10,
+        6
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        10,
+        7
+      ],
+      "end": [
+        8,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

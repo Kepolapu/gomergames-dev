@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Medium_000002",
+  "title": "Tidal Wonders",
+  "category": "Ocean Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HHIAAYKOFPHE",
+    "NARWHALYAEIU",
+    "LHURPTKULNOF",
+    "ETIHWTAERGVL",
+    "LTSBVMSKSUYR",
+    "CFTWKSFKYIIN",
+    "ACAHUAEELNII",
+    "NTRMIUIVLHVO",
+    "RLFAWCONCHCT",
+    "ASIZBSHRIMPT",
+    "BNSRWUURYRKE",
+    "HAHBYAUUNWNR",
+    "IIQFEUELTRUT",
+    "YLRSDSCALLOP"
+  ],
+  "words": [
+    {
+      "word": "BARNACLE",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "CRAB",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        9,
+        4
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "GREATWHITE",
+      "start": [
+        3,
+        9
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "MUSSEL",
+      "start": [
+        7,
+        3
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "NARWHAL",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        6
+      ]
+    },
+    {
+      "word": "OTTER",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "SCALLOP",
+      "start": [
+        13,
+        5
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "SHRIMP",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "SNAIL",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "TURTLE",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        12,
+        6
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CONCH",
+      "start": [
+        8,
+        5
+      ],
+      "end": [
+        8,
+        9
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        5,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "EEL",
+      "prefix": "EE",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        6,
+        6
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    },
+    {
+      "target": "SCALLOP",
+      "prefix": "SC",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        8,
+        5
+      ],
+      "divergence": [
+        7,
+        5
+      ]
+    },
+    {
+      "target": "TURTLE",
+      "prefix": "TU",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        11,
+        7
+      ],
+      "divergence": [
+        10,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

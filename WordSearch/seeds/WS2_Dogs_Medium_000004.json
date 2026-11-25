@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Dogs_Medium_000004",
+  "title": "Morning Meadow",
+  "category": "Dogs",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "PGOEINEAEEAF",
+    "UGCHOWCHOWVR",
+    "GYBXYYNLYYCS",
+    "RETTESHURUHP",
+    "KDALMATIANEA",
+    "HWQVHKYFLDWN",
+    "DNUOHDOOLBLI",
+    "AKITAWYNOKFE",
+    "OMFJQHTVCIIL",
+    "ESEGNIKEPBHR",
+    "BOXERPTYHBRT",
+    "IOIHMPNTRLRH",
+    "YAVMKELPIEYF",
+    "OPOINTERTYUL"
+  ],
+  "words": [
+    {
+      "word": "AKITA",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "BLOODHOUND",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        6,
+        0
+      ]
+    },
+    {
+      "word": "BOXER",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "CHEW",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        5,
+        10
+      ]
+    },
+    {
+      "word": "CHOWCHOW",
+      "start": [
+        1,
+        2
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "KELPIE",
+      "start": [
+        12,
+        4
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "KIBBLE",
+      "start": [
+        7,
+        9
+      ],
+      "end": [
+        12,
+        9
+      ]
+    },
+    {
+      "word": "PEKINGESE",
+      "start": [
+        9,
+        8
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "POINTER",
+      "start": [
+        13,
+        1
+      ],
+      "end": [
+        13,
+        7
+      ]
+    },
+    {
+      "word": "PUG",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "SETTER",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        3,
+        0
+      ]
+    },
+    {
+      "word": "SPANIEL",
+      "start": [
+        2,
+        11
+      ],
+      "end": [
+        8,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "COLLAR",
+      "start": [
+        8,
+        8
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "DALMATIAN",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "WHIPPET",
+      "start": [
+        7,
+        5
+      ],
+      "end": [
+        13,
+        5
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "AKITA",
+      "prefix": "AK",
+      "start": [
+        4,
+        5
+      ],
+      "end": [
+        5,
+        5
+      ],
+      "divergence": [
+        6,
+        5
+      ]
+    },
+    {
+      "target": "BOXER",
+      "prefix": "BO",
+      "start": [
+        6,
+        9
+      ],
+      "end": [
+        7,
+        8
+      ],
+      "divergence": [
+        8,
+        7
+      ]
+    },
+    {
+      "target": "PEKINGESE",
+      "prefix": "PE",
+      "start": [
+        3,
+        11
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        5,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

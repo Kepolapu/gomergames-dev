@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Birds_Medium_000002",
+  "title": "Winged Wanderings",
+  "category": "Birds",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HSRNINIAOUON",
+    "PGWAVNEKCIHC",
+    "RHIAVFINCHVM",
+    "NNEUNERVKYLN",
+    "IOOANHNKICTA",
+    "OEXFSUYIVOSC",
+    "WGQLIAUQRCTI",
+    "CIWAEINRTIOL",
+    "APLMCYATULRE",
+    "NNHIRPOVWHKP",
+    "AHHNLVWDLTHH",
+    "RYIGHVULTURE",
+    "YIROOSTERDII",
+    "OSLELEUYHAWK"
+  ],
+  "words": [
+    {
+      "word": "CANARY",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        12,
+        0
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        1,
+        11
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        2,
+        5
+      ],
+      "end": [
+        2,
+        9
+      ]
+    },
+    {
+      "word": "HAWK",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        9,
+        5
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "PELICAN",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "PIGEON",
+      "start": [
+        8,
+        1
+      ],
+      "end": [
+        3,
+        1
+      ]
+    },
+    {
+      "word": "RAVEN",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        12,
+        2
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "STORK",
+      "start": [
+        5,
+        10
+      ],
+      "end": [
+        9,
+        10
+      ]
+    },
+    {
+      "word": "SWAN",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        3,
+        4
+      ]
+    },
+    {
+      "word": "VULTURE",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        11,
+        11
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FLAMINGO",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "PHEASANT",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        6,
+        7
+      ],
+      "end": [
+        6,
+        3
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CANARY",
+      "prefix": "CAN",
+      "start": [
+        5,
+        11
+      ],
+      "end": [
+        3,
+        11
+      ],
+      "divergence": [
+        2,
+        11
+      ]
+    },
+    {
+      "target": "FINCH",
+      "prefix": "FI",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        6,
+        4
+      ],
+      "divergence": [
+        7,
+        5
+      ]
+    },
+    {
+      "target": "STORK",
+      "prefix": "ST",
+      "start": [
+        5,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ],
+      "divergence": [
+        3,
+        10
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

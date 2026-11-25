@@ -1,0 +1,296 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Weather_Hard_000006",
+  "title": "Calm Skies",
+  "category": "Weather",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "EOADKODANROTOF",
+    "CLOUDHNYDFLCKH",
+    "DLEKALFWONSRVB",
+    "HRYHOCYCLONEAA",
+    "TTOIEVYYGGSUKR",
+    "URHUMIDITYHFEO",
+    "OFEUGLELZZIRDM",
+    "ETJINHYFHHUVME",
+    "TSUSGDTHRTIRVT",
+    "IAWDLGEFAWGAIE",
+    "HCJVOEZRRUWILR",
+    "WEGFYUELSTMNYV",
+    "PRECIPITATIONA",
+    "FOFAMHGEFUOOUK",
+    "OFKEDZHFOVORYC",
+    "ADTFLURRYAEHMA"
+  ],
+  "words": [
+    {
+      "word": "BAROMETER",
+      "start": [
+        2,
+        13
+      ],
+      "end": [
+        10,
+        13
+      ]
+    },
+    {
+      "word": "CLOUD",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "CYCLONE",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "DROUGHT",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "FLURRY",
+      "start": [
+        15,
+        3
+      ],
+      "end": [
+        15,
+        8
+      ]
+    },
+    {
+      "word": "FOG",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        9,
+        5
+      ]
+    },
+    {
+      "word": "FORECAST",
+      "start": [
+        14,
+        1
+      ],
+      "end": [
+        7,
+        1
+      ]
+    },
+    {
+      "word": "GUST",
+      "start": [
+        9,
+        10
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "HEATWAVE",
+      "start": [
+        14,
+        6
+      ],
+      "end": [
+        7,
+        13
+      ]
+    },
+    {
+      "word": "PRECIPITATION",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        12,
+        12
+      ]
+    },
+    {
+      "word": "RAIN",
+      "start": [
+        8,
+        11
+      ],
+      "end": [
+        11,
+        11
+      ]
+    },
+    {
+      "word": "SLEET",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "SNOWFLAKE",
+      "start": [
+        2,
+        10
+      ],
+      "end": [
+        2,
+        2
+      ]
+    },
+    {
+      "word": "TEMPERATURE",
+      "start": [
+        15,
+        2
+      ],
+      "end": [
+        5,
+        12
+      ]
+    },
+    {
+      "word": "TORNADO",
+      "start": [
+        0,
+        11
+      ],
+      "end": [
+        0,
+        5
+      ]
+    },
+    {
+      "word": "WHITEOUT",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        4,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "DRIZZLE",
+      "start": [
+        6,
+        12
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "HUMIDITY",
+      "start": [
+        5,
+        2
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "THUNDERSTORM",
+      "start": [
+        4,
+        1
+      ],
+      "end": [
+        15,
+        12
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "CYCLONE",
+      "prefix": "CYC",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        3,
+        4
+      ]
+    },
+    {
+      "target": "HEATWAVE",
+      "prefix": "HEA",
+      "start": [
+        15,
+        11
+      ],
+      "end": [
+        15,
+        9
+      ],
+      "divergence": [
+        15,
+        8
+      ]
+    },
+    {
+      "target": "SLEET",
+      "prefix": "SLE",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        11,
+        6
+      ],
+      "divergence": [
+        11,
+        5
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  }
+}

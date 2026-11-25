@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Medium_000007",
+  "title": "Prairie Excursion",
+  "category": "Farm Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "AYITUAUIECTT",
+    "UOANOPORYUOT",
+    "AOTERAMXVUVW",
+    "GRFNHVNHEOLK",
+    "HIYZYNIQUNKK",
+    "HIATDONKEYTC",
+    "ESKKBIHUWEWU",
+    "ITXUELWKUGMD",
+    "FEKHILVPNCQC",
+    "EEMIWATIBBAR",
+    "RRTLGTLIIHGG",
+    "FULMBSIYIGUE",
+    "SUYKONRYDOGY",
+    "BNSGIHYSHEEP"
+  ],
+  "words": [
+    {
+      "word": "BULL",
+      "start": [
+        13,
+        0
+      ],
+      "end": [
+        10,
+        3
+      ]
+    },
+    {
+      "word": "DOG",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        12,
+        10
+      ]
+    },
+    {
+      "word": "GOAT",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        0,
+        3
+      ]
+    },
+    {
+      "word": "GOSLING",
+      "start": [
+        13,
+        3
+      ],
+      "end": [
+        7,
+        9
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        5,
+        0
+      ],
+      "end": [
+        10,
+        0
+      ]
+    },
+    {
+      "word": "MARE",
+      "start": [
+        2,
+        6
+      ],
+      "end": [
+        2,
+        3
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        9,
+        6
+      ]
+    },
+    {
+      "word": "SHEEP",
+      "start": [
+        13,
+        7
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        6,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "YAK",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "COW",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        2,
+        11
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        7,
+        11
+      ],
+      "end": [
+        4,
+        11
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BULL",
+      "prefix": "BU",
+      "start": [
+        6,
+        4
+      ],
+      "end": [
+        7,
+        3
+      ],
+      "divergence": [
+        8,
+        2
+      ]
+    },
+    {
+      "target": "HEIFER",
+      "prefix": "HEI",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        6,
+        5
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    },
+    {
+      "target": "YAK",
+      "prefix": "YA",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        1,
+        2
+      ],
+      "divergence": [
+        2,
+        3
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

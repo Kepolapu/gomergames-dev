@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Hard_000009",
+  "title": "Countryside Quest",
+  "category": "Farm Animals",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "LEKHYIILBAEEAY",
+    "CMVNOUIMKIDMOY",
+    "IUETLLAMAAUENI",
+    "YIOIHLWFKAUESA",
+    "YFXRYTFHENKUTY",
+    "EMEPWWROUCOIET",
+    "KNNKIRQIIRYOEF",
+    "RCREFIEHLMGORI",
+    "ULSQAKCTTOKNDO",
+    "TCWUUVTKSYMFHO",
+    "LVOSTALLIONVRN",
+    "IUFWJDIWVKOODS",
+    "CMVRRNRLLFPRPE",
+    "PFAEGLULVMRVOD",
+    "TIIRIUUOESZBAU",
+    "ZAQLEBEIBKCUDU"
+  ],
+  "words": [
+    {
+      "word": "BULL",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        12,
+        8
+      ]
+    },
+    {
+      "word": "CHICKEN",
+      "start": [
+        8,
+        6
+      ],
+      "end": [
+        2,
+        12
+      ]
+    },
+    {
+      "word": "COW",
+      "start": [
+        9,
+        1
+      ],
+      "end": [
+        11,
+        3
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        15,
+        12
+      ],
+      "end": [
+        15,
+        9
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        0,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ]
+    },
+    {
+      "word": "HEIFER",
+      "start": [
+        7,
+        7
+      ],
+      "end": [
+        7,
+        2
+      ]
+    },
+    {
+      "word": "KID",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        10
+      ]
+    },
+    {
+      "word": "LAMB",
+      "start": [
+        3,
+        5
+      ],
+      "end": [
+        0,
+        8
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        2,
+        8
+      ]
+    },
+    {
+      "word": "MARE",
+      "start": [
+        12,
+        1
+      ],
+      "end": [
+        15,
+        4
+      ]
+    },
+    {
+      "word": "PONY",
+      "start": [
+        12,
+        12
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "QUAIL",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        12,
+        7
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        12,
+        11
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "STALLION",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        10,
+        10
+      ]
+    },
+    {
+      "word": "STEER",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        7,
+        12
+      ]
+    },
+    {
+      "word": "TURKEY",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        4,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "GOSLING",
+      "start": [
+        7,
+        10
+      ],
+      "end": [
+        13,
+        4
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        4,
+        7
+      ],
+      "end": [
+        4,
+        9
+      ]
+    },
+    {
+      "word": "OXEN",
+      "start": [
+        3,
+        2
+      ],
+      "end": [
+        6,
+        2
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "BULL",
+      "prefix": "BUL",
+      "start": [
+        15,
+        5
+      ],
+      "end": [
+        13,
+        5
+      ],
+      "divergence": [
+        12,
+        5
+      ]
+    },
+    {
+      "target": "PONY",
+      "prefix": "PON",
+      "start": [
+        12,
+        10
+      ],
+      "end": [
+        10,
+        10
+      ],
+      "divergence": [
+        9,
+        10
+      ]
+    },
+    {
+      "target": "ROOSTER",
+      "prefix": "ROO",
+      "start": [
+        7,
+        12
+      ],
+      "end": [
+        5,
+        10
+      ],
+      "divergence": [
+        4,
+        9
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

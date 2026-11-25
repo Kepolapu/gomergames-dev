@@ -1,0 +1,296 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Hard_000008",
+  "title": "Infinite Horizons",
+  "category": "Space",
+  "difficulty": "Hard",
+  "rows": 16,
+  "cols": 14,
+  "grid": [
+    "IWTNYNENUTPENH",
+    "IESREVINUIHDHH",
+    "CGNRGAAUWIRLNL",
+    "OLLWDUQUASARGD",
+    "SUDTHRUSTERLQA",
+    "MCOMETTFXIURHK",
+    "OUKTTRLOHYUEUE",
+    "SGAIERPTVYIVXL",
+    "FRXIKLRRUICOAN",
+    "CACVAAEFEAGRGE",
+    "UVLNEJRSPTVHLB",
+    "OIEMRNHSCXIUYU",
+    "FTLSHLUMOONPNL",
+    "OYRHNLLSVVPTUA",
+    "UALMETEORITEIJ",
+    "MTPUIOYFILNIVR"
+  ],
+  "words": [
+    {
+      "word": "CAPSULE",
+      "start": [
+        8,
+        10
+      ],
+      "end": [
+        14,
+        4
+      ]
+    },
+    {
+      "word": "COMET",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        5,
+        5
+      ]
+    },
+    {
+      "word": "COSMOS",
+      "start": [
+        2,
+        0
+      ],
+      "end": [
+        7,
+        0
+      ]
+    },
+    {
+      "word": "EARTH",
+      "start": [
+        10,
+        4
+      ],
+      "end": [
+        6,
+        8
+      ]
+    },
+    {
+      "word": "EXOPLANET",
+      "start": [
+        4,
+        9
+      ],
+      "end": [
+        12,
+        1
+      ]
+    },
+    {
+      "word": "GRAVITY",
+      "start": [
+        7,
+        1
+      ],
+      "end": [
+        13,
+        1
+      ]
+    },
+    {
+      "word": "JUPITER",
+      "start": [
+        14,
+        13
+      ],
+      "end": [
+        8,
+        7
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        15,
+        0
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        14,
+        3
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        12,
+        7
+      ],
+      "end": [
+        12,
+        10
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        8,
+        13
+      ],
+      "end": [
+        13,
+        13
+      ]
+    },
+    {
+      "word": "NEPTUNE",
+      "start": [
+        0,
+        12
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "QUASAR",
+      "start": [
+        3,
+        6
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "TELESCOPE",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        14,
+        11
+      ]
+    },
+    {
+      "word": "UNIVERSE",
+      "start": [
+        1,
+        8
+      ],
+      "end": [
+        1,
+        1
+      ]
+    },
+    {
+      "word": "VENUS",
+      "start": [
+        9,
+        3
+      ],
+      "end": [
+        13,
+        7
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CRATER",
+      "start": [
+        9,
+        0
+      ],
+      "end": [
+        4,
+        5
+      ]
+    },
+    {
+      "word": "ROVER",
+      "start": [
+        9,
+        11
+      ],
+      "end": [
+        5,
+        11
+      ]
+    },
+    {
+      "word": "THRUSTER",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        10
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "EXOPLANET",
+      "prefix": "EXO",
+      "start": [
+        6,
+        13
+      ],
+      "end": [
+        8,
+        11
+      ],
+      "divergence": [
+        9,
+        10
+      ]
+    },
+    {
+      "target": "GRAVITY",
+      "prefix": "GRA",
+      "start": [
+        3,
+        12
+      ],
+      "end": [
+        3,
+        10
+      ],
+      "divergence": [
+        3,
+        9
+      ]
+    },
+    {
+      "target": "METEORITE",
+      "prefix": "MET",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        5,
+        5
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 3,
+    "max": 5
+  },
+  "catalogGeneration": "replacement-v1"
+}

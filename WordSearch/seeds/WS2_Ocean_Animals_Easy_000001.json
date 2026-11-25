@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Ocean_Animals_Easy_000001",
+  "title": "Ocean Odyssey",
+  "category": "Ocean Animals",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "ETTVEHEAHS",
+    "PRAWNEAHIA",
+    "TWYITULKRN",
+    "HSUAOJYDWD",
+    "PENGUINJAD",
+    "FAFSBLHILO",
+    "MUKGEHOYRL",
+    "YRXHLALDUL",
+    "RCNFUHLRSA",
+    "IHWLGYHJYR",
+    "TIDCACONCH",
+    "MNSTARFISH"
+  ],
+  "words": [
+    {
+      "word": "BELUGA",
+      "start": [
+        5,
+        4
+      ],
+      "end": [
+        10,
+        4
+      ]
+    },
+    {
+      "word": "CONCH",
+      "start": [
+        10,
+        5
+      ],
+      "end": [
+        10,
+        9
+      ]
+    },
+    {
+      "word": "EEL",
+      "start": [
+        0,
+        4
+      ],
+      "end": [
+        2,
+        6
+      ]
+    },
+    {
+      "word": "PENGUIN",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "PRAWN",
+      "start": [
+        1,
+        0
+      ],
+      "end": [
+        1,
+        4
+      ]
+    },
+    {
+      "word": "SANDDOLLAR",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "SEAURCHIN",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        11,
+        1
+      ]
+    },
+    {
+      "word": "WALRUS",
+      "start": [
+        3,
+        8
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "MANATEE",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "SEAL",
+      "start": [
+        5,
+        3
+      ],
+      "end": [
+        8,
+        6
+      ]
+    },
+    {
+      "word": "STARFISH",
+      "start": [
+        11,
+        2
+      ],
+      "end": [
+        11,
+        9
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

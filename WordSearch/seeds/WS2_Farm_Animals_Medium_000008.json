@@ -1,0 +1,250 @@
+{
+  "version": 2,
+  "id": "WS2_Farm_Animals_Medium_000008",
+  "title": "Hayfield Adventure",
+  "category": "Farm Animals",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "HWREBDPHHRNT",
+    "ERXUWFUIRTFI",
+    "NCEPLWWCGLOJ",
+    "HLLAMAUTKGAU",
+    "NPCKOQFAIFLR",
+    "TDYUUIEAERHA",
+    "YOESOOGUENLB",
+    "YNIVUTVTBWWB",
+    "BKUWLRSDYNUI",
+    "IEUOPOYNEIRT",
+    "EYCJOUEUNVRH",
+    "OMVRUIIVOKPT",
+    "GIUNEKCIHCTG",
+    "FUYIMNINLAMB"
+  ],
+  "words": [
+    {
+      "word": "CHICKEN",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        12,
+        3
+      ]
+    },
+    {
+      "word": "COLT",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        7,
+        5
+      ]
+    },
+    {
+      "word": "DONKEY",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        10,
+        1
+      ]
+    },
+    {
+      "word": "DUCK",
+      "start": [
+        0,
+        5
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "EMU",
+      "start": [
+        10,
+        0
+      ],
+      "end": [
+        12,
+        2
+      ]
+    },
+    {
+      "word": "FOAL",
+      "start": [
+        1,
+        10
+      ],
+      "end": [
+        4,
+        10
+      ]
+    },
+    {
+      "word": "GOOSE",
+      "start": [
+        6,
+        6
+      ],
+      "end": [
+        6,
+        2
+      ]
+    },
+    {
+      "word": "HEN",
+      "start": [
+        0,
+        0
+      ],
+      "end": [
+        2,
+        0
+      ]
+    },
+    {
+      "word": "HONEYBEE",
+      "start": [
+        12,
+        8
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "LAMB",
+      "start": [
+        13,
+        8
+      ],
+      "end": [
+        13,
+        11
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        4,
+        11
+      ],
+      "end": [
+        9,
+        11
+      ]
+    },
+    {
+      "word": "ROOSTER",
+      "start": [
+        11,
+        3
+      ],
+      "end": [
+        5,
+        9
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "CALF",
+      "start": [
+        4,
+        2
+      ],
+      "end": [
+        1,
+        5
+      ]
+    },
+    {
+      "word": "LLAMA",
+      "start": [
+        3,
+        1
+      ],
+      "end": [
+        3,
+        5
+      ]
+    },
+    {
+      "word": "PIG",
+      "start": [
+        0,
+        6
+      ],
+      "end": [
+        2,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "COLT",
+      "prefix": "CO",
+      "start": [
+        12,
+        9
+      ],
+      "end": [
+        11,
+        8
+      ],
+      "divergence": [
+        10,
+        7
+      ]
+    },
+    {
+      "target": "GOOSE",
+      "prefix": "GO",
+      "start": [
+        12,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ],
+      "divergence": [
+        10,
+        0
+      ]
+    },
+    {
+      "target": "LAMB",
+      "prefix": "LA",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        3,
+        5
+      ],
+      "divergence": [
+        4,
+        6
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  },
+  "catalogGeneration": "replacement-v1"
+}

@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "id": "WS2_Space_Easy_000008",
+  "title": "Infinite Horizons",
+  "category": "Space",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HILURTUUTM",
+    "IMETEORITE",
+    "AGKRJUIMVR",
+    "SATELLITEC",
+    "JUPITERTNU",
+    "SMYYUFYRUR",
+    "NYOPUMHNSY",
+    "SEKOLCAHGR",
+    "OEBYNUURWE",
+    "LXBULWTNSR",
+    "AEAULRYOHU",
+    "RLBCOAEAFH"
+  ],
+  "words": [
+    {
+      "word": "LAUNCH",
+      "start": [
+        11,
+        1
+      ],
+      "end": [
+        6,
+        6
+      ]
+    },
+    {
+      "word": "MARS",
+      "start": [
+        6,
+        5
+      ],
+      "end": [
+        9,
+        8
+      ]
+    },
+    {
+      "word": "MERCURY",
+      "start": [
+        0,
+        9
+      ],
+      "end": [
+        6,
+        9
+      ]
+    },
+    {
+      "word": "METEORITE",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        9
+      ]
+    },
+    {
+      "word": "MOON",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        8,
+        4
+      ]
+    },
+    {
+      "word": "PLUTO",
+      "start": [
+        6,
+        3
+      ],
+      "end": [
+        10,
+        7
+      ]
+    },
+    {
+      "word": "SATELLITE",
+      "start": [
+        3,
+        0
+      ],
+      "end": [
+        3,
+        8
+      ]
+    },
+    {
+      "word": "SOLAR",
+      "start": [
+        7,
+        0
+      ],
+      "end": [
+        11,
+        0
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "JUPITER",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        4,
+        6
+      ]
+    },
+    {
+      "word": "NEBULA",
+      "start": [
+        6,
+        0
+      ],
+      "end": [
+        11,
+        5
+      ]
+    },
+    {
+      "word": "VENUS",
+      "start": [
+        2,
+        8
+      ],
+      "end": [
+        6,
+        8
+      ]
+    }
+  ],
+  "traps": [],
+  "catalogGeneration": "replacement-v1"
+}

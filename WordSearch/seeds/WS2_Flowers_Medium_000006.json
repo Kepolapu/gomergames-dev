@@ -1,0 +1,250 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Flowers_Medium_000006",
+  "title": "Golden Path",
+  "category": "Flowers",
+  "difficulty": "Medium",
+  "rows": 14,
+  "cols": 12,
+  "grid": [
+    "EMLPOKAEAURE",
+    "ICINPEDAHLIA",
+    "RALMLFKCXYWB",
+    "ORYATOKDAISY",
+    "SNZBUTTERCUP",
+    "NAXGLAKUFFCU",
+    "ATIXIWXYSYSE",
+    "PIOGPKPRDRUS",
+    "DOOVIOLETVCO",
+    "RNVCUHVQOYSR",
+    "AKFUCHSIAYIM",
+    "GHAINOGEBWBI",
+    "OYEXZRVHUWIR",
+    "NIAILONGAMHP"
+  ],
+  "words": [
+    {
+      "word": "BEGONIA",
+      "start": [
+        11,
+        8
+      ],
+      "end": [
+        11,
+        2
+      ]
+    },
+    {
+      "word": "BUTTERCUP",
+      "start": [
+        4,
+        3
+      ],
+      "end": [
+        4,
+        11
+      ]
+    },
+    {
+      "word": "CARNATION",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "DAHLIA",
+      "start": [
+        1,
+        6
+      ],
+      "end": [
+        1,
+        11
+      ]
+    },
+    {
+      "word": "DAISY",
+      "start": [
+        3,
+        7
+      ],
+      "end": [
+        3,
+        11
+      ]
+    },
+    {
+      "word": "FUCHSIA",
+      "start": [
+        10,
+        2
+      ],
+      "end": [
+        10,
+        8
+      ]
+    },
+    {
+      "word": "LILY",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        3,
+        2
+      ]
+    },
+    {
+      "word": "MAGNOLIA",
+      "start": [
+        13,
+        9
+      ],
+      "end": [
+        13,
+        2
+      ]
+    },
+    {
+      "word": "PRIMROSE",
+      "start": [
+        13,
+        11
+      ],
+      "end": [
+        6,
+        11
+      ]
+    },
+    {
+      "word": "SNAPDRAGON",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        13,
+        0
+      ]
+    },
+    {
+      "word": "TULIP",
+      "start": [
+        3,
+        4
+      ],
+      "end": [
+        7,
+        4
+      ]
+    },
+    {
+      "word": "VIOLET",
+      "start": [
+        8,
+        3
+      ],
+      "end": [
+        8,
+        8
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "AZALEA",
+      "start": [
+        5,
+        1
+      ],
+      "end": [
+        0,
+        6
+      ]
+    },
+    {
+      "word": "HIBISCUS",
+      "start": [
+        13,
+        10
+      ],
+      "end": [
+        6,
+        10
+      ]
+    },
+    {
+      "word": "LOTUS",
+      "start": [
+        2,
+        4
+      ],
+      "end": [
+        6,
+        8
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "target": "FUCHSIA",
+      "prefix": "FU",
+      "start": [
+        5,
+        8
+      ],
+      "end": [
+        5,
+        7
+      ],
+      "divergence": [
+        5,
+        6
+      ]
+    },
+    {
+      "target": "MAGNOLIA",
+      "prefix": "MA",
+      "start": [
+        2,
+        3
+      ],
+      "end": [
+        3,
+        3
+      ],
+      "divergence": [
+        4,
+        3
+      ]
+    },
+    {
+      "target": "SNAPDRAGON",
+      "prefix": "SN",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        4,
+        1
+      ],
+      "divergence": [
+        4,
+        2
+      ]
+    }
+  ],
+  "trapCount": 3,
+  "trapRange": {
+    "min": 1,
+    "max": 3
+  }
+}

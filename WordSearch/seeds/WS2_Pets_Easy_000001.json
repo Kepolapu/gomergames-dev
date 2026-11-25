@@ -1,0 +1,150 @@
+{
+  "catalogGeneration": "replacement-v1",
+  "version": 2,
+  "id": "WS2_Pets_Easy_000001",
+  "title": "Companion Trails",
+  "category": "Pets",
+  "difficulty": "Easy",
+  "rows": 12,
+  "cols": 10,
+  "grid": [
+    "HSRFOTRKME",
+    "LCLAEXLIRG",
+    "EGHFTRMTTE",
+    "LOYAYHRTTC",
+    "RLAUMRVEDK",
+    "ADXHNERNTO",
+    "BFPVVTLYOE",
+    "BIXYOFPEUA",
+    "ISHRTPPJOO",
+    "THRRUHDIWN",
+    "XAGPWSORIR",
+    "PCYHDFINCH"
+  ],
+  "words": [
+    {
+      "word": "CHAMELEON",
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        9,
+        9
+      ]
+    },
+    {
+      "word": "GECKO",
+      "start": [
+        1,
+        9
+      ],
+      "end": [
+        5,
+        9
+      ]
+    },
+    {
+      "word": "GOLDFISH",
+      "start": [
+        2,
+        1
+      ],
+      "end": [
+        9,
+        1
+      ]
+    },
+    {
+      "word": "KITTEN",
+      "start": [
+        0,
+        7
+      ],
+      "end": [
+        5,
+        7
+      ]
+    },
+    {
+      "word": "PARROT",
+      "start": [
+        11,
+        0
+      ],
+      "end": [
+        6,
+        5
+      ]
+    },
+    {
+      "word": "PYTHON",
+      "start": [
+        6,
+        2
+      ],
+      "end": [
+        11,
+        7
+      ]
+    },
+    {
+      "word": "RABBIT",
+      "start": [
+        4,
+        0
+      ],
+      "end": [
+        9,
+        0
+      ]
+    },
+    {
+      "word": "RAT",
+      "start": [
+        0,
+        2
+      ],
+      "end": [
+        2,
+        4
+      ]
+    }
+  ],
+  "bonusWords": [
+    {
+      "word": "FERRET",
+      "start": [
+        0,
+        3
+      ],
+      "end": [
+        5,
+        8
+      ]
+    },
+    {
+      "word": "FINCH",
+      "start": [
+        11,
+        5
+      ],
+      "end": [
+        11,
+        9
+      ]
+    },
+    {
+      "word": "PUPPY",
+      "start": [
+        10,
+        3
+      ],
+      "end": [
+        6,
+        7
+      ]
+    }
+  ],
+  "traps": []
+}
